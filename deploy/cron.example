@@ -1,0 +1,18 @@
+# Ancient Antiquity - example crontab (install with: sudo crontab -e, or copy to /etc/cron.d/ancient-antiquity
+# adding the user column "root" after the 5 time fields).
+# Docker installs: deploy/install.sh writes /etc/cron.d/ancient-antiquity for you (backup + certificate renewal).
+# App jobs (emails, reminders, statistics) are not cron entries: they run in the "jobs" container / ancient-antiquity-jobs service.
+# Adjust paths; times are server time (set the VM timezone to Asia/Kolkata: sudo timedatectl set-timezone Asia/Kolkata).
+
+# Nightly backup at 02:30 - plain VM
+30 2 * * *  MEDIA_DIR=/srv/ancient-antiquity/media /srv/ancient-antiquity/deploy/backup.sh >> /var/log/ancient-antiquity-backup.log 2>&1
+
+# Nightly backup at 02:30 - Docker (use instead of the line above)
+# 30 2 * * *  MODE=docker COMPOSE_DIR=/srv/ancient-antiquity /srv/ancient-antiquity/deploy/backup.sh >> /var/log/ancient-antiquity-backup.log 2>&1
+
+# Docker only: renew Let's Encrypt certificates twice a day and reload nginx
+# (plain VM: the certbot package installs its own systemd timer - nothing to add)
+# 17 3,15 * * *  cd /srv/ancient-antiquity && docker compose --profile certbot run --rm certbot renew --quiet && docker compose exec -T frontend nginx -s reload
+
+# Clear expired Django sessions weekly (plain VM; Docker: docker compose exec -T backend python manage.py clearsessions)
+0 4 * * 0  cd /srv/ancient-antiquity/backend && sudo -u ancient .venv/bin/python manage.py clearsessions

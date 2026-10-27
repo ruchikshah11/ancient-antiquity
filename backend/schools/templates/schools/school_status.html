@@ -1,0 +1,14 @@
+{% extends "notifications/base_email.html" %}
+{% block title %}{{ school.name }}{% endblock %}
+{% block content %}
+<p style="margin:0 0 12px;">Dear {{ school.contact_name }},</p>
+{% if verified %}
+<p style="margin:0 0 12px;"><strong>{{ school.name }}</strong>, {{ school.city }} is now <strong style="color:#15803d;">verified</strong> on Ancient Antiquity.</p>
+<p style="margin:0 0 16px;">You can now plan class trips with student prices, free teachers and one QR ticket for the whole class.</p>
+<p style="margin:0 0 16px;"><a href="{{ portal_url }}" style="background:#f57c00;color:#ffffff;text-decoration:none;padding:10px 18px;border-radius:6px;display:inline-block;font-weight:bold;">Plan a class trip</a></p>
+{% else %}
+<p style="margin:0 0 12px;">We could not verify the registration of <strong>{{ school.name }}</strong>.</p>
+{% if school.rejection_reason %}<p style="margin:0 0 12px;background:#f8fafc;border-left:3px solid #dc2626;padding:8px 12px;"><strong>Reason:</strong> {{ school.rejection_reason|linebreaksbr }}</p>{% endif %}
+<p style="margin:0 0 16px;">Please correct the details on the <a href="{{ portal_url }}" style="color:#0277bd;">school trip portal</a> and submit them again.</p>
+{% endif %}
+{% endblock %}

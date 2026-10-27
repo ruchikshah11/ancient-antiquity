@@ -1,0 +1,13 @@
+from django.apps import AppConfig
+
+
+class NotificationsConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'notifications'
+    verbose_name = "Notifications"
+
+    def ready(self):
+        # Booking status changes trigger confirmation / cancellation messages.
+        from . import signals
+
+        signals.connect()

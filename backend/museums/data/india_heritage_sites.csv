@@ -1,0 +1,88 @@
+name,city,state,category,operator,type,tagline,opening_time,closing_time,closed_day,price_indian,price_foreign,price_student,price_child,slot_capacity,featured
+Taj Mahal,Agra,UP,Architecture,asi_monument,monument,Shah Jahan's white-marble mausoleum and a UNESCO World Heritage Site,06:00,18:30,friday,50,1100,50,0,500,yes
+Agra Fort,Agra,UP,History,asi_monument,fort,Red sandstone citadel of the Mughal emperors,,,,50,650,50,0,,yes
+Fatehpur Sikri,Fatehpur Sikri,UP,Architecture,asi_monument,monument,Akbar's abandoned capital with the Buland Darwaza,,,,50,610,50,0,,
+Itmad-ud-Daulah's Tomb,Agra,UP,Architecture,asi_monument,monument,"The jewel box ""Baby Taj"" with pietra dura inlay",,,,,,,,,
+Akbar's Tomb,Agra,UP,Architecture,asi_monument,monument,Mausoleum of Emperor Akbar at Sikandra,,,,,,,,,
+Bara Imambara,Lucknow,UP,Architecture,trust,monument,Nawabi hall with the Bhool Bhulaiya labyrinth,06:00,17:00,none,,,,,300,
+Jhansi Fort,Jhansi,UP,History,asi_monument,fort,Stronghold of Rani Lakshmibai in 1857,,,,,,,,,
+Dhamek Stupa & Sarnath Ruins,Varanasi,UP,Archaeology,asi_monument,monument,Where the Buddha gave his first sermon,,,,,,,,,
+Red Fort,New Delhi,DL,History,asi_monument,fort,Mughal palace-fortress where the Prime Minister hoists the flag,09:30,16:30,monday,50,650,50,0,500,yes
+Qutub Minar,New Delhi,DL,Architecture,asi_monument,monument,The 73-metre victory tower of the Delhi Sultanate,07:00,17:00,,40,600,40,0,,yes
+Humayun's Tomb,New Delhi,DL,Architecture,asi_monument,monument,The garden tomb that inspired the Taj Mahal,,,,40,600,40,0,,yes
+Safdarjung's Tomb,New Delhi,DL,Architecture,asi_monument,monument,The last great Mughal garden tomb,,,,,,,,,
+Tughlaqabad Fort,New Delhi,DL,History,asi_monument,fort,Ruined 14th-century fort of Ghiyasuddin Tughlaq,,,,,,,,,
+Amer Fort,Jaipur,RJ,History,state_monument,fort,Hilltop palace-fort of the Kachwaha Rajputs,,,,100,500,25,0,,yes
+Jantar Mantar,Jaipur,RJ,Science & Technology,state_monument,monument,UNESCO-listed astronomical instruments of Sawai Jai Singh II,09:00,16:30,,50,200,15,0,,
+Hawa Mahal,Jaipur,RJ,Architecture,state_monument,palace,The pink Palace of Winds with 953 windows,09:00,16:30,,50,200,10,0,,yes
+Nahargarh Fort,Jaipur,RJ,History,state_monument,fort,Ridge-top fort overlooking the Pink City,10:00,17:30,,50,200,10,0,,
+Jaigarh Fort,Jaipur,RJ,Military,trust,fort,Home of the Jaivana cannon,09:00,16:30,none,,,,,300,
+Chittorgarh Fort,Chittorgarh,RJ,History,asi_monument,fort,India's largest fort and a UNESCO World Heritage Site,09:45,17:15,,,,,,,yes
+Kumbhalgarh Fort,Kumbhalgarh,RJ,History,asi_monument,fort,Rana Kumbha's fort with a 36 km perimeter wall,09:00,18:00,,,,,,,
+Ranthambore Fort,Sawai Madhopur,RJ,History,asi_monument,fort,Fort inside the Ranthambore tiger reserve,,,,,,,,,
+Bhangarh Fort,Bhangarh,RJ,History,asi_monument,fort,Ruined 17th-century town and fort,,,,,,,,,
+Gwalior Fort,Gwalior,MP,History,asi_monument,fort,"Hill fort with the Man Singh Palace, called the pearl of Indian forts",,,,,,,,,yes
+Khajuraho Group of Monuments,Khajuraho,MP,Architecture,asi_monument,monument,Chandela temples famed for their sculpture,,,,40,600,40,0,,yes
+Buddhist Monuments at Sanchi,Sanchi,MP,Archaeology,asi_monument,monument,The Great Stupa commissioned by Emperor Ashoka,,,,40,600,40,0,,
+Orchha Fort,Orchha,MP,History,state_monument,fort,Bundela palaces on the Betwa river,09:00,17:00,,,,,,,
+"Jahaz Mahal, Mandu",Mandu,MP,Architecture,asi_monument,palace,The Ship Palace between two lakes,,,,,,,,,
+Rock Shelters of Bhimbetka,Bhimbetka,MP,Archaeology,asi_monument,monument,Prehistoric rock paintings up to 10000 years old,07:00,18:00,,,,,,,
+Ajanta Caves,Ajanta,MH,Art & Sculpture,asi_monument,monument,Buddhist cave murals from the 2nd century BCE,09:00,17:30,monday,40,600,40,0,,yes
+Ellora Caves,Ellora,MH,Architecture,asi_monument,monument,"Rock-cut Buddhist, Hindu and Jain caves including the Kailasa temple",06:00,18:00,tuesday,40,600,40,0,,yes
+Daulatabad Fort,Daulatabad,MH,Military,asi_monument,fort,Hill fort with the Chand Minar and a defensive maze,,,,,,,,,
+Bibi Ka Maqbara,Chhatrapati Sambhajinagar,MH,Architecture,asi_monument,monument,The Taj of the Deccan,,,,,,,,,
+Elephanta Caves,Elephanta,MH,Art & Sculpture,asi_monument,monument,Island cave temples with the three-headed Shiva,09:00,17:30,monday,40,600,40,0,,
+Raigad Fort,Raigad,MH,History,asi_monument,fort,Capital of Chhatrapati Shivaji Maharaj,,,,,,,,,
+Shaniwar Wada,Pune,MH,History,asi_monument,fort,Seat of the Peshwas of the Maratha Empire,08:00,18:30,,,,,,,
+Rani ki Vav,Patan,GJ,Architecture,asi_monument,monument,UNESCO-listed stepwell with over 500 sculptures,,,,40,600,40,0,,
+Sun Temple Modhera,Modhera,GJ,Architecture,asi_monument,monument,11th-century Solanki sun temple with a stepped tank,,,,,,,,,
+Champaner-Pavagadh Archaeological Park,Champaner,GJ,Archaeology,asi_monument,monument,UNESCO-listed Sultanate mosques and fortifications,,,,,,,,,
+Group of Monuments at Hampi,Hampi,KA,Architecture,asi_monument,monument,"Ruins of Vijayanagara, including the Vittala temple's stone chariot",,,,40,600,40,0,,yes
+Pattadakal Group of Monuments,Pattadakal,KA,Architecture,asi_monument,monument,UNESCO-listed Chalukyan temples,,,,40,600,40,0,,
+Badami Cave Temples,Badami,KA,Art & Sculpture,asi_monument,monument,Sixth-century rock-cut cave temples,,,,,,,,,
+Gol Gumbaz,Vijayapura,KA,Architecture,asi_monument,monument,Mausoleum with a whispering gallery under a giant dome,,,,,,,,,
+Bidar Fort,Bidar,KA,History,asi_monument,fort,Bahmani capital fort with the Rangin Mahal,,,,,,,,,
+Chitradurga Fort,Chitradurga,KA,Military,asi_monument,fort,Seven-ringed stone fort of the Nayakas,,,,,,,,,
+Tipu Sultan's Summer Palace,Bengaluru,KA,History,asi_monument,palace,Teak palace of Tipu Sultan,08:30,17:30,,,,,,,
+Bangalore Palace,Bengaluru,KA,Architecture,palace,palace,Tudor-style palace of the Wodeyars,10:00,17:30,,,,,,,
+Golconda Fort,Hyderabad,TS,History,asi_monument,fort,Qutb Shahi citadel famed for its acoustics and diamonds,08:00,17:30,,,,,,,yes
+Charminar,Hyderabad,TS,Architecture,asi_monument,monument,The 1591 symbol of Hyderabad,09:00,17:30,,,,,,,yes
+Qutb Shahi Tombs,Hyderabad,TS,Architecture,state_monument,monument,Domed tombs of the Golconda sultans,09:30,17:30,friday,,,,,,
+Ramappa Temple,Palampet,TS,Architecture,asi_monument,monument,UNESCO-listed Kakatiya temple of floating bricks,,,,,,,,,
+Warangal Fort,Warangal,TS,History,asi_monument,fort,Kakatiya capital with the Kakatiya Kala Thoranam gateways,,,,,,,,,
+Chandragiri Fort,Chandragiri,AP,History,state_monument,fort,Vijayanagara fort with the Raja Mahal palace,,,,,,,,,
+Undavalli Caves,Undavalli,AP,Art & Sculpture,asi_monument,monument,Rock-cut caves with a reclining Vishnu,,,,,,,,,
+Group of Monuments at Mahabalipuram,Mamallapuram,TN,Architecture,asi_monument,monument,"Pallava rock-cut temples, the Shore Temple and Arjuna's Penance",,,,40,600,40,0,,yes
+Gingee Fort,Gingee,TN,Military,asi_monument,fort,The Troy of the East on three hills,,,,,,,,,
+Thirumalai Nayakkar Mahal,Madurai,TN,Architecture,state_monument,palace,17th-century Nayak palace with giant pillars,09:00,17:00,,,,,,,
+Vellore Fort,Vellore,TN,History,asi_monument,fort,Moated granite fort and site of the 1806 mutiny,,,,,,,,,
+Fort Dansborg,Tharangambadi,TN,History,state_monument,fort,Danish fort on the Coromandel Coast,10:00,17:45,friday,,,,,,
+Padmanabhapuram Palace,Thuckalay,TN,Architecture,state_monument,palace,Wooden palace of the Travancore kings,09:00,16:30,monday,,,,,,
+Bekal Fort,Kasaragod,KL,History,asi_monument,fort,Keyhole-shaped fort on the Malabar coast,08:00,17:30,,,,,,,
+St. Angelo Fort,Kannur,KL,History,asi_monument,fort,Portuguese sea fort from 1505,,,,,,,,,
+Fort Aguada,Candolim,GA,History,state_monument,fort,17th-century Portuguese fort and lighthouse,09:30,18:00,,,,,,,
+Konark Sun Temple,Konark,OD,Architecture,asi_monument,monument,UNESCO-listed chariot temple of the Sun god,,,,40,600,40,0,,yes
+Udayagiri and Khandagiri Caves,Bhubaneswar,OD,Archaeology,asi_monument,monument,Jain rock-cut caves from the 2nd century BCE,,,,,,,,,
+Nalanda Mahavihara,Nalanda,BR,Archaeology,asi_monument,monument,"Ruins of the ancient university, a UNESCO World Heritage Site",09:00,17:00,,40,600,40,0,,yes
+Vikramshila,Antichak,BR,Archaeology,asi_monument,monument,Ruins of the Pala-era Buddhist university,,,,,,,,,
+Sher Shah Suri Tomb,Sasaram,BR,Architecture,asi_monument,monument,Afghan tomb in the middle of a lake,,,,,,,,,
+Bishnupur Terracotta Temples,Bishnupur,WB,Architecture,asi_monument,monument,Malla-dynasty temples covered in terracotta panels,,,,,,,,,
+Cooch Behar Palace,Cooch Behar,WB,Architecture,asi_monument,palace,Italian Renaissance palace of the Koch kings,,,,,,,,,
+Qila Mubarak,Bathinda,PB,History,asi_monument,fort,One of India's oldest surviving forts,,,,,,,,,
+Gobindgarh Fort,Amritsar,PB,Military,private,fort,Restored Sikh fort with live shows,10:00,22:00,none,,,,,,
+Pinjore Gardens,Pinjore,HR,Architecture,state_monument,palace,Mughal-style terraced gardens,07:00,22:00,,,,,,,
+Kangra Fort,Kangra,HP,History,trust,fort,One of the oldest forts in the Himalayas,09:00,18:00,none,,,,,,
+Rashtrapati Niwas,Shimla,HP,History,central,palace,The former Viceregal Lodge,09:30,17:00,monday,,,,,,
+Bahu Fort,Jammu,JK,History,state_monument,fort,Fort above the Tawi river,,,,,,,,,
+Pari Mahal,Srinagar,JK,Architecture,state_monument,monument,Terraced Mughal garden above Dal Lake,,,,,,,,,
+Shalimar Bagh,Srinagar,JK,Architecture,state_monument,monument,Jahangir's Mughal garden in Kashmir,,,,,,,,,
+Leh Palace,Leh,LA,History,asi_monument,palace,Nine-storey royal palace of the Namgyal dynasty,07:00,16:00,,,,,,,
+Rang Ghar,Sivasagar,AS,Architecture,asi_monument,monument,Ahom royal sports pavilion,,,,,,,,,
+Talatal Ghar,Sivasagar,AS,History,asi_monument,palace,Ahom palace with underground storeys,,,,,,,,,
+Kangla Fort,Imphal,MN,History,state_monument,fort,Ancient seat of Manipur's kings,,,,,,,,,
+Neermahal,Melaghar,TR,Architecture,state_monument,palace,Water palace in Rudrasagar Lake,,,,,,,,,
+Rabdentse Ruins,Pelling,SK,History,asi_monument,monument,Ruins of the second capital of Sikkim,,,,,,,,,
+Sirpur Group of Monuments,Sirpur,CG,Archaeology,asi_monument,monument,Brick Lakshmana temple and Buddhist viharas,,,,,,,,,
+Palamu Fort,Betla,JH,History,state_monument,fort,Twin forts of the Chero kings in the forest,,,,,,,,,
+Ross Island,Sri Vijaya Puram,AN,History,defence,monument,Ruined British settlement reclaimed by the forest,08:30,16:30,wednesday,,,,,,
+Diu Fort,Diu,DH,History,state_monument,fort,Portuguese sea fort from 1535,,,,,,,,,

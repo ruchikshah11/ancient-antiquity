@@ -1,0 +1,16 @@
+{% autoescape off %}Namaste{% if name %} {{ name }}{% endif %},
+
+You started booking tickets for {{ museum.name }} on {{ booking.visit_date|date:"l, j F Y" }} ({{ booking.slot.start_time|time:"H:i" }} entry) but didn't finish. No money was taken.
+
+If you'd still like to go, your date and time are ready - just check the tickets and pay:
+
+{{ link }}
+
+Seats aren't held until you complete the booking, so popular slots can fill up.
+
+Changed your plans? Ignore this email - we send this reminder only once.
+Stop these reminders: {{ unsubscribe_link }}
+
+Need help? {{ support_email }}{% if support_phone %} / {{ support_phone }}{% endif %}
+- Ancient Antiquity
+{% endautoescape %}

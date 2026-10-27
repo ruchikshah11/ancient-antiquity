@@ -1,0 +1,161 @@
+name,city,state,category,operator,tagline,type
+National Gallery of Modern Art,New Delhi,DL,Art & Sculpture,central,Modern and contemporary Indian art at Jaipur House
+National Rail Museum,New Delhi,DL,Science & Technology,railway,Locomotives and carriages from 150 years of Indian Railways
+Pradhanmantri Sangrahalaya,New Delhi,DL,History,central,The story of India's Prime Ministers since independence
+National Gandhi Museum,New Delhi,DL,Memorial,central,Relics and writings of Mahatma Gandhi at Rajghat
+Gandhi Smriti,New Delhi,DL,Memorial,central,The house where Gandhi spent his final days
+National Crafts Museum & Hastkala Academy,New Delhi,DL,Textiles & Crafts,central,Living crafts village and textile galleries
+Shankar's International Dolls Museum,New Delhi,DL,Art & Sculpture,trust,Dolls in costume from over 85 countries
+Sulabh International Museum of Toilets,New Delhi,DL,History,private,A quirky history of sanitation
+National Philatelic Museum,New Delhi,DL,History,central,Rare Indian stamps at Dak Bhawan
+Indian Air Force Museum,New Delhi,DL,Military,defence,Aircraft and memorabilia at Palam
+National Science Centre,New Delhi,DL,Science & Technology,ncsm,Hands-on science galleries near Pragati Maidan
+Swatantrata Sangram Sangrahalaya,New Delhi,DL,Memorial,asi,India's freedom struggle inside the Red Fort
+Purana Qila & Museum,New Delhi,DL,Archaeology,asi,Finds from excavations at the Old Fort,fort
+Kiran Nadar Museum of Art,New Delhi,DL,Art & Sculpture,private,Private collection of modern and contemporary art
+Dr. Bhau Daji Lad Museum,Mumbai,MH,History,trust,Mumbai's oldest museum in a restored Victorian building
+"National Gallery of Modern Art, Mumbai",Mumbai,MH,Art & Sculpture,central,Modern art in the Sir Cowasji Jehangir Hall
+Mani Bhavan Gandhi Sangrahalaya,Mumbai,MH,Memorial,trust,Gandhi's Mumbai residence from 1917 to 1934
+Nehru Science Centre,Mumbai,MH,Science & Technology,ncsm,India's largest interactive science centre
+Raja Dinkar Kelkar Museum,Pune,MH,Art & Sculpture,trust,One man's collection of everyday Indian art objects
+Aga Khan Palace,Pune,MH,Memorial,trust,Where Gandhi was interned during the Quit India movement
+"Central Museum, Nagpur",Nagpur,MH,History,state,Maharashtra's second-oldest museum
+Shahu Chhatrapati Museum (New Palace),Kolhapur,MH,Palace Museum,palace,Royal artefacts of the Kolhapur Chhatrapatis
+Baroda Museum & Picture Gallery,Vadodara,GJ,Art & Sculpture,state,Akota bronzes and European paintings
+Maharaja Fatehsingh Museum,Vadodara,GJ,Palace Museum,palace,Raja Ravi Varma paintings in the Laxmi Vilas estate
+Gandhi Smarak Sangrahalaya (Sabarmati Ashram),Ahmedabad,GJ,Memorial,trust,Gandhi's home and the starting point of the Dandi March
+Lalbhai Dalpatbhai Museum,Ahmedabad,GJ,Archaeology,trust,"Indian sculpture, bronzes and manuscripts"
+Sardar Vallabhbhai Patel National Memorial,Ahmedabad,GJ,Memorial,trust,Life of Sardar Patel in the Moti Shahi Mahal
+Auto World Vintage Car Museum,Ahmedabad,GJ,Science & Technology,private,Over 100 vintage and classic cars
+Watson Museum,Rajkot,GJ,History,state,Colonial-era collection of Saurashtra history
+Kutch Museum,Bhuj,GJ,History,state,Gujarat's oldest museum
+"Archaeological Museum, Lothal",Lothal,GJ,Archaeology,asi,Finds from the Harappan port town
+"Archaeological Museum, Dholavira",Dholavira,GJ,Archaeology,asi,Artefacts from a UNESCO-listed Harappan city
+National Salt Satyagraha Memorial,Dandi,GJ,Memorial,central,Memorial to the 1930 Dandi March
+"City Palace Museum, Jaipur",Jaipur,RJ,Palace Museum,palace,Maharaja Sawai Man Singh II Museum in the City Palace
+Anokhi Museum of Hand Printing,Jaipur,RJ,Textiles & Crafts,private,Block printing in a restored haveli at Amer
+"City Palace Museum, Udaipur",Udaipur,RJ,Palace Museum,palace,Mewar royal collections overlooking Lake Pichola
+Bagore Ki Haveli,Udaipur,RJ,History,trust,18th-century haveli with folk dance evenings
+Umaid Bhawan Palace Museum,Jodhpur,RJ,Palace Museum,palace,Art deco palace and royal clock collection
+Junagarh Fort & Museum,Bikaner,RJ,Palace Museum,palace,"Arms, palanquins and a WWI biplane",fort
+"Government Museum, Ajmer",Ajmer,RJ,Archaeology,state,Housed in Akbar's fort palace
+"Government Museum, Bharatpur",Bharatpur,RJ,Archaeology,state,Sculpture housed in Lohagarh Fort
+Jaisalmer Fort Palace Museum,Jaisalmer,RJ,Palace Museum,palace,Royal quarters inside the living Golden Fort
+"Archaeological Museum, Kalibangan",Kalibangan,RJ,Archaeology,asi,Pre-Harappan and Harappan finds
+Allahabad Museum,Prayagraj,UP,Art & Sculpture,central,"Sculpture, miniature paintings and Nehru memorabilia"
+Anand Bhawan,Prayagraj,UP,Memorial,trust,The Nehru family's ancestral home
+"Archaeological Museum, Fatehpur Sikri",Fatehpur Sikri,UP,Archaeology,asi,Finds from Akbar's capital
+"State Museum, Lucknow",Lucknow,UP,Archaeology,state,"Sculpture, coins and natural history at Banarasi Bagh"
+"1857 Memorial Museum, Residency",Lucknow,UP,Memorial,asi,"The siege of Lucknow, 1857"
+Bharat Kala Bhavan,Varanasi,UP,Art & Sculpture,university,BHU's museum of Indian painting and textiles
+Ramnagar Fort & Museum,Varanasi,UP,Palace Museum,palace,"Vintage cars, arms and royal regalia of Kashi",fort
+"Buddha Museum, Kushinagar",Kushinagar,UP,Archaeology,state,Buddhist art near the site of the Mahaparinirvana
+Birla Industrial & Technological Museum,Kolkata,WB,Science & Technology,ncsm,"India's first science museum, opened 1959"
+Science City,Kolkata,WB,Science & Technology,ncsm,"Space theatre, evolution park and science galleries"
+Asutosh Museum of Indian Art,Kolkata,WB,Art & Sculpture,university,University of Calcutta's folk and Bengal art collection
+Netaji Bhawan,Kolkata,WB,Memorial,trust,Home of Netaji Subhas Chandra Bose
+Rabindra Bharati Museum (Jorasanko Thakurbari),Kolkata,WB,Memorial,university,Tagore's ancestral home
+Gurusaday Museum,Kolkata,WB,Textiles & Crafts,trust,Kantha embroidery and Bengal folk art
+Hazarduari Palace Museum,Murshidabad,WB,Palace Museum,asi,Palace of a thousand doors with Nawabi arms
+Rabindra Bhavana Museum,Santiniketan,WB,Memorial,university,Tagore's life and work at Visva-Bharati
+Himalayan Mountaineering Institute Museum,Darjeeling,WB,History,trust,Everest expedition gear and Tenzing Norgay memorabilia
+Fort St. George Museum,Chennai,TN,History,asi,Colonial history in the 18th-century exchange building
+DakshinaChitra,Chennai,TN,Textiles & Crafts,trust,Living-history museum of South Indian homes and crafts
+Vivekananda House,Chennai,TN,Memorial,trust,Where Swami Vivekananda stayed in 1897
+Thanjavur Art Gallery,Thanjavur,TN,Art & Sculpture,state,Chola bronzes in the Thanjavur palace
+Saraswathi Mahal Library Museum,Thanjavur,TN,History,state,Palm-leaf manuscripts from the Nayak and Maratha courts
+Gandhi Memorial Museum,Madurai,TN,Memorial,trust,Includes the cloth Gandhi wore on 30 January 1948
+Hill Palace Museum,Tripunithura,KL,Palace Museum,state,Former seat of the Kochi royal family
+Mattancherry Palace (Dutch Palace),Kochi,KL,Palace Museum,asi,Kerala murals depicting the Ramayana
+Indo-Portuguese Museum,Kochi,KL,History,trust,Christian art from the Kochi diocese
+Kerala Folklore Museum,Kochi,KL,Textiles & Crafts,private,"Masks, costumes and theatre of Kerala"
+Kuthiramalika Palace Museum,Thiruvananthapuram,KL,Palace Museum,palace,Travancore royal collections beside Padmanabhaswamy Temple
+Pazhassi Raja Archaeological Museum,Kozhikode,KL,Archaeology,state,Megalithic finds and temple models
+Krishnapuram Palace Museum,Kayamkulam,KL,Palace Museum,state,Home of the Gajendra Moksham mural
+"Archaeological Museum, Thrissur",Thrissur,KL,Archaeology,state,Housed in the Kollengode palace
+"Government Museum, Bengaluru",Bengaluru,KA,Archaeology,state,"One of India's oldest museums, founded 1865"
+"National Gallery of Modern Art, Bengaluru",Bengaluru,KA,Art & Sculpture,central,Modern art in the Manikyavelu Mansion
+HAL Heritage Centre and Aerospace Museum,Bengaluru,KA,Science & Technology,private,Aircraft and aero-engines built in India
+Mysore Palace,Mysuru,KA,Palace Museum,palace,Wodeyar palace with the royal portrait gallery
+Jaganmohan Palace Art Gallery,Mysuru,KA,Art & Sculpture,palace,Raja Ravi Varma originals and the Lady with the Lamp
+"Rail Museum, Mysuru",Mysuru,KA,Science & Technology,railway,Royal saloons of the Mysore Maharaja
+"Archaeological Museum, Hampi",Hampi,KA,Archaeology,asi,Vijayanagara sculpture and a scale model of Hampi
+"Archaeological Museum, Badami",Badami,KA,Archaeology,asi,Chalukyan sculpture below the cave temples
+"Archaeological Museum, Aihole",Aihole,KA,Archaeology,asi,The cradle of Indian temple architecture
+"Archaeological Museum, Halebidu",Halebidu,KA,Archaeology,asi,Hoysala sculpture beside the Hoysaleswara temple
+"Archaeological Museum, Vijayapura",Vijayapura,KA,Archaeology,asi,Adil Shahi finds at the Gol Gumbaz
+Shreemanthi Bai Memorial Government Museum,Mangaluru,KA,History,state,Coastal Karnataka history and art
+Telangana State Archaeology Museum,Hyderabad,TS,Archaeology,state,Includes an Egyptian mummy and Buddhist relics
+Chowmahalla Palace,Hyderabad,TS,Palace Museum,palace,The Nizams' palace of four courtyards
+Nizam's Museum (Purani Haveli),Hyderabad,TS,Palace Museum,trust,Gifts and memorabilia of the last Nizam
+Sudha Cars Museum,Hyderabad,TS,Science & Technology,private,Handmade cars shaped like everyday objects
+Birla Science Museum,Hyderabad,TS,Science & Technology,trust,"Science galleries, planetarium and dinosaurium"
+"Archaeological Museum, Kondapur",Kondapur,TS,Archaeology,asi,Satavahana-era finds
+"Archaeological Museum, Amaravati",Amaravati,AP,Archaeology,asi,Sculpture from the Amaravati Mahachaitya
+"Archaeological Museum, Nagarjunakonda",Nagarjunakonda,AP,Archaeology,asi,An island museum of Ikshvaku Buddhist relics
+Victoria Jubilee Museum,Vijayawada,AP,Archaeology,state,Buddhist and Hindu sculpture since 1887
+Visakha Museum,Visakhapatnam,AP,History,state,Maritime and colonial history of Vizag
+INS Kursura Submarine Museum,Visakhapatnam,AP,Military,defence,Walk through a decommissioned Navy submarine
+Sri Venkateswara Museum,Tirupati,AP,History,trust,Temple art and history of Tirumala
+"Archaeological Museum, Khajuraho",Khajuraho,MP,Archaeology,asi,Chandela sculpture from the temple group
+"Archaeological Museum, Sanchi",Sanchi,MP,Archaeology,asi,Mauryan lion capital and Buddhist finds
+Indira Gandhi Rashtriya Manav Sangrahalaya,Bhopal,MP,Tribal & Folk,central,Open-air museum of Indian tribal life
+"State Museum, Bhopal",Bhopal,MP,Archaeology,state,"Sculpture, Jain bronzes and royal collections"
+"Tribal Museum, Bhopal",Bhopal,MP,Tribal & Folk,state,Immersive art by tribal communities of Madhya Pradesh
+Gujari Mahal Archaeological Museum,Gwalior,MP,Archaeology,state,Includes the Shalbhanjika sculpture
+Jai Vilas Palace Museum,Gwalior,MP,Palace Museum,palace,Scindia palace with giant chandeliers
+"Central Museum, Indore",Indore,MP,Archaeology,state,Paramara sculpture of Malwa
+"Archaeological Museum, Chanderi",Chanderi,MP,Archaeology,asi,Sculpture from the Chanderi region
+Patna Museum,Patna,BR,Archaeology,state,Known locally as Jadu Ghar
+"Archaeological Museum, Nalanda",Nalanda,BR,Archaeology,asi,Finds from the ancient Nalanda Mahavihara
+"Archaeological Museum, Vaishali",Vaishali,BR,Archaeology,asi,Relics from the Licchavi capital
+"Archaeological Museum, Bodh Gaya",Bodh Gaya,BR,Archaeology,asi,Railings and sculpture from the Mahabodhi site
+Srikrishna Science Centre,Patna,BR,Science & Technology,ncsm,Interactive science centre near Gandhi Maidan
+"Archaeological Museum, Konark",Konark,OD,Archaeology,asi,Sculpture fallen from the Sun Temple
+"Archaeological Museum, Ratnagiri",Ratnagiri,OD,Archaeology,asi,Buddhist finds from the Ratnagiri monastery
+"Archaeological Museum, Lalitgiri",Lalitgiri,OD,Archaeology,asi,Relic caskets from the Lalitgiri stupa
+Museum of Tribal Arts & Artefacts,Bhubaneswar,OD,Tribal & Folk,state,Life and craft of Odisha's tribes
+Regional Museum of Natural History,Bhubaneswar,OD,Natural History,central,Biodiversity of eastern India
+Jharkhand State Museum,Ranchi,JH,Archaeology,state,Archaeology and tribal heritage at Hotwar
+Dr. Ram Dayal Munda Tribal Welfare Research Institute Museum,Ranchi,JH,Tribal & Folk,state,Tribal life and culture of Jharkhand
+Mahant Ghasidas Memorial Museum,Raipur,CG,Archaeology,state,"Chhattisgarh's oldest museum, founded 1875"
+Purkhauti Muktangan,Nava Raipur,CG,Tribal & Folk,state,Open-air museum of Chhattisgarh's folk culture
+Assam State Museum,Guwahati,AS,Archaeology,state,Sculpture and Ahom-era artefacts
+Srimanta Sankaradeva Kalakshetra,Guwahati,AS,Tribal & Folk,state,Cultural complex of Assam's arts and traditions
+Jawaharlal Nehru State Museum,Itanagar,AR,Tribal & Folk,state,Tribal life of Arunachal Pradesh
+Manipur State Museum,Imphal,MN,Tribal & Folk,state,"Royal boat, costumes and tribal artefacts"
+INA Memorial Complex,Moirang,MN,Memorial,state,Where the INA first hoisted the tricolour in 1944
+Don Bosco Museum,Shillong,ML,Tribal & Folk,trust,Cultures of North-East India across seven floors
+Mizoram State Museum,Aizawl,MZ,Tribal & Folk,state,"Mizo history, costumes and artefacts"
+Nagaland State Museum,Kohima,NL,Tribal & Folk,state,Naga tribal heritage
+Tripura State Museum (Ujjayanta Palace),Agartala,TR,Palace Museum,state,Housed in the former royal palace
+Namgyal Institute of Tibetology,Gangtok,SK,History,trust,"Buddhist icons, thangkas and rare manuscripts"
+Partition Museum,Amritsar,PB,Memorial,trust,People's museum of the 1947 Partition
+Maharaja Ranjit Singh Museum (Ram Bagh),Amritsar,PB,History,state,Arms and art of the Sikh Empire
+Virasat-e-Khalsa,Anandpur Sahib,PB,History,state,500 years of Sikh history and Punjabi culture
+"Archaeological Museum, Sanghol",Sanghol,PB,Archaeology,state,Kushana sculpture from the Sanghol stupa
+"Archaeological Museum, Ropar",Rupnagar,PB,Archaeology,asi,Harappan finds from Ropar
+Government Museum and Art Gallery,Chandigarh,CH,Art & Sculpture,state,Gandhara sculpture and Pahari miniatures
+Le Corbusier Centre,Chandigarh,CH,History,state,Documents the planning of Chandigarh
+Museo Camera,Gurugram,HR,Science & Technology,trust,Centre for photographic arts with vintage cameras
+Kurukshetra Panorama and Science Centre,Kurukshetra,HR,Science & Technology,ncsm,Panorama of the Mahabharata war
+Sri Krishna Museum,Kurukshetra,HR,Art & Sculpture,state,"Krishna in art, archaeology and multimedia"
+Dharohar Museum,Kurukshetra,HR,Tribal & Folk,university,Haryana's folk culture at Kurukshetra University
+Himachal State Museum,Shimla,HP,Art & Sculpture,state,Pahari miniatures and hill sculpture
+Bhuri Singh Museum,Chamba,HP,Art & Sculpture,state,Chamba rumals and Basohli paintings
+Kangra Art Museum,Dharamshala,HP,Art & Sculpture,state,Kangra miniatures and tribal costumes
+Nicholas Roerich Art Gallery,Naggar,HP,Art & Sculpture,trust,Himalayan paintings in Roerich's former home
+Forest Research Institute Museum,Dehradun,UK,Natural History,central,Forestry museums in a colonial-era campus
+Dogra Art Museum,Jammu,JK,Art & Sculpture,state,Basohli and Jammu miniatures
+Amar Mahal Palace Museum,Jammu,JK,Palace Museum,trust,Last royal residence of the Dogra rulers
+Central Asian Museum,Leh,LA,History,trust,Leh's place on the Silk Road trade routes
+Hall of Fame,Leh,LA,Military,defence,Army museum honouring the soldiers of Ladakh
+"Archaeological Museum, Old Goa",Old Goa,GA,Archaeology,asi,Portraits of Portuguese governors in a Franciscan convent
+Naval Aviation Museum,Vasco da Gama,GA,Military,defence,Indian Navy aircraft on open display
+Houses of Goa Museum,Porvorim,GA,History,private,Goan domestic architecture
+Cellular Jail National Memorial,Sri Vijaya Puram,AN,Memorial,central,The Kala Pani prison of the freedom struggle
+Samudrika Naval Marine Museum,Sri Vijaya Puram,AN,Natural History,defence,Marine life and islands of the Andamans
+Anthropological Museum,Sri Vijaya Puram,AN,Tribal & Folk,state,Tribes of the Andaman and Nicobar Islands
+Marine Museum,Kavaratti,LD,Natural History,state,Corals and marine life of Lakshadweep
+Puducherry Museum,Puducherry,PY,Archaeology,state,Arikamedu Roman trade finds and French India
+Diu Museum,Diu,DH,History,state,Statues in the former St. Thomas Church

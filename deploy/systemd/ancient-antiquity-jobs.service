@@ -1,0 +1,30 @@
+# Ancient Antiquity periodic jobs (recovery emails, visit reminders, statistics, exports) - plain Ubuntu VM.
+# Timetable: backend/scripts/run_jobs.py (python scripts/run_jobs.py --list). Docker installs use the "jobs" service.
+#   sudo cp deploy/systemd/ancient-antiquity-jobs.service /etc/systemd/system/
+#   sudo systemctl daemon-reload && sudo systemctl enable --now ancient-antiquity-jobs
+#   journalctl -u ancient-antiquity-jobs -f
+
+[Unit]
+Description=Ancient Antiquity periodic jobs
+After=network-online.target postgresql.service ancient-antiquity.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ancient
+Group=www-data
+WorkingDirectory=/srv/ancient-antiquity/backend
+Environment=CACHE_DIR=/var/cache/ancient-antiquity
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/srv/ancient-antiquity/backend/.venv/bin/python scripts/run_jobs.py
+Restart=always
+RestartSec=30
+
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/srv/ancient-antiquity/media
+
+[Install]
+WantedBy=multi-user.target

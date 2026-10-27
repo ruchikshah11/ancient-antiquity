@@ -1,0 +1,51 @@
+# ---- Secrets: never commit (copy backend/.env.example to backend/.env instead) ----
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ---- Python / Django ----
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.coverage
+htmlcov/
+backend/staticfiles/
+
+# ---- Local database and runtime files ----
+# The working database (about 1.5 GB) is over GitHub's file limit, so it stays local. ALL its data is committed in
+# database/ as 24 MB compressed parts (*.xz.partNN, not matched below); rebuild it with:
+#   python database/restore_database.py
+# -wal / -shm / -journal are SQLite's temporary files while the site runs (no data of their own).
+backend/db.sqlite3
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.sqlite3-journal
+*.restoring
+# unpacked SQL dump (several GB); the compressed parts and schema.sql are committed
+database/*.sql
+!database/schema.sql
+database/tmp*/
+backend/backups/
+backend/logs/
+backend/sent_emails/
+backend/exports/
+backend/media/
+*.log
+
+# ---- Frontend ----
+node_modules/
+frontend/dist/
+frontend/e2e-results/
+frontend/playwright-report/
+test-results/
+.vite/
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

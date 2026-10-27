@@ -1,0 +1,12 @@
+{% extends "notifications/base_email.html" %}
+{% block title %}Your tickets for {{ museum.name }} are waiting{% endblock %}
+{% block content %}
+<p style="margin:0 0 12px;font-size:16px;">Namaste{% if name %} {{ name }}{% endif %},</p>
+<p style="margin:0 0 16px;">You started booking tickets for <strong>{{ museum.name }}</strong> on <strong>{{ booking.visit_date|date:"l, j F Y" }}</strong> ({{ booking.slot.start_time|time:"H:i" }} entry) but didn't finish. No money was taken.</p>
+<p style="margin:0 0 16px;">If you'd still like to go, we've kept your date and time ready &mdash; just check the tickets and pay. Seats aren't held until you complete the booking, so popular slots can fill up.</p>
+<p style="text-align:center;margin:24px 0;">
+  <a href="{{ link }}" style="display:inline-block;background:#c2410c;color:#ffffff;text-decoration:none;padding:11px 22px;border-radius:6px;font-weight:bold;">Finish my booking</a>
+</p>
+<p style="margin:0 0 8px;font-size:13px;color:#64748b;">Or paste this link into your browser:<br><a href="{{ link }}" style="color:#0277bd;word-break:break-all;">{{ link }}</a></p>
+<p style="margin:16px 0 0;font-size:12px;color:#94a3b8;">Changed your plans? No problem &mdash; you can ignore this email. We send this reminder only once. <a href="{{ unsubscribe_link }}" style="color:#94a3b8;">Don't send me booking reminders like this</a>.</p>
+{% endblock %}

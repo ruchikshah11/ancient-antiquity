@@ -1,0 +1,46 @@
+{% extends "notifications/base_email.html" %}
+{% block title %}{% if kind == "cancelled" %}Booking cancelled{% elif is_reminder %}Visit reminder{% else %}Your ticket{% endif %} - {{ booking.reference }}{% endblock %}
+{% block content %}
+<p style="margin:0 0 12px;font-size:16px;">Namaste {{ booking.visitor_name }},</p>
+{% if kind == "cancelled" %}
+<p style="margin:0 0 16px;">Your booking <strong>{{ booking.reference }}</strong> has been <strong style="color:#c2410c;">cancelled</strong>.</p>
+{% if has_refund %}
+<p style="margin:0 0 16px;padding:12px;background:#fff7ed;border-left:4px solid #c2410c;">
+  Refund of <strong>&#8377;{{ booking.refund_amount }}</strong> &mdash; {{ booking.get_refund_status_display }}.
+  {% if booking.refund_status == "pending" %}It usually reaches your account in 5&ndash;7 working days.{% endif %}
+</p>
+{% else %}
+<p style="margin:0 0 16px;color:#64748b;">No refund applies to this booking under the cancellation policy.</p>
+{% endif %}
+{% else %}
+<p style="margin:0 0 16px;">Your visit is <strong style="color:#0277bd;">confirmed</strong>. Show the QR code below (on your phone or printed) at the entrance.</p>
+{% endif %}
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #e2e8f0;border-radius:6px;font-size:14px;">
+  <tr><td style="padding:10px 12px;color:#64748b;width:38%;">Place</td><td style="padding:10px 12px;"><strong>{{ booking.museum.name }}</strong><br><span style="color:#64748b;">{{ booking.museum.address }}, {{ booking.museum.city }}</span></td></tr>
+  <tr><td style="padding:10px 12px;color:#64748b;border-top:1px solid #e2e8f0;">Date</td><td style="padding:10px 12px;border-top:1px solid #e2e8f0;">{{ booking.visit_date|date:"l, j F Y" }}</td></tr>
+  {% if booking.event_title %}<tr><td style="padding:10px 12px;color:#64748b;border-top:1px solid #e2e8f0;">Event</td><td style="padding:10px 12px;border-top:1px solid #e2e8f0;">{{ booking.event_title }}</td></tr>{% endif %}
+  <tr><td style="padding:10px 12px;color:#64748b;border-top:1px solid #e2e8f0;">Time slot</td><td style="padding:10px 12px;border-top:1px solid #e2e8f0;">{{ booking.slot_start_time|time:"H:i" }} &ndash; {{ booking.slot_end_time|time:"H:i" }}</td></tr>
+  <tr><td style="padding:10px 12px;color:#64748b;border-top:1px solid #e2e8f0;">Visitors</td><td style="padding:10px 12px;border-top:1px solid #e2e8f0;">
+    <strong>{{ booking.total_visitors }}</strong>
+    {% for item in items %}<br>{{ item.quantity }} &times; {{ item.ticket_name }} @ &#8377;{{ item.unit_price }}{% endfor %}
+    {% if booking.escort_count %}<br>{{ booking.escort_count }} free escort{{ booking.escort_count|pluralize }}{% endif %}
+  </td></tr>
+  {% if booking.is_group %}
+  <tr><td style="padding:10px 12px;color:#64748b;border-top:1px solid #e2e8f0;">Group</td><td style="padding:10px 12px;border-top:1px solid #e2e8f0;">{{ booking.organisation_name|default:"-" }}{% if booking.group_type %} ({{ booking.get_group_type_display }}){% endif %}</td></tr>
+  {% endif %}
+  <tr><td style="padding:10px 12px;color:#64748b;border-top:1px solid #e2e8f0;">Amount</td><td style="padding:10px 12px;border-top:1px solid #e2e8f0;">&#8377;{{ booking.total_amount }}{% if booking.discount_amount %} <span style="color:#64748b;">(saved &#8377;{{ booking.discount_amount }})</span>{% endif %}{% if booking.payment_method %} &middot; {{ booking.get_payment_method_display }}{% endif %}</td></tr>
+  <tr><td style="padding:10px 12px;color:#64748b;border-top:1px solid #e2e8f0;">Booking reference</td><td style="padding:10px 12px;border-top:1px solid #e2e8f0;font-family:monospace;font-size:16px;"><strong>{{ booking.reference }}</strong></td></tr>
+</table>
+
+{% if show_qr %}
+<p style="text-align:center;margin:24px 0 8px;">
+  <img src="cid:{{ qr_cid }}" width="180" height="180" alt="QR code for {{ booking.reference }}" style="display:inline-block;border:1px solid #e2e8f0;padding:6px;">
+</p>
+<p style="text-align:center;margin:0 0 20px;font-size:12px;color:#64748b;">Can't see the QR code? Give the reference <strong>{{ booking.reference }}</strong> at the gate.</p>
+{% endif %}
+
+<p style="text-align:center;margin:20px 0 4px;">
+  <a href="{{ ticket_url }}" style="display:inline-block;background:#c2410c;color:#ffffff;text-decoration:none;padding:11px 22px;border-radius:6px;font-weight:bold;">View {% if kind == "cancelled" %}booking{% else %}your ticket{% endif %}</a>
+</p>
+{% endblock %}

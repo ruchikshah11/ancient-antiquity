@@ -1,0 +1,20 @@
+Dear {{ donation.donor_name }},
+
+Thank you for supporting India's heritage. We have received your donation.
+
+Receipt number: {{ donation.receipt_number }}
+Date: {{ donation.paid_at|date:"d M Y" }}
+Amount: Rs. {{ donation.amount }} ({{ amount_words }})
+For: {{ donation.purpose }}
+Payment reference: {{ donation.payment_id }}
+{% if donation.is_80g_eligible %}
+This donation is eligible for deduction under section 80G of the Income-tax Act, 1961.
+Donor PAN: {{ donation.donor_pan }}
+{{ trust_name }} - PAN {{ trust_pan }} - 80G registration {{ registration_80g }}
+{% endif %}
+View and print your receipt: {{ receipt_url }}
+
+With gratitude,
+{{ trust_name }}
+
+Need help? Write to {{ support_email }}.

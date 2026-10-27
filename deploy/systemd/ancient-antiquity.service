@@ -1,0 +1,40 @@
+# Ancient Antiquity API (gunicorn) - systemd unit for a plain Ubuntu VM.
+#   sudo cp deploy/systemd/ancient-antiquity.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now ancient-antiquity
+#   journalctl -u ancient-antiquity -f          # logs
+#
+# Django reads its settings from /srv/ancient-antiquity/backend/.env (python-dotenv), so secrets are not
+# repeated here. Only gunicorn tuning is set below.
+
+[Unit]
+Description=Ancient Antiquity API (gunicorn)
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ancient
+Group=www-data
+WorkingDirectory=/srv/ancient-antiquity/backend
+Environment=GUNICORN_BIND=127.0.0.1:8000
+Environment=GUNICORN_WORKERS=3
+Environment=CACHE_DIR=/var/cache/ancient-antiquity
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/srv/ancient-antiquity/backend/.venv/bin/gunicorn -c ancient_antiquity/gunicorn.conf.py ancient_antiquity.wsgi
+ExecReload=/bin/kill -s HUP $MAINPID
+KillMode=mixed
+TimeoutStopSec=30
+Restart=always
+RestartSec=5
+
+# Hardening
+CacheDirectory=ancient-antiquity
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/srv/ancient-antiquity/media
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,102 @@
+# Ancient Antiquity - production stack (PostgreSQL + Django/gunicorn + nginx/React).
+#
+#   cp backend/.env.example backend/.env    # then fill in the Production section (see DEPLOY.md)
+#   docker compose up -d --build
+#   docker compose exec backend python manage.py createsuperuser
+#
+# Easiest: sudo ./deploy/install.sh --domain tickets.example.in --email you@example.in  (does all of this + HTTPS)
+#
+# All secrets live in backend/.env (never commit it). Nothing secret is written in this file.
+name: ancient-antiquity
+
+services:
+  db:
+    image: postgres:16
+    restart: unless-stopped
+    # POSTGRES_PASSWORD is read from backend/.env and must match the password in DATABASE_URL.
+    env_file: backend/.env
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-ancient_antiquity}
+      POSTGRES_USER: ${POSTGRES_USER:-ancient}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    # Not published on the host. To reach it from the VM only: ports: ["127.0.0.1:5432:5432"]
+
+  backend:
+    build: ./backend
+    image: ancient-antiquity-api
+    restart: unless-stopped
+    env_file: backend/.env
+    environment:
+      MEDIA_ROOT: /app/media
+      GUNICORN_BIND: 0.0.0.0:8000
+      # DATABASE_URL comes from backend/.env, e.g. postgres://ancient:<password>@db:5432/ancient_antiquity
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - media:/app/media
+      - exports:/app/exports
+    expose:
+      - "8000"
+
+  # Periodic jobs (recovery emails, visit reminders, statistics, exports) - timetable in backend/scripts/run_jobs.py.
+  # `docker compose logs -f jobs` shows each run.
+  jobs:
+    build: ./backend
+    image: ancient-antiquity-api
+    restart: unless-stopped
+    env_file: backend/.env
+    environment:
+      MEDIA_ROOT: /app/media
+    command: ["python", "scripts/run_jobs.py"]
+    depends_on:
+      db:
+        condition: service_healthy
+      backend:
+        condition: service_started
+    volumes:
+      - media:/app/media
+      - exports:/app/exports
+    healthcheck:
+      disable: true
+
+  frontend:
+    build:
+      context: ./frontend
+      # args:
+      #   VITE_API_URL: ""          # keep empty: the site calls /api on its own domain
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - media:/srv/media:ro
+      - certbot-www:/var/www/certbot:ro
+      - letsencrypt:/etc/letsencrypt:ro
+      # HTTPS is switched on by docker-compose.ssl.yml (deploy/install.sh does that after issuing the certificate).
+
+  # Let's Encrypt certificates (run on demand, not a long-running service):
+  #   docker compose --profile certbot run --rm certbot certonly --webroot -w /var/www/certbot \
+  #       -d tickets.example.in --email you@example.in --agree-tos --no-eff-email
+  #   renew (cron, twice a day): see deploy/cron.example
+  certbot:
+    image: certbot/certbot:v2.11.0
+    profiles: ["certbot"]
+    volumes:
+      - certbot-www:/var/www/certbot
+      - letsencrypt:/etc/letsencrypt
+
+volumes:
+  pgdata:
+  media:
+  exports:
+  certbot-www:
+  letsencrypt:

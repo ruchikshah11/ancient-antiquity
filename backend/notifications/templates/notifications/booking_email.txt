@@ -1,0 +1,23 @@
+{% autoescape off %}Namaste {{ booking.visitor_name }},
+
+{% if kind == "cancelled" %}Your booking {{ booking.reference }} has been CANCELLED.
+{% if has_refund %}Refund: Rs {{ booking.refund_amount }} - {{ booking.get_refund_status_display }}.{% if booking.refund_status == "pending" %} It usually reaches your account in 5-7 working days.{% endif %}{% else %}No refund applies to this booking under the cancellation policy.{% endif %}
+{% elif is_reminder %}REMINDER: your visit is {% if is_soon %}today at {{ booking.slot_start_time|time:"H:i" }}{% else %}TOMORROW{% endif %}. Show your ticket QR code (or the reference below) at the entrance.
+{% else %}Your visit is CONFIRMED. Show your ticket QR code (or the reference below) at the entrance.
+{% endif %}
+Place:      {{ booking.museum.name }}, {{ booking.museum.address }}, {{ booking.museum.city }}
+{% if booking.event_title %}Event:      {{ booking.event_title }}
+{% endif %}Date:       {{ booking.visit_date|date:"l, j F Y" }}
+Time slot:  {{ booking.slot_start_time|time:"H:i" }} - {{ booking.slot_end_time|time:"H:i" }}
+Visitors:   {{ booking.total_visitors }}{% for item in items %}
+            {{ item.quantity }} x {{ item.ticket_name }} @ Rs {{ item.unit_price }}{% endfor %}{% if booking.escort_count %}
+            {{ booking.escort_count }} free escort{{ booking.escort_count|pluralize }}{% endif %}{% if booking.is_group %}
+Group:      {{ booking.organisation_name|default:"-" }}{% if booking.group_type %} ({{ booking.get_group_type_display }}){% endif %}{% endif %}
+Amount:     Rs {{ booking.total_amount }}
+Reference:  {{ booking.reference }}
+
+{% if kind == "cancelled" %}Booking details{% else %}Your ticket{% endif %}: {{ ticket_url }}
+
+Need help? {{ support_email }}{% if support_phone %} / {{ support_phone }}{% endif %}
+- Ancient Antiquity
+{% endautoescape %}

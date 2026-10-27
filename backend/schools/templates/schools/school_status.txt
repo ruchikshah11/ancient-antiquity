@@ -1,0 +1,12 @@
+Dear {{ school.contact_name }},
+{% if verified %}
+{{ school.name }}, {{ school.city }} is now VERIFIED on Ancient Antiquity.
+You can now plan class trips with student prices, free teachers and one QR ticket for the whole class:
+{{ portal_url }}
+{% else %}
+We could not verify the registration of {{ school.name }}.
+{% if school.rejection_reason %}Reason: {{ school.rejection_reason }}
+{% endif %}
+Please correct the details and submit them again: {{ portal_url }}
+{% endif %}
+Need help? {{ support_email }}

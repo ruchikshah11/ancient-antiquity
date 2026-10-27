@@ -1,0 +1,26 @@
+Dear {{ school.contact_name }},
+{% if approved %}
+Your class trip to {{ trip.museum.name }}, {{ trip.museum.city.name }} has been APPROVED.
+
+Request:    {{ trip.reference }}
+School:     {{ school.name }}
+Visit date: {{ trip.approved_date|date:"l, j F Y" }}{% if booking.slot %}
+Entry slot: {{ booking.slot.start_time|time:"H:i" }} - {{ booking.slot.end_time|time:"H:i" }}{% endif %}
+Class:      {{ trip.grades }}: {{ trip.students }} students, {{ trip.teachers }} teacher(s){% if trip.helpers %}, {{ trip.helpers }} helper(s){% endif %}
+Booking:    {{ booking.reference }}
+Amount:     Rs {{ trip.quoted_amount|floatformat:0 }}
+{% if trip.staff_note %}
+Note from the team: {{ trip.staff_note }}
+{% endif %}{% if needs_payment %}
+Please pay by {{ booking.pay_by|date:"j M Y, H:i" }} to keep the seats: {{ checkout_url }}
+The whole class enters on one QR ticket.
+{% else %}
+Nothing to pay. Your class ticket: {{ ticket_url }}
+{% endif %}{% else %}
+We are sorry: your class trip request {{ trip.reference }} to {{ trip.museum.name }} could not be approved.
+{% if trip.staff_note %}
+Reason: {{ trip.staff_note }}
+{% endif %}
+You can plan another date from the school trip portal: {{ portal_url }}
+{% endif %}
+Need help? {{ support_email }}

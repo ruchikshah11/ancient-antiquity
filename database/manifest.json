@@ -1,0 +1,104 @@
+{
+ "exported_at": "2026-10-27T11:50:56",
+ "formats": {
+  "sqlite": {
+   "file": "ancient_antiquity.sqlite3",
+   "size": 1540419584,
+   "sha256": "4f72b89e67671db718b4fdd58dd1f882556af7cc4d2e292bd9a96ff64919ba5c",
+   "parts": [
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part01",
+     "size": 25165824,
+     "sha256": "c673f68db0852b44afd6ff2534e8d0a77f031baf3f3535fa09b327f5e0e2c32f"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part02",
+     "size": 25165824,
+     "sha256": "c304a59c68006bc669a66e88dfe55d5b74c8ce0bb76cb1cc7ded98a4543a5530"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part03",
+     "size": 25165824,
+     "sha256": "04b119d750c0785a52e8aa9eb41943cee976244761d7e1f6b27515906031ec97"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part04",
+     "size": 25165824,
+     "sha256": "55bac52b6ac692efe526cab2be602f6c62700f01f2b12d3a36765cf5f4de9798"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part05",
+     "size": 25165824,
+     "sha256": "b72c74c86b5ad439fae6102fc6c2e339efe4b13b642803ad8bcab580db87365e"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part06",
+     "size": 25165824,
+     "sha256": "d5f2ba17820d9b0d5c93ed1659a85cbbc43c9f203689932071bca240dc5b0892"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part07",
+     "size": 25165824,
+     "sha256": "6aad35ce0ba4d9210e34caba76b3f38c9175a949c5deb892e25c7f3090195b37"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part08",
+     "size": 25165824,
+     "sha256": "66ba318f15a48cfb235e11ffad5e39600073ed8c6834e0a2773200450cc3c912"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part09",
+     "size": 25165824,
+     "sha256": "f7b0cf1d7ca3caa00300de0ab9d0f7d53fe4470483fa817c0e3d8364ef54a960"
+    },
+    {
+     "name": "ancient_antiquity.sqlite3.xz.part10",
+     "size": 7846128,
+     "sha256": "3af820e4ee2fc9fc52a3434258de44e4bad257705de1aa5323f8a348cdf11e9c"
+    }
+   ]
+  },
+  "sql": {
+   "file": "ancient_antiquity.sql",
+   "size": 1576102955,
+   "sha256": "7b0ca9e621b9623578053fd964e0448706a11deca73929296615e235d8e2b806",
+   "parts": [
+    {
+     "name": "ancient_antiquity.sql.xz.part01",
+     "size": 25165824,
+     "sha256": "437fe915be45a06d42f23aae4cae511e16eef0a3141cf1928884dd70608d3919"
+    },
+    {
+     "name": "ancient_antiquity.sql.xz.part02",
+     "size": 25165824,
+     "sha256": "046be38a5c760edf12489edcf7a7aeb58324b072c4559ff3c4a300e44d480b6b"
+    },
+    {
+     "name": "ancient_antiquity.sql.xz.part03",
+     "size": 25165824,
+     "sha256": "36a5e64bfc469abf9a9062ec918ab79aeca7c59a22ebf382e91bdf2094739d46"
+    },
+    {
+     "name": "ancient_antiquity.sql.xz.part04",
+     "size": 25165824,
+     "sha256": "d57d356c658a94a8df9dd3de37e83c2f46da230da341f04f7b64780e2f7eed29"
+    },
+    {
+     "name": "ancient_antiquity.sql.xz.part05",
+     "size": 25165824,
+     "sha256": "f2851d109c2d62a68fa7640dc8a32555e0b9f2e6f29bd167d726fe251477e711"
+    },
+    {
+     "name": "ancient_antiquity.sql.xz.part06",
+     "size": 25165824,
+     "sha256": "e1234ccba092c25b0507929f342e6e9a5efea1692de2c17f1e633c7eb8049452"
+    },
+    {
+     "name": "ancient_antiquity.sql.xz.part07",
+     "size": 24815744,
+     "sha256": "34e21589215375f9aa1e5adaf5f7ad53256bc3427f2327a8562feaa1ef3de209"
+    }
+   ]
+  }
+ }
+}

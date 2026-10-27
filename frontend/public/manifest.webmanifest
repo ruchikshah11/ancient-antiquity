@@ -1,0 +1,22 @@
+{
+  "name": "Ancient Antiquity",
+  "short_name": "Antiquity",
+  "description": "Book entry tickets to museums and heritage sites across India",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0277bd",
+  "background_color": "#f7fbff",
+  "lang": "en-IN",
+  "categories": ["travel", "education"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "My bookings", "url": "/my-bookings", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Explore places", "url": "/museums", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

@@ -1,0 +1,6176 @@
+{
+ "applied": {
+  "1857 Memorial Museum, Residency|Lucknow": [
+   "26.861800",
+   "80.925700"
+  ],
+  "Aga Khan Palace|Pune": [
+   "18.552300",
+   "73.901500"
+  ],
+  "Agra Fort|Agra": [
+   "27.179542",
+   "78.021101"
+  ],
+  "Ajanta Caves|Ajanta": [
+   "20.553333",
+   "75.700278"
+  ],
+  "Akbar's Tomb|Agra": [
+   "27.220440",
+   "77.950310"
+  ],
+  "Allahabad Museum|Prayagraj": [
+   "25.455100",
+   "81.846200"
+  ],
+  "Amar Mahal Palace Museum|Jammu": [
+   "32.748000",
+   "74.872000"
+  ],
+  "Amer Fort|Jaipur": [
+   "26.985900",
+   "75.850700"
+  ],
+  "Anand Bhawan|Prayagraj": [
+   "25.459376",
+   "81.859982"
+  ],
+  "Anokhi Museum of Hand Printing|Jaipur": [
+   "26.992670",
+   "75.850790"
+  ],
+  "Anthropological Museum|Sri Vijaya Puram": [
+   "11.664380",
+   "92.740233"
+  ],
+  "Archaeological Museum, Aihole|Aihole": [
+   "16.018889",
+   "75.881944"
+  ],
+  "Archaeological Museum, Amaravati|Amaravati": [
+   "16.574543",
+   "80.358072"
+  ],
+  "Archaeological Museum, Badami|Badami": [
+   "15.920000",
+   "75.680278"
+  ],
+  "Archaeological Museum, Bodh Gaya|Bodh Gaya": [
+   "24.695000",
+   "84.992500"
+  ],
+  "Archaeological Museum, Chanderi|Chanderi": [
+   "24.720000",
+   "78.130000"
+  ],
+  "Archaeological Museum, Dholavira|Dholavira": [
+   "23.888606",
+   "70.213636"
+  ],
+  "Archaeological Museum, Fatehpur Sikri|Fatehpur Sikri": [
+   "27.094500",
+   "77.667900"
+  ],
+  "Archaeological Museum, Halebidu|Halebidu": [
+   "13.215700",
+   "75.991400"
+  ],
+  "Archaeological Museum, Hampi|Hampi": [
+   "15.335000",
+   "76.462000"
+  ],
+  "Archaeological Museum, Kalibangan|Kalibangan": [
+   "29.474167",
+   "74.130278"
+  ],
+  "Archaeological Museum, Khajuraho|Khajuraho": [
+   "24.851152",
+   "79.923638"
+  ],
+  "Archaeological Museum, Konark|Konark": [
+   "19.890833",
+   "86.100278"
+  ],
+  "Archaeological Museum, Kondapur|Kondapur": [
+   "17.561400",
+   "78.011100"
+  ],
+  "Archaeological Museum, Lalitgiri|Lalitgiri": [
+   "20.589400",
+   "86.250600"
+  ],
+  "Archaeological Museum, Lothal|Lothal": [
+   "22.521389",
+   "72.249444"
+  ],
+  "Archaeological Museum, Nagarjunakonda|Nagarjunakonda": [
+   "16.521894",
+   "79.242850"
+  ],
+  "Archaeological Museum, Nalanda|Nalanda": [
+   "25.136797",
+   "85.443828"
+  ],
+  "Archaeological Museum, Old Goa|Old Goa": [
+   "15.503000",
+   "73.912000"
+  ],
+  "Archaeological Museum, Ratnagiri|Ratnagiri": [
+   "20.641200",
+   "86.335300"
+  ],
+  "Archaeological Museum, Ropar|Rupnagar": [
+   "30.966667",
+   "76.523611"
+  ],
+  "Archaeological Museum, Sanchi|Sanchi": [
+   "23.479410",
+   "77.739616"
+  ],
+  "Archaeological Museum, Sanghol|Sanghol": [
+   "30.790200",
+   "76.401200"
+  ],
+  "Archaeological Museum, Thrissur|Thrissur": [
+   "10.530300",
+   "76.222800"
+  ],
+  "Archaeological Museum, Vaishali|Vaishali": [
+   "26.013700",
+   "85.109000"
+  ],
+  "Archaeological Museum, Vijayapura|Vijayapura": [
+   "16.828823",
+   "75.733309"
+  ],
+  "Assam State Museum|Guwahati": [
+   "26.185288",
+   "91.752382"
+  ],
+  "Asutosh Museum of Indian Art|Kolkata": [
+   "22.569800",
+   "88.360800"
+  ],
+  "Badami Cave Temples|Badami": [
+   "15.918333",
+   "75.684167"
+  ],
+  "Bagore Ki Haveli|Udaipur": [
+   "24.579669",
+   "73.680036"
+  ],
+  "Bahu Fort|Jammu": [
+   "32.726202",
+   "74.880273"
+  ],
+  "Bangalore Palace|Bengaluru": [
+   "12.998595",
+   "77.592009"
+  ],
+  "Bara Imambara|Lucknow": [
+   "26.869167",
+   "80.912778"
+  ],
+  "Baroda Museum & Picture Gallery|Vadodara": [
+   "22.311800",
+   "73.188800"
+  ],
+  "Bekal Fort|Kasaragod": [
+   "12.392222",
+   "75.032500"
+  ],
+  "Bhangarh Fort|Bhangarh": [
+   "27.095833",
+   "76.287500"
+  ],
+  "Bharat Kala Bhavan|Varanasi": [
+   "25.271432",
+   "82.995792"
+  ],
+  "Bibi Ka Maqbara|Chhatrapati Sambhajinagar": [
+   "19.901510",
+   "75.320195"
+  ],
+  "Bidar Fort|Bidar": [
+   "17.924444",
+   "77.526667"
+  ],
+  "Birla Industrial & Technological Museum|Kolkata": [
+   "22.534444",
+   "88.363611"
+  ],
+  "Birla Science Museum|Hyderabad": [
+   "17.403347",
+   "78.470647"
+  ],
+  "Bishnupur Terracotta Temples|Bishnupur": [
+   "23.075000",
+   "87.317000"
+  ],
+  "Buddha Museum, Kushinagar|Kushinagar": [
+   "26.738711",
+   "83.893248"
+  ],
+  "Buddhist Monuments at Sanchi|Sanchi": [
+   "23.479223",
+   "77.739683"
+  ],
+  "Cellular Jail National Memorial|Sri Vijaya Puram": [
+   "11.675000",
+   "92.748000"
+  ],
+  "Central Asian Museum|Leh": [
+   "34.165237",
+   "77.584895"
+  ],
+  "Central Museum, Indore|Indore": [
+   "22.705346",
+   "75.879301"
+  ],
+  "Central Museum, Nagpur|Nagpur": [
+   "21.150904",
+   "79.078194"
+  ],
+  "Champaner-Pavagadh Archaeological Park|Champaner": [
+   "22.483333",
+   "73.533333"
+  ],
+  "Chandragiri Fort|Chandragiri": [
+   "13.582500",
+   "79.305556"
+  ],
+  "Charminar|Hyderabad": [
+   "17.361630",
+   "78.474670"
+  ],
+  "Chitradurga Fort|Chitradurga": [
+   "14.213047",
+   "76.394886"
+  ],
+  "Chittorgarh Fort|Chittorgarh": [
+   "24.881714",
+   "74.646695"
+  ],
+  "Chowmahalla Palace|Hyderabad": [
+   "17.358247",
+   "78.471701"
+  ],
+  "City Palace Museum, Jaipur|Jaipur": [
+   "26.925700",
+   "75.823600"
+  ],
+  "City Palace Museum, Udaipur|Udaipur": [
+   "24.576466",
+   "73.683584"
+  ],
+  "Cooch Behar Palace|Cooch Behar": [
+   "26.326900",
+   "89.438600"
+  ],
+  "DakshinaChitra|Chennai": [
+   "12.822995",
+   "80.241989"
+  ],
+  "Daulatabad Fort|Daulatabad": [
+   "19.942724",
+   "75.213164"
+  ],
+  "Dhamek Stupa & Sarnath Ruins|Varanasi": [
+   "25.380800",
+   "83.024500"
+  ],
+  "Dharohar Museum|Kurukshetra": [
+   "29.961087",
+   "76.819274"
+  ],
+  "Diu Fort|Diu": [
+   "20.714789",
+   "70.996031"
+  ],
+  "Diu Museum|Diu": [
+   "20.715564",
+   "70.989081"
+  ],
+  "Dogra Art Museum|Jammu": [
+   "32.738807",
+   "74.874913"
+  ],
+  "Don Bosco Museum|Shillong": [
+   "25.592979",
+   "91.882528"
+  ],
+  "Dr. Bhau Daji Lad Museum|Mumbai": [
+   "18.979102",
+   "72.834794"
+  ],
+  "Elephanta Caves|Elephanta": [
+   "18.963333",
+   "72.931389"
+  ],
+  "Ellora Caves|Ellora": [
+   "20.026800",
+   "75.177100"
+  ],
+  "Fatehpur Sikri|Fatehpur Sikri": [
+   "27.097240",
+   "77.665233"
+  ],
+  "Forest Research Institute Museum|Dehradun": [
+   "30.343900",
+   "77.999400"
+  ],
+  "Fort Aguada|Candolim": [
+   "15.488000",
+   "73.763000"
+  ],
+  "Fort Dansborg|Tharangambadi": [
+   "11.024592",
+   "79.856010"
+  ],
+  "Fort St. George Museum|Chennai": [
+   "13.080677",
+   "80.287606"
+  ],
+  "Gandhi Memorial Museum|Madurai": [
+   "9.929923",
+   "78.138593"
+  ],
+  "Gandhi Smarak Sangrahalaya (Sabarmati Ashram)|Ahmedabad": [
+   "23.060165",
+   "72.580638"
+  ],
+  "Gandhi Smriti|New Delhi": [
+   "28.601900",
+   "77.214400"
+  ],
+  "Gingee Fort|Gingee": [
+   "12.250100",
+   "79.394800"
+  ],
+  "Gobindgarh Fort|Amritsar": [
+   "31.627112",
+   "74.860408"
+  ],
+  "Gol Gumbaz|Vijayapura": [
+   "16.830031",
+   "75.736097"
+  ],
+  "Golconda Fort|Hyderabad": [
+   "17.383056",
+   "78.401111"
+  ],
+  "Government Museum and Art Gallery|Chandigarh": [
+   "30.748889",
+   "76.787500"
+  ],
+  "Government Museum, Ajmer|Ajmer": [
+   "26.460730",
+   "74.633691"
+  ],
+  "Government Museum, Bengaluru|Bengaluru": [
+   "12.974874",
+   "77.595774"
+  ],
+  "Government Museum, Bharatpur|Bharatpur": [
+   "27.221933",
+   "77.493738"
+  ],
+  "Group of Monuments at Hampi|Hampi": [
+   "15.329409",
+   "76.475538"
+  ],
+  "Group of Monuments at Mahabalipuram|Mamallapuram": [
+   "12.616700",
+   "80.191700"
+  ],
+  "Gujari Mahal Archaeological Museum|Gwalior": [
+   "26.234000",
+   "78.170000"
+  ],
+  "Gurusaday Museum|Kolkata": [
+   "22.455420",
+   "88.303420"
+  ],
+  "Gwalior Fort|Gwalior": [
+   "26.230300",
+   "78.168900"
+  ],
+  "HAL Heritage Centre and Aerospace Museum|Bengaluru": [
+   "12.955431",
+   "77.681386"
+  ],
+  "Hawa Mahal|Jaipur": [
+   "26.923900",
+   "75.826700"
+  ],
+  "Hazarduari Palace Museum|Murshidabad": [
+   "24.186400",
+   "88.268700"
+  ],
+  "Hill Palace Museum|Tripunithura": [
+   "9.952639",
+   "76.364167"
+  ],
+  "Himachal State Museum|Shimla": [
+   "31.103333",
+   "77.150833"
+  ],
+  "Himalayan Mountaineering Institute Museum|Darjeeling": [
+   "27.058370",
+   "88.253939"
+  ],
+  "Houses of Goa Museum|Porvorim": [
+   "15.530273",
+   "73.840536"
+  ],
+  "Humayun's Tomb|New Delhi": [
+   "28.593278",
+   "77.250694"
+  ],
+  "INA Memorial Complex|Moirang": [
+   "24.502255",
+   "93.776882"
+  ],
+  "INS Kursura Submarine Museum|Visakhapatnam": [
+   "17.717086",
+   "83.329812"
+  ],
+  "Indian Air Force Museum|New Delhi": [
+   "28.573889",
+   "77.116944"
+  ],
+  "Indira Gandhi Rashtriya Manav Sangrahalaya|Bhopal": [
+   "23.232279",
+   "77.377610"
+  ],
+  "Indo-Portuguese Museum|Kochi": [
+   "9.962881",
+   "76.240053"
+  ],
+  "Itmad-ud-Daulah's Tomb|Agra": [
+   "27.192500",
+   "78.031944"
+  ],
+  "Jaganmohan Palace Art Gallery|Mysuru": [
+   "12.306837",
+   "76.649861"
+  ],
+  "Jahaz Mahal, Mandu|Mandu": [
+   "22.356600",
+   "75.392500"
+  ],
+  "Jai Vilas Palace Museum|Gwalior": [
+   "26.204700",
+   "78.168600"
+  ],
+  "Jaigarh Fort|Jaipur": [
+   "26.985900",
+   "75.850700"
+  ],
+  "Jaisalmer Fort Palace Museum|Jaisalmer": [
+   "26.912700",
+   "70.912600"
+  ],
+  "Jantar Mantar|Jaipur": [
+   "26.924720",
+   "75.824440"
+  ],
+  "Jawaharlal Nehru State Museum|Itanagar": [
+   "27.102036",
+   "93.625003"
+  ],
+  "Jhansi Fort|Jhansi": [
+   "25.458090",
+   "78.575440"
+  ],
+  "Jharkhand State Museum|Ranchi": [
+   "23.383536",
+   "85.385456"
+  ],
+  "Junagarh Fort & Museum|Bikaner": [
+   "28.022348",
+   "73.318133"
+  ],
+  "Kangla Fort|Imphal": [
+   "24.808000",
+   "93.940000"
+  ],
+  "Kangra Art Museum|Dharamshala": [
+   "32.217671",
+   "76.318381"
+  ],
+  "Kangra Fort|Kangra": [
+   "32.088083",
+   "76.257778"
+  ],
+  "Kerala Folklore Museum|Kochi": [
+   "9.933020",
+   "76.299169"
+  ],
+  "Khajuraho Group of Monuments|Khajuraho": [
+   "24.854422",
+   "79.921427"
+  ],
+  "Kiran Nadar Museum of Art|New Delhi": [
+   "28.528840",
+   "77.220080"
+  ],
+  "Konark Sun Temple|Konark": [
+   "19.887500",
+   "86.094722"
+  ],
+  "Krishnapuram Palace Museum|Kayamkulam": [
+   "9.150284",
+   "76.508775"
+  ],
+  "Kumbhalgarh Fort|Kumbhalgarh": [
+   "25.152677",
+   "73.586285"
+  ],
+  "Kurukshetra Panorama and Science Centre|Kurukshetra": [
+   "29.965844",
+   "76.833422"
+  ],
+  "Kutch Museum|Bhuj": [
+   "23.248611",
+   "69.666389"
+  ],
+  "Kuthiramalika Palace Museum|Thiruvananthapuram": [
+   "8.482400",
+   "76.945500"
+  ],
+  "Lalbhai Dalpatbhai Museum|Ahmedabad": [
+   "23.033172",
+   "72.549898"
+  ],
+  "Le Corbusier Centre|Chandigarh": [
+   "30.729800",
+   "76.799459"
+  ],
+  "Leh Palace|Leh": [
+   "34.166280",
+   "77.586390"
+  ],
+  "Mahant Ghasidas Memorial Museum|Raipur": [
+   "21.243000",
+   "81.645000"
+  ],
+  "Maharaja Fatehsingh Museum|Vadodara": [
+   "22.292100",
+   "73.193800"
+  ],
+  "Maharaja Ranjit Singh Museum (Ram Bagh)|Amritsar": [
+   "31.640567",
+   "74.876424"
+  ],
+  "Mani Bhavan Gandhi Sangrahalaya|Mumbai": [
+   "18.959930",
+   "72.811370"
+  ],
+  "Manipur State Museum|Imphal": [
+   "24.804900",
+   "93.937100"
+  ],
+  "Mattancherry Palace (Dutch Palace)|Kochi": [
+   "9.958000",
+   "76.259000"
+  ],
+  "Mizoram State Museum|Aizawl": [
+   "23.738100",
+   "92.715600"
+  ],
+  "Museo Camera|Gurugram": [
+   "28.469690",
+   "77.080420"
+  ],
+  "Museum of Tribal Arts & Artefacts|Bhubaneswar": [
+   "20.256200",
+   "85.841500"
+  ],
+  "Mysore Palace|Mysuru": [
+   "12.303889",
+   "76.654444"
+  ],
+  "Nagaland State Museum|Kohima": [
+   "25.685000",
+   "94.104900"
+  ],
+  "Nahargarh Fort|Jaipur": [
+   "26.937255",
+   "75.815490"
+  ],
+  "Nalanda Mahavihara|Nalanda": [
+   "25.128135",
+   "85.445594"
+  ],
+  "Namgyal Institute of Tibetology|Gangtok": [
+   "27.315900",
+   "88.604700"
+  ],
+  "National Crafts Museum & Hastkala Academy|New Delhi": [
+   "28.613551",
+   "77.242320"
+  ],
+  "National Gallery of Modern Art, Bengaluru|Bengaluru": [
+   "12.989519",
+   "77.588104"
+  ],
+  "National Gallery of Modern Art, Mumbai|Mumbai": [
+   "18.925800",
+   "72.831300"
+  ],
+  "National Gallery of Modern Art|New Delhi": [
+   "28.610182",
+   "77.234401"
+  ],
+  "National Gandhi Museum|New Delhi": [
+   "28.641800",
+   "77.247500"
+  ],
+  "National Philatelic Museum|New Delhi": [
+   "28.622626",
+   "77.213415"
+  ],
+  "National Rail Museum|New Delhi": [
+   "28.584722",
+   "77.181389"
+  ],
+  "National Salt Satyagraha Memorial|Dandi": [
+   "20.891389",
+   "72.799722"
+  ],
+  "National Science Centre|New Delhi": [
+   "28.614150",
+   "77.244770"
+  ],
+  "Naval Aviation Museum|Vasco da Gama": [
+   "15.374743",
+   "73.838543"
+  ],
+  "Neermahal|Melaghar": [
+   "23.506928",
+   "91.314994"
+  ],
+  "Nehru Science Centre|Mumbai": [
+   "18.990699",
+   "72.818291"
+  ],
+  "Netaji Bhawan|Kolkata": [
+   "22.537583",
+   "88.351250"
+  ],
+  "Nizam's Museum (Purani Haveli)|Hyderabad": [
+   "17.366490",
+   "78.482850"
+  ],
+  "Orchha Fort|Orchha": [
+   "25.350697",
+   "78.644219"
+  ],
+  "Padmanabhapuram Palace|Thuckalay": [
+   "8.250916",
+   "77.326702"
+  ],
+  "Palamu Fort|Betla": [
+   "23.894600",
+   "84.232800"
+  ],
+  "Pari Mahal|Srinagar": [
+   "34.080980",
+   "74.877140"
+  ],
+  "Partition Museum|Amritsar": [
+   "31.625702",
+   "74.879050"
+  ],
+  "Patna Museum|Patna": [
+   "25.612648",
+   "85.133513"
+  ],
+  "Pattadakal Group of Monuments|Pattadakal": [
+   "15.951389",
+   "75.814722"
+  ],
+  "Pazhassi Raja Archaeological Museum|Kozhikode": [
+   "11.292500",
+   "75.778100"
+  ],
+  "Pinjore Gardens|Pinjore": [
+   "30.793306",
+   "76.913292"
+  ],
+  "Pradhanmantri Sangrahalaya|New Delhi": [
+   "28.602608",
+   "77.198774"
+  ],
+  "Puducherry Museum|Puducherry": [
+   "11.934824",
+   "79.834035"
+  ],
+  "Purana Qila & Museum|New Delhi": [
+   "28.608653",
+   "77.241763"
+  ],
+  "Qila Mubarak|Bathinda": [
+   "30.208056",
+   "74.937500"
+  ],
+  "Qutb Shahi Tombs|Hyderabad": [
+   "17.395000",
+   "78.396000"
+  ],
+  "Qutub Minar|New Delhi": [
+   "28.524355",
+   "77.185248"
+  ],
+  "Rabdentse Ruins|Pelling": [
+   "27.301111",
+   "88.253889"
+  ],
+  "Rabindra Bharati Museum (Jorasanko Thakurbari)|Kolkata": [
+   "22.585000",
+   "88.359200"
+  ],
+  "Raigad Fort|Raigad": [
+   "18.233500",
+   "73.440600"
+  ],
+  "Rail Museum, Mysuru|Mysuru": [
+   "12.315875",
+   "76.643859"
+  ],
+  "Raja Dinkar Kelkar Museum|Pune": [
+   "18.510833",
+   "73.854444"
+  ],
+  "Ramappa Temple|Palampet": [
+   "18.259167",
+   "79.943333"
+  ],
+  "Ramnagar Fort & Museum|Varanasi": [
+   "25.270584",
+   "83.024878"
+  ],
+  "Rang Ghar|Sivasagar": [
+   "26.967000",
+   "94.619000"
+  ],
+  "Rani ki Vav|Patan": [
+   "23.858889",
+   "72.101667"
+  ],
+  "Ranthambore Fort|Sawai Madhopur": [
+   "26.020278",
+   "76.455000"
+  ],
+  "Rashtrapati Niwas|Shimla": [
+   "31.103730",
+   "77.141887"
+  ],
+  "Red Fort|New Delhi": [
+   "28.655833",
+   "77.240833"
+  ],
+  "Regional Museum of Natural History|Bhubaneswar": [
+   "20.299611",
+   "85.832063"
+  ],
+  "Rock Shelters of Bhimbetka|Bhimbetka": [
+   "22.938415",
+   "77.613085"
+  ],
+  "Ross Island|Sri Vijaya Puram": [
+   "11.675435",
+   "92.762612"
+  ],
+  "Safdarjung's Tomb|New Delhi": [
+   "28.589300",
+   "77.210600"
+  ],
+  "Samudrika Naval Marine Museum|Sri Vijaya Puram": [
+   "11.672000",
+   "92.726000"
+  ],
+  "Saraswathi Mahal Library Museum|Thanjavur": [
+   "10.791389",
+   "79.136111"
+  ],
+  "Sardar Vallabhbhai Patel National Memorial|Ahmedabad": [
+   "23.061000",
+   "72.591000"
+  ],
+  "Science City|Kolkata": [
+   "22.540556",
+   "88.395833"
+  ],
+  "Shahu Chhatrapati Museum (New Palace)|Kolhapur": [
+   "16.717614",
+   "74.231618"
+  ],
+  "Shalimar Bagh|Srinagar": [
+   "34.142356",
+   "74.862911"
+  ],
+  "Shaniwar Wada|Pune": [
+   "18.519075",
+   "73.855450"
+  ],
+  "Shankar's International Dolls Museum|New Delhi": [
+   "28.630278",
+   "77.241667"
+  ],
+  "Sher Shah Suri Tomb|Sasaram": [
+   "24.948100",
+   "84.009200"
+  ],
+  "Sirpur Group of Monuments|Sirpur": [
+   "21.345225",
+   "82.184814"
+  ],
+  "Sri Krishna Museum|Kurukshetra": [
+   "29.965355",
+   "76.834315"
+  ],
+  "Sri Venkateswara Museum|Tirupati": [
+   "13.683937",
+   "79.343000"
+  ],
+  "Srikrishna Science Centre|Patna": [
+   "25.611000",
+   "85.144000"
+  ],
+  "Srimanta Sankaradeva Kalakshetra|Guwahati": [
+   "26.130600",
+   "91.822400"
+  ],
+  "St. Angelo Fort|Kannur": [
+   "11.854167",
+   "75.371944"
+  ],
+  "State Museum, Bhopal|Bhopal": [
+   "23.247000",
+   "77.392300"
+  ],
+  "State Museum, Lucknow|Lucknow": [
+   "26.845278",
+   "80.954722"
+  ],
+  "Sudha Cars Museum|Hyderabad": [
+   "17.356991",
+   "78.454407"
+  ],
+  "Sulabh International Museum of Toilets|New Delhi": [
+   "28.596600",
+   "77.080800"
+  ],
+  "Sun Temple Modhera|Modhera": [
+   "23.583806",
+   "72.132686"
+  ],
+  "Swatantrata Sangram Sangrahalaya|New Delhi": [
+   "28.656081",
+   "77.240796"
+  ],
+  "Taj Mahal|Agra": [
+   "27.175000",
+   "78.041900"
+  ],
+  "Talatal Ghar|Sivasagar": [
+   "26.966306",
+   "94.624692"
+  ],
+  "Telangana State Archaeology Museum|Hyderabad": [
+   "17.399250",
+   "78.470316"
+  ],
+  "Thanjavur Art Gallery|Thanjavur": [
+   "10.791781",
+   "79.137124"
+  ],
+  "Thirumalai Nayakkar Mahal|Madurai": [
+   "9.914800",
+   "78.124300"
+  ],
+  "Tipu Sultan's Summer Palace|Bengaluru": [
+   "12.959494",
+   "77.573572"
+  ],
+  "Tribal Museum, Bhopal|Bhopal": [
+   "23.234400",
+   "77.384800"
+  ],
+  "Tripura State Museum (Ujjayanta Palace)|Agartala": [
+   "23.836987",
+   "91.282751"
+  ],
+  "Tughlaqabad Fort|New Delhi": [
+   "28.511944",
+   "77.260833"
+  ],
+  "Udayagiri and Khandagiri Caves|Bhubaneswar": [
+   "20.262831",
+   "85.786030"
+  ],
+  "Umaid Bhawan Palace Museum|Jodhpur": [
+   "26.280721",
+   "73.047705"
+  ],
+  "Undavalli Caves|Undavalli": [
+   "16.496870",
+   "80.581780"
+  ],
+  "Vellore Fort|Vellore": [
+   "12.920833",
+   "79.128333"
+  ],
+  "Victoria Jubilee Museum|Vijayawada": [
+   "16.508000",
+   "80.628000"
+  ],
+  "Vikramshila|Antichak": [
+   "25.324400",
+   "87.286700"
+  ],
+  "Virasat-e-Khalsa|Anandpur Sahib": [
+   "31.231944",
+   "76.502500"
+  ],
+  "Visakha Museum|Visakhapatnam": [
+   "17.720707",
+   "83.333831"
+  ],
+  "Vivekananda House|Chennai": [
+   "13.049167",
+   "80.280278"
+  ],
+  "Warangal Fort|Warangal": [
+   "17.956495",
+   "79.615425"
+  ],
+  "Watson Museum|Rajkot": [
+   "22.300244",
+   "70.801921"
+  ]
+ },
+ "cities": {
+  "Agartala|Tripura": {
+   "lat": 23.8312377,
+   "lng": 91.2823821
+  },
+  "Agra|Uttar Pradesh": {
+   "lat": 27.1752554,
+   "lng": 78.0098161
+  },
+  "Ahmedabad|Gujarat": {
+   "lat": 23.0215374,
+   "lng": 72.5800568
+  },
+  "Aihole|Karnataka": {
+   "lat": 16.0204269,
+   "lng": 75.8827044
+  },
+  "Aizawl|Mizoram": {
+   "lat": 23.7277631,
+   "lng": 92.7179947
+  },
+  "Ajanta|Maharashtra": {
+   "lat": 20.532524,
+   "lng": 75.7513692
+  },
+  "Ajmer|Rajasthan": {
+   "lat": 26.4691,
+   "lng": 74.639
+  },
+  "Amaravati|Andhra Pradesh": {
+   "lat": 16.5096679,
+   "lng": 80.5184535
+  },
+  "Amritsar|Punjab": {
+   "lat": 31.6356659,
+   "lng": 74.8787496
+  },
+  "Anandpur Sahib|Punjab": {
+   "lat": 31.2299862,
+   "lng": 76.5005778
+  },
+  "Antichak|Bihar": {
+   "lat": 25.3190778,
+   "lng": 87.2956319
+  },
+  "Badami|Karnataka": {
+   "lat": 15.9203874,
+   "lng": 75.6807865
+  },
+  "Bathinda|Punjab": {
+   "lat": 30.1794814,
+   "lng": 75.0471098
+  },
+  "Bengaluru|Karnataka": {
+   "lat": 12.9767936,
+   "lng": 77.590082
+  },
+  "Betla|Jharkhand": {
+   "lat": 23.890311,
+   "lng": 84.1956407
+  },
+  "Bhangarh|Rajasthan": {
+   "lat": 28.9209376,
+   "lng": 75.3521241
+  },
+  "Bharatpur|Rajasthan": {
+   "lat": 27.0246959,
+   "lng": 77.2920116
+  },
+  "Bhimbetka|Madhya Pradesh": {
+   "lat": 22.9384007,
+   "lng": 77.6133286
+  },
+  "Bhopal|Madhya Pradesh": {
+   "lat": 23.2584857,
+   "lng": 77.401989
+  },
+  "Bhubaneswar|Odisha": {
+   "lat": 20.2602964,
+   "lng": 85.8394521
+  },
+  "Bhuj|Gujarat": {
+   "lat": 23.2472446,
+   "lng": 69.668339
+  },
+  "Bidar|Karnataka": {
+   "lat": 18.0207297,
+   "lng": 77.2487204
+  },
+  "Bikaner|Rajasthan": {
+   "lat": 28.0159286,
+   "lng": 73.3171367
+  },
+  "Bishnupur|West Bengal": {
+   "lat": 23.0757335,
+   "lng": 87.3146343
+  },
+  "Bodh Gaya|Bihar": {
+   "lat": 24.6817365,
+   "lng": 84.968231
+  },
+  "Candolim|Goa": {
+   "lat": 15.5201532,
+   "lng": 73.7659422
+  },
+  "Chamba|Himachal Pradesh": {
+   "lat": 32.6923316,
+   "lng": 76.1631552
+  },
+  "Champaner|Gujarat": {
+   "lat": 22.4848056,
+   "lng": 73.5343679
+  },
+  "Chanderi|Madhya Pradesh": {
+   "lat": 24.7119436,
+   "lng": 78.1372743
+  },
+  "Chandigarh|Chandigarh": {
+   "lat": 30.7334421,
+   "lng": 76.7797143
+  },
+  "Chandragiri|Andhra Pradesh": {
+   "lat": 13.5842501,
+   "lng": 79.3166721
+  },
+  "Chennai|Tamil Nadu": {
+   "lat": 13.0800915,
+   "lng": 80.2807978
+  },
+  "Chhatrapati Sambhajinagar|Maharashtra": {
+   "lat": 19.877263,
+   "lng": 75.3390241
+  },
+  "Chitradurga|Karnataka": {
+   "lat": 14.3049174,
+   "lng": 76.5296667
+  },
+  "Chittorgarh|Rajasthan": {
+   "lat": 24.7171578,
+   "lng": 74.4718129
+  },
+  "Cooch Behar|West Bengal": {
+   "lat": 26.2559197,
+   "lng": 89.4201143
+  },
+  "Dandi|Gujarat": {
+   "lat": 20.8905713,
+   "lng": 72.805908
+  },
+  "Darjeeling|West Bengal": {
+   "lat": 27.0377554,
+   "lng": 88.263176
+  },
+  "Daulatabad|Maharashtra": {
+   "lat": 19.939157,
+   "lng": 75.2195952
+  },
+  "Dehradun|Uttarakhand": {
+   "lat": 30.3255646,
+   "lng": 78.0436813
+  },
+  "Dharamshala|Himachal Pradesh": {
+   "lat": 32.2143039,
+   "lng": 76.3196717
+  },
+  "Dholavira|Gujarat": {
+   "lat": 23.8750114,
+   "lng": 70.2179591
+  },
+  "Diu|Dadra and Nagar Haveli and Daman and Diu": {
+   "lat": 20.7137783,
+   "lng": 70.9853635
+  },
+  "Elephanta|Maharashtra": {
+   "lat": 18.9628995,
+   "lng": 72.93148
+  },
+  "Ellora|Maharashtra": {
+   "lat": 20.0231431,
+   "lng": 75.1630821
+  },
+  "Fatehpur Sikri|Uttar Pradesh": {
+   "lat": 27.0972404,
+   "lng": 77.665233
+  },
+  "Gangtok|Sikkim": {
+   "lat": 27.329046,
+   "lng": 88.6122673
+  },
+  "Gingee|Tamil Nadu": {
+   "lat": 12.2544154,
+   "lng": 79.4157756
+  },
+  "Gurugram|Haryana": {
+   "lat": 28.4646148,
+   "lng": 77.0299194
+  },
+  "Guwahati|Assam": {
+   "lat": 26.1805978,
+   "lng": 91.753943
+  },
+  "Gwalior|Madhya Pradesh": {
+   "lat": 26.2037247,
+   "lng": 78.1573628
+  },
+  "Halebidu|Karnataka": {
+   "lat": 12.5923947,
+   "lng": 76.6913469
+  },
+  "Hampi|Karnataka": {
+   "lat": 15.3358,
+   "lng": 76.4610201
+  },
+  "Hyderabad|Telangana": {
+   "lat": 17.360589,
+   "lng": 78.4740613
+  },
+  "Imphal|Manipur": {
+   "lat": 24.7991162,
+   "lng": 93.9364419
+  },
+  "Indore|Madhya Pradesh": {
+   "lat": 22.7203616,
+   "lng": 75.8681996
+  },
+  "Itanagar|Arunachal Pradesh": {
+   "lat": 27.0979659,
+   "lng": 93.6237291
+  },
+  "Jaipur|Rajasthan": {
+   "lat": 26.9154576,
+   "lng": 75.8189817
+  },
+  "Jaisalmer|Rajasthan": {
+   "lat": 27.0264162,
+   "lng": 70.777512
+  },
+  "Jammu|Jammu and Kashmir": {
+   "lat": 32.7185614,
+   "lng": 74.8580917
+  },
+  "Jhansi|Uttar Pradesh": {
+   "lat": 25.529855,
+   "lng": 78.6527802
+  },
+  "Jodhpur|Rajasthan": {
+   "lat": 26.2967719,
+   "lng": 73.0351433
+  },
+  "Kalibangan|Rajasthan": {
+   "lat": 29.469648,
+   "lng": 74.1347876
+  },
+  "Kangra|Himachal Pradesh": {
+   "lat": 32.0768665,
+   "lng": 76.2985872
+  },
+  "Kannur|Kerala": {
+   "lat": 11.8763836,
+   "lng": 75.3737973
+  },
+  "Kasaragod|Kerala": {
+   "lat": 12.4221964,
+   "lng": 75.1904446
+  },
+  "Kavaratti|Lakshadweep": {
+   "lat": 10.5672203,
+   "lng": 72.6394636
+  },
+  "Kayamkulam|Kerala": {
+   "lat": 9.1723603,
+   "lng": 76.500061
+  },
+  "Khajuraho|Madhya Pradesh": {
+   "lat": 24.8515132,
+   "lng": 79.9259786
+  },
+  "Kochi|Kerala": {
+   "lat": 9.9679032,
+   "lng": 76.2444378
+  },
+  "Kohima|Nagaland": {
+   "lat": 25.6618755,
+   "lng": 94.1019156
+  },
+  "Kolhapur|Maharashtra": {
+   "lat": 16.7028412,
+   "lng": 74.2405329
+  },
+  "Kolkata|West Bengal": {
+   "lat": 22.5726459,
+   "lng": 88.3638953
+  },
+  "Konark|Odisha": {
+   "lat": 19.9074292,
+   "lng": 86.1420195
+  },
+  "Kondapur|Telangana": {
+   "lat": 17.4587912,
+   "lng": 78.3730556
+  },
+  "Kozhikode|Kerala": {
+   "lat": 11.2450558,
+   "lng": 75.7754716
+  },
+  "Kumbhalgarh|Rajasthan": {
+   "lat": 25.1480528,
+   "lng": 73.5827479
+  },
+  "Kurukshetra|Haryana": {
+   "lat": 29.9693747,
+   "lng": 76.8482787
+  },
+  "Kushinagar|Uttar Pradesh": {
+   "lat": 26.7438272,
+   "lng": 83.9162322
+  },
+  "Lalitgiri|Odisha": {
+   "lat": 20.5976269,
+   "lng": 86.2873466
+  },
+  "Leh|Ladakh": {
+   "lat": 34.1642029,
+   "lng": 77.5848133
+  },
+  "Lothal|Gujarat": {
+   "lat": 22.522677,
+   "lng": 72.2493077
+  },
+  "Lucknow|Uttar Pradesh": {
+   "lat": 26.8381,
+   "lng": 80.9346001
+  },
+  "Madurai|Tamil Nadu": {
+   "lat": 9.9261153,
+   "lng": 78.1140983
+  },
+  "Mamallapuram|Tamil Nadu": {
+   "lat": 12.6195981,
+   "lng": 80.1936497
+  },
+  "Mandu|Madhya Pradesh": {
+   "lat": 22.3397517,
+   "lng": 75.4054509
+  },
+  "Mangaluru|Karnataka": {
+   "lat": 12.8698247,
+   "lng": 74.8430125
+  },
+  "Mathura|Uttar Pradesh": {
+   "lat": 27.4955539,
+   "lng": 77.6855554
+  },
+  "Melaghar|Tripura": {
+   "lat": 23.4947164,
+   "lng": 91.3300645
+  },
+  "Modhera|Gujarat": {
+   "lat": 23.581665,
+   "lng": 72.140412
+  },
+  "Moirang|Manipur": {
+   "lat": 24.5005506,
+   "lng": 93.7767476
+  },
+  "Mumbai|Maharashtra": {
+   "lat": 19.054999,
+   "lng": 72.8692035
+  },
+  "Murshidabad|West Bengal": {
+   "lat": 24.1745993,
+   "lng": 88.2721335
+  },
+  "Mysuru|Karnataka": {
+   "lat": 12.3041464,
+   "lng": 76.6529521
+  },
+  "Nagarjunakonda|Andhra Pradesh": {
+   "lat": 16.5223922,
+   "lng": 79.2416262
+  },
+  "Naggar|Himachal Pradesh": {
+   "lat": 32.1132488,
+   "lng": 77.1640042
+  },
+  "Nagpur|Maharashtra": {
+   "lat": 21.1498134,
+   "lng": 79.0820556
+  },
+  "Nalanda|Bihar": {
+   "lat": 25.1364914,
+   "lng": 85.4436546
+  },
+  "Nava Raipur|Chhattisgarh": {
+   "lat": 21.1610268,
+   "lng": 81.7864412
+  },
+  "New Delhi|Delhi": {
+   "lat": 28.6138954,
+   "lng": 77.2090057
+  },
+  "Old Goa|Goa": {
+   "lat": 15.5023329,
+   "lng": 73.9117432
+  },
+  "Orchha|Madhya Pradesh": {
+   "lat": 25.3528706,
+   "lng": 78.6402465
+  },
+  "Palampet|Telangana": {
+   "lat": 18.2676222,
+   "lng": 79.940815
+  },
+  "Panaji|Goa": {
+   "lat": 15.4989946,
+   "lng": 73.8282141
+  },
+  "Patan|Gujarat": {
+   "lat": 23.773753,
+   "lng": 71.6798581
+  },
+  "Patna|Bihar": {
+   "lat": 25.6093239,
+   "lng": 85.1235252
+  },
+  "Pattadakal|Karnataka": {
+   "lat": 15.9484334,
+   "lng": 75.8159703
+  },
+  "Pelling|Sikkim": {
+   "lat": 27.3003722,
+   "lng": 88.2356503
+  },
+  "Pinjore|Haryana": {
+   "lat": 30.8042411,
+   "lng": 76.9149498
+  },
+  "Porvorim|Goa": {
+   "lat": 15.5251356,
+   "lng": 73.828272
+  },
+  "Prayagraj|Uttar Pradesh": {
+   "lat": 25.4381302,
+   "lng": 81.8338005
+  },
+  "Puducherry|Puducherry": {
+   "lat": 11.9340568,
+   "lng": 79.8306447
+  },
+  "Pune|Maharashtra": {
+   "lat": 18.5213738,
+   "lng": 73.8545071
+  },
+  "Raigad|Maharashtra": {
+   "lat": 18.4928092,
+   "lng": 73.138071
+  },
+  "Raipur|Chhattisgarh": {
+   "lat": 21.2380912,
+   "lng": 81.6336993
+  },
+  "Rajkot|Gujarat": {
+   "lat": 22.3053263,
+   "lng": 70.8028377
+  },
+  "Ranchi|Jharkhand": {
+   "lat": 23.3700501,
+   "lng": 85.3250387
+  },
+  "Ratnagiri|Odisha": {
+   "lat": 20.656039,
+   "lng": 86.342811
+  },
+  "Rupnagar|Punjab": {
+   "lat": 31.0917102,
+   "lng": 76.5289701
+  },
+  "Sanchi|Madhya Pradesh": {
+   "lat": 23.4876339,
+   "lng": 77.7360676
+  },
+  "Sanghol|Punjab": {
+   "lat": 30.7842937,
+   "lng": 76.3889486
+  },
+  "Santiniketan|West Bengal": {
+   "lat": 22.8422383,
+   "lng": 88.6556742
+  },
+  "Sasaram|Bihar": {
+   "lat": 24.9509656,
+   "lng": 84.0148733
+  },
+  "Sawai Madhopur|Rajasthan": {
+   "lat": 26.2290186,
+   "lng": 76.3043561
+  },
+  "Shillong|Meghalaya": {
+   "lat": 25.5759931,
+   "lng": 91.8827872
+  },
+  "Shimla|Himachal Pradesh": {
+   "lat": 31.1040393,
+   "lng": 77.1707923
+  },
+  "Sirpur|Chhattisgarh": {
+   "lat": 21.3470248,
+   "lng": 82.1846857
+  },
+  "Sivasagar|Assam": {
+   "lat": 26.9834936,
+   "lng": 94.6394226
+  },
+  "Sri Vijaya Puram|Andaman and Nicobar Islands": {
+   "lat": 11.6645348,
+   "lng": 92.7390448
+  },
+  "Srinagar|Jammu and Kashmir": {
+   "lat": 34.0747444,
+   "lng": 74.8204443
+  },
+  "Thanjavur|Tamil Nadu": {
+   "lat": 10.659037,
+   "lng": 79.2014278
+  },
+  "Tharangambadi|Tamil Nadu": {
+   "lat": 11.029929,
+   "lng": 79.852196
+  },
+  "Thiruvananthapuram|Kerala": {
+   "lat": 8.4882267,
+   "lng": 76.947551
+  },
+  "Thrissur|Kerala": {
+   "lat": 10.4786969,
+   "lng": 76.2736512
+  },
+  "Thuckalay|Tamil Nadu": {
+   "lat": 8.2583669,
+   "lng": 77.3111896
+  },
+  "Tirupati|Andhra Pradesh": {
+   "lat": 13.6316368,
+   "lng": 79.4231711
+  },
+  "Tripunithura|Kerala": {
+   "lat": 9.914987,
+   "lng": 76.3429538
+  },
+  "Udaipur|Rajasthan": {
+   "lat": 24.578721,
+   "lng": 73.6862571
+  },
+  "Undavalli|Andhra Pradesh": {
+   "lat": 16.4958814,
+   "lng": 80.586204
+  },
+  "Vadodara|Gujarat": {
+   "lat": 22.2973142,
+   "lng": 73.1942567
+  },
+  "Vaishali|Bihar": {
+   "lat": 25.7491703,
+   "lng": 85.3972164
+  },
+  "Varanasi|Uttar Pradesh": {
+   "lat": 25.3356491,
+   "lng": 83.0076292
+  },
+  "Vasco da Gama|Goa": {
+   "lat": 15.3984159,
+   "lng": 73.8128829
+  },
+  "Vellore|Tamil Nadu": {
+   "lat": 12.9021849,
+   "lng": 79.061104
+  },
+  "Vijayapura|Karnataka": {
+   "lat": 16.814415,
+   "lng": 75.8933856
+  },
+  "Vijayawada|Andhra Pradesh": {
+   "lat": 16.5115306,
+   "lng": 80.6160469
+  },
+  "Visakhapatnam|Andhra Pradesh": {
+   "lat": 17.6935526,
+   "lng": 83.2921297
+  },
+  "Warangal|Telangana": {
+   "lat": 17.9820644,
+   "lng": 79.5970954
+  }
+ },
+ "nominatim": {
+  "1857 Memorial Museum, Residency, Lucknow, Uttar Pradesh, India": null,
+  "Agartala, Tripura, India": {
+   "class": "place",
+   "lat": 23.8312377,
+   "lng": 91.2823821,
+   "name": "Agartala, Mohanpur, West Tripura, Tripura, 799001, India",
+   "type": "city"
+  },
+  "Agra, Uttar Pradesh, India": {
+   "class": "place",
+   "lat": 27.1752554,
+   "lng": 78.0098161,
+   "name": "Agra, Uttar Pradesh, 280001, India",
+   "type": "city"
+  },
+  "Ahmedabad, Gujarat, India": {
+   "class": "place",
+   "lat": 23.0215374,
+   "lng": 72.5800568,
+   "name": "Ahmedabad, Gujarat, 380001, India",
+   "type": "city"
+  },
+  "Aihole, Karnataka, India": {
+   "class": "tourism",
+   "lat": 16.0204269,
+   "lng": 75.8827044,
+   "name": "Aihole museum, SH133, Kalligudda, Hunagunda taluku, Bagalkote, Karnataka, 587124, India",
+   "type": "museum"
+  },
+  "Aizawl, Mizoram, India": {
+   "class": "place",
+   "lat": 23.7277631,
+   "lng": 92.7179947,
+   "name": "Aizawl, Tlangnuam, Aizawl, Mizoram, 796190, India",
+   "type": "city"
+  },
+  "Ajanta, Maharashtra, India": {
+   "class": "place",
+   "lat": 20.532524,
+   "lng": 75.7513692,
+   "name": "Ajanta, Sillod, Chhatrapati Sambhajinagar District, Maharashtra, 431138, India",
+   "type": "village"
+  },
+  "Ajmer Museum": {
+   "class": "tourism",
+   "lat": 26.4607298,
+   "lng": 74.6336911,
+   "name": "Akbar's Fort & Museum, NH58, Ajmer, Ajmer Tehsil, Ajmer, Rajasthan, 305001, India",
+   "type": "museum"
+  },
+  "Ajmer, Rajasthan, India": {
+   "class": "place",
+   "lat": 26.4691,
+   "lng": 74.639,
+   "name": "Ajmer, Ajmer Tehsil, Ajmer, Rajasthan, India",
+   "type": "city"
+  },
+  "Akbari Fort and Museum, Ajmer": null,
+  "Akbari Fort, Ajmer": null,
+  "Amar Mahal Palace Museum, Jammu, Jammu and Kashmir, India": null,
+  "Amaravati, Andhra Pradesh, India": {
+   "class": "place",
+   "lat": 16.5096679,
+   "lng": 80.5184535,
+   "name": "Amaravati, Andhra Pradesh Capital Region Development Authority, Thullur Mandal, Guntur District, Andhra Pradesh, India",
+   "type": "city"
+  },
+  "Amritsar, Punjab, India": {
+   "class": "place",
+   "lat": 31.6356659,
+   "lng": 74.8787496,
+   "name": "Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+   "type": "city"
+  },
+  "Anand Bhawan, Prayagraj, Uttar Pradesh, India": null,
+  "Anandpur Sahib, Punjab, India": {
+   "class": "railway",
+   "lat": 31.2299862,
+   "lng": 76.5005778,
+   "name": "Anandpur Sahib, NH503, Ghattiwal, Anandpur Sahib, Anandpur Sahib Tahsil, Rupnagar, Punjab, 140118, India",
+   "type": "station"
+  },
+  "Anthropological Museum, Sri Vijaya Puram, Andaman and Nicobar Islands, India": {
+   "class": "tourism",
+   "lat": 11.66438,
+   "lng": 92.7402326,
+   "name": "Zonal Anthropological Museum, Kamaraj Road, Port Blair, Port Blair Tehsil, South Andaman, Andaman and Nicobar Islands, 744101, India",
+   "type": "museum"
+  },
+  "Antichak, Bihar, India": {
+   "class": "healthcare",
+   "lat": 25.3190778,
+   "lng": 87.2956319,
+   "name": "SubCentre, Antichak, NH33, Mathurapur, Kahalgaon, Bhagalpur, Bihar, 813203, India",
+   "type": "centre"
+  },
+  "Archaeological Museum, Aihole, Aihole, Karnataka, India": null,
+  "Archaeological Museum, Amaravati, Amaravati, Andhra Pradesh, India": {
+   "class": "tourism",
+   "lat": 16.574543,
+   "lng": 80.3580722,
+   "name": "Buddhist Archaeological Museum, Amaravathi Main Road, Amaravati, Amaravathi Mandal, Palnadu District, Andhra Pradesh, 522020, India",
+   "type": "museum"
+  },
+  "Archaeological Museum, Badami, Badami, Karnataka, India": null,
+  "Archaeological Museum, Bodh Gaya, Bodh Gaya, Bihar, India": null,
+  "Archaeological Museum, Chanderi, Chanderi, Madhya Pradesh, India": null,
+  "Archaeological Museum, Dholavira, Dholavira, Gujarat, India": null,
+  "Archaeological Museum, Fatehpur Sikri": null,
+  "Archaeological Museum, Fatehpur Sikri, Fatehpur Sikri, Uttar Pradesh, India": null,
+  "Archaeological Museum, Halebidu, Halebidu, Karnataka, India": null,
+  "Archaeological Museum, Hampi, Hampi, Karnataka, India": null,
+  "Archaeological Museum, Kalibangan, Kalibangan, Rajasthan, India": null,
+  "Archaeological Museum, Khajuraho, Khajuraho, Madhya Pradesh, India": {
+   "class": "tourism",
+   "lat": 24.851152,
+   "lng": 79.9236377,
+   "name": "Archaeological Museum, SH5, Khajuraho, Rajnagar Tahsil, Chhatarpur, Madhya Pradesh, 471505, India",
+   "type": "museum"
+  },
+  "Archaeological Museum, Konark, Konark, Odisha, India": null,
+  "Archaeological Museum, Kondapur, Kondapur, Telangana, India": null,
+  "Archaeological Museum, Lalitgiri, Lalitgiri, Odisha, India": null,
+  "Archaeological Museum, Lothal, Lothal, Gujarat, India": null,
+  "Archaeological Museum, Nagarjunakonda, Nagarjunakonda, Andhra Pradesh, India": null,
+  "Archaeological Museum, Nalanda, Nalanda, Bihar, India": null,
+  "Archaeological Museum, Old Goa, Old Goa, Goa, India": null,
+  "Archaeological Museum, Ratnagiri, Ratnagiri, Odisha, India": null,
+  "Archaeological Museum, Ropar, Rupnagar, Punjab, India": null,
+  "Archaeological Museum, Vaishali, Vaishali, Bihar, India": null,
+  "Art Gallery, Thanjavur": null,
+  "Assam State Museum, Guwahati, Assam, India": {
+   "class": "tourism",
+   "lat": 26.1852883,
+   "lng": 91.752382,
+   "name": "Assam State Museum, G.N.B Road, Paltan Baazar, Islumpur, Guwahati Club, Guwahati, Kamrup Metropolitan, Assam, 781004, India",
+   "type": "museum"
+  },
+  "Auto World Vintage Car Museum": null,
+  "Auto World Vintage Car Museum, Ahmedabad": null,
+  "Auto World Vintage Car Museum, Ahmedabad, Gujarat, India": null,
+  "Badami, Karnataka, India": {
+   "class": "place",
+   "lat": 15.9203874,
+   "lng": 75.6807865,
+   "name": "Badami, Badami taluku, Bagalkote, Karnataka, 587200, India",
+   "type": "town"
+  },
+  "Bahu Fort, Jammu, Jammu and Kashmir, India": {
+   "class": "historic",
+   "lat": 32.7262024,
+   "lng": 74.8802729,
+   "name": "Bahu Fort, Circular Road, Prem Nagar, Jammu, Jammu district, Jammu and Kashmir, 180001, India",
+   "type": "fort"
+  },
+  "Bangalore Palace, Bengaluru, Karnataka, India": {
+   "class": "tourism",
+   "lat": 12.9985954,
+   "lng": 77.5920086,
+   "name": "Bangalore Palace, Jayamahal Road, Rajamahal, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560006, India",
+   "type": "attraction"
+  },
+  "Bathinda, Punjab, India": {
+   "class": "boundary",
+   "lat": 30.1794814,
+   "lng": 75.0471098,
+   "name": "Bathinda, Punjab, India",
+   "type": "administrative"
+  },
+  "Bejai Museum": null,
+  "Bengaluru, Karnataka, India": {
+   "class": "boundary",
+   "lat": 12.9767936,
+   "lng": 77.590082,
+   "name": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+   "type": "administrative"
+  },
+  "Betla, Jharkhand, India": {
+   "class": "place",
+   "lat": 23.890311,
+   "lng": 84.1956407,
+   "name": "Betla, Barwadih, Latehar, Jharkhand, 822111, India",
+   "type": "village"
+  },
+  "Bhangarh Fort, Bhangarh, Rajasthan, India": null,
+  "Bhangarh, Rajasthan, India": {
+   "class": "place",
+   "lat": 28.9209376,
+   "lng": 75.3521241,
+   "name": "Bhangarh, Bhadra Tehsil, Hanumangarh, Rajasthan, India",
+   "type": "village"
+  },
+  "Bharat Kala Bhavan, Varanasi, Uttar Pradesh, India": {
+   "class": "tourism",
+   "lat": 25.2714317,
+   "lng": 82.9957924,
+   "name": "Bharat Kala Bhavan, Semi Circle  RD, Karbirdas Colony, Varanasi, Sadar, Varanasi, Uttar Pradesh, 221005, India",
+   "type": "museum"
+  },
+  "Bharatpur Museum": {
+   "class": "tourism",
+   "lat": 27.221933,
+   "lng": 77.4937377,
+   "name": "Bharatpur Museum, SH43, Tontpur, Bharatpur, Bharatpur Tehsil, Bharatpur, Rajasthan, 321001, India",
+   "type": "museum"
+  },
+  "Bharatpur, Rajasthan, India": {
+   "class": "boundary",
+   "lat": 27.0246959,
+   "lng": 77.2920116,
+   "name": "Bharatpur, Rajasthan, India",
+   "type": "administrative"
+  },
+  "Bhimbetka, Madhya Pradesh, India": {
+   "class": "tourism",
+   "lat": 22.9384007,
+   "lng": 77.6133286,
+   "name": "Rock Shelters of Bhimbetka, NH46, Bhiyanpur, Obaidullaganj, Goharganj Tahsil, Raisen, Madhya Pradesh, 464990, India",
+   "type": "attraction"
+  },
+  "Bhopal, Madhya Pradesh, India": {
+   "class": "place",
+   "lat": 23.2584857,
+   "lng": 77.401989,
+   "name": "Bhopal, Huzur Tahsil, Bhopal, Madhya Pradesh, 462001, India",
+   "type": "city"
+  },
+  "Bhubaneswar, Odisha, India": {
+   "class": "place",
+   "lat": 20.2602964,
+   "lng": 85.8394521,
+   "name": "Bhubaneshwar, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751001, India",
+   "type": "city"
+  },
+  "Bhuj, Gujarat, India": {
+   "class": "place",
+   "lat": 23.2472446,
+   "lng": 69.668339,
+   "name": "Bhuj, Bhuj Taluka, Kachchh, Gujarat, 370001, India",
+   "type": "city"
+  },
+  "Bhuri Singh Museum, Chamba": null,
+  "Bhuri Singh Museum, Chamba, Himachal Pradesh, India": null,
+  "Bidar, Karnataka, India": {
+   "class": "boundary",
+   "lat": 18.0207297,
+   "lng": 77.2487204,
+   "name": "Bidar, Karnataka, India",
+   "type": "administrative"
+  },
+  "Bikaner, Rajasthan, India": {
+   "class": "place",
+   "lat": 28.0159286,
+   "lng": 73.3171367,
+   "name": "Bikaner, Bikaner Tehsil, Bikaner, Rajasthan, 334001, India",
+   "type": "city"
+  },
+  "Bishnupur, West Bengal, India": {
+   "class": "landuse",
+   "lat": 23.0757335,
+   "lng": 87.3146343,
+   "name": "Bishnupur, Vishnupur, Bankura, West Bengal, India",
+   "type": "residential"
+  },
+  "Bodh Gaya, Bihar, India": {
+   "class": "amenity",
+   "lat": 24.6817365,
+   "lng": 84.968231,
+   "name": "Indian Institute of Management Bodh Gaya, Gaya-Dobhi-Road, Bodhgaya, Gaya, Bihar, 824231, India",
+   "type": "university"
+  },
+  "Buddha Museum, Kushinagar, Kushinagar, Uttar Pradesh, India": {
+   "class": "tourism",
+   "lat": 26.7387113,
+   "lng": 83.8932475,
+   "name": "Govt. Buddha Museum, Buddha Marg, Junhgava, Kushinagar, Kasya, Kushinagar, Uttar Pradesh, 274402, India",
+   "type": "museum"
+  },
+  "Candolim, Goa, India": {
+   "class": "place",
+   "lat": 15.5201532,
+   "lng": 73.7659422,
+   "name": "Candolim, Calangute, Bardez, North Goa, Goa, 403515, India",
+   "type": "suburb"
+  },
+  "Cellular Jail National Memorial, Sri Vijaya Puram, Andaman and Nicobar Islands, India": null,
+  "Central Asian Museum, Leh, Ladakh, India": {
+   "class": "tourism",
+   "lat": 34.1652367,
+   "lng": 77.5848945,
+   "name": "Central Asian Museum, Main Bazaar, Matsik Chulung, Leh, Leh district, Ladakh, 194195, India",
+   "type": "museum"
+  },
+  "Central Museum, Nagpur, Nagpur, Maharashtra, India": {
+   "class": "tourism",
+   "lat": 21.1509036,
+   "lng": 79.0781941,
+   "name": "Nagpur Central Museum, Civil Lines Road, Ramdaspeth, Nagpur, Nagpur Urban Taluka, Nagpur, Maharashtra, 440001, India",
+   "type": "museum"
+  },
+  "Chamba Museum": null,
+  "Chamba, Himachal Pradesh, India": {
+   "class": "boundary",
+   "lat": 32.6923316,
+   "lng": 76.1631552,
+   "name": "Chamba, Himachal Pradesh, India",
+   "type": "administrative"
+  },
+  "Champaner, Gujarat, India": {
+   "class": "place",
+   "lat": 22.4848056,
+   "lng": 73.5343679,
+   "name": "Champaner, Halol Taluka, Panchmahal, Gujarat, India",
+   "type": "town"
+  },
+  "Chanderi, Madhya Pradesh, India": {
+   "class": "place",
+   "lat": 24.7119436,
+   "lng": 78.1372743,
+   "name": "Chanderi, Chanderi Tahsil, Ashoknagar, Madhya Pradesh, 473446, India",
+   "type": "town"
+  },
+  "Chandigarh, Chandigarh, India": {
+   "class": "place",
+   "lat": 30.7334421,
+   "lng": 76.7797143,
+   "name": "Chandigarh, 160018, India",
+   "type": "city"
+  },
+  "Chandragiri, Andhra Pradesh, India": {
+   "class": "place",
+   "lat": 13.5842501,
+   "lng": 79.3166721,
+   "name": "Chandragiri, Chandragiri Mandal, Tirupati District, Andhra Pradesh, 517100, India",
+   "type": "town"
+  },
+  "Chennai, Tamil Nadu, India": {
+   "class": "boundary",
+   "lat": 13.0800915,
+   "lng": 80.2807978,
+   "name": "Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, India",
+   "type": "administrative"
+  },
+  "Chhatrapati Sambhajinagar, Maharashtra, India": {
+   "class": "place",
+   "lat": 19.877263,
+   "lng": 75.3390241,
+   "name": "Chhatrapati Sambhajinagar, Chhatrapati Sambhajinagar District, Maharashtra, 431002, India",
+   "type": "city"
+  },
+  "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai, Maharashtra, India": {
+   "class": "tourism",
+   "lat": 18.9269268,
+   "lng": 72.8326498,
+   "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, 159-161, Mahatma Gandhi Road, Kala Ghoda, Fort, A Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400023, India",
+   "type": "museum"
+  },
+  "Chitradurga Fort, Chitradurga, Karnataka, India": {
+   "class": "highway",
+   "lat": 14.2130469,
+   "lng": 76.3948857,
+   "name": "Chitradurga Fort, Chitradurga, Chitradurga taluku, Chitradurga, Karnataka, 577500, India",
+   "type": "footway"
+  },
+  "Chitradurga, Karnataka, India": {
+   "class": "boundary",
+   "lat": 14.3049174,
+   "lng": 76.5296667,
+   "name": "Chitradurga, Karnataka, India",
+   "type": "administrative"
+  },
+  "Chittorgarh Fort, Chittorgarh, Rajasthan, India": {
+   "class": "historic",
+   "lat": 24.8817143,
+   "lng": 74.6466948,
+   "name": "Chittorgarh Fort, MDR209, Chittauri Ka Khera, Chittauri, Chittaurgarh Tehsil, Chittorgarh, Rajasthan, 312001, India",
+   "type": "fort"
+  },
+  "Chittorgarh, Rajasthan, India": {
+   "class": "boundary",
+   "lat": 24.7171578,
+   "lng": 74.4718129,
+   "name": "Chittorgarh, Rajasthan, India",
+   "type": "administrative"
+  },
+  "City Palace Museum, Jaipur, Jaipur, Rajasthan, India": null,
+  "City Palace Museum, Udaipur, Udaipur, Rajasthan, India": {
+   "class": "tourism",
+   "lat": 24.5764662,
+   "lng": 73.6835836,
+   "name": "City Palace, Bhatiyani Chotta, Udaipur, Girwa Tehsil, Udaipur, Rajasthan, 313001, India",
+   "type": "museum"
+  },
+  "Cooch Behar, West Bengal, India": {
+   "class": "boundary",
+   "lat": 26.2559197,
+   "lng": 89.4201143,
+   "name": "Cooch Behar, West Bengal, India",
+   "type": "administrative"
+  },
+  "DakshinaChitra, Chennai, Tamil Nadu, India": null,
+  "Dandi, Gujarat, India": {
+   "class": "place",
+   "lat": 20.8905713,
+   "lng": 72.805908,
+   "name": "Dandi, Jalalpore Taluka, Navsari, Gujarat, 396439, India",
+   "type": "village"
+  },
+  "Darjeeling, West Bengal, India": {
+   "class": "place",
+   "lat": 27.0377554,
+   "lng": 88.263176,
+   "name": "Darjeeling, Darjeeling Pulbazar, Darjeeling, West Bengal, 734101, India",
+   "type": "city"
+  },
+  "Dastan Estate, Ahmedabad": null,
+  "Daulatabad, Maharashtra, India": {
+   "class": "place",
+   "lat": 19.939157,
+   "lng": 75.2195952,
+   "name": "Daulatabad, Chhatrapati Sambhajinagar, Chhatrapati Sambhajinagar District, Maharashtra, India",
+   "type": "village"
+  },
+  "Dehradun, Uttarakhand, India": {
+   "class": "place",
+   "lat": 30.3255646,
+   "lng": 78.0436813,
+   "name": "Dehradun, Uttarakhand, 248001, India",
+   "type": "city"
+  },
+  "Dharamshala, Himachal Pradesh, India": {
+   "class": "place",
+   "lat": 32.2143039,
+   "lng": 76.3196717,
+   "name": "Dharamshala, Kangra, Himachal Pradesh, 176200, India",
+   "type": "city"
+  },
+  "Dharohar Museum, Kurukshetra, Haryana, India": {
+   "class": "tourism",
+   "lat": 29.961087,
+   "lng": 76.8192736,
+   "name": "Dharohar, SH6, Thanesar, Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+   "type": "museum"
+  },
+  "Dholavira, Gujarat, India": {
+   "class": "place",
+   "lat": 23.8750114,
+   "lng": 70.2179591,
+   "name": "Dholavira, Bhachau Taluka, Kachchh, Gujarat, 370165, India",
+   "type": "village"
+  },
+  "Diu Fort, Diu, Dadra and Nagar Haveli and Daman and Diu, India": {
+   "class": "amenity",
+   "lat": 20.4172444,
+   "lng": 72.8374145,
+   "name": "Nani Daman Post Office, Daman Road, Fort, Daman, Dadra and Nagar Haveli and Daman and Diu, 396210, India",
+   "type": "post_office"
+  },
+  "Diu Museum, Diu, Dadra and Nagar Haveli and Daman and Diu, India": {
+   "class": "tourism",
+   "lat": 20.7155637,
+   "lng": 70.9890805,
+   "name": "Diu Museum (St. Thomas Church), Firangiwada road, Zampa Gate, Diu, Dadra and Nagar Haveli and Daman and Diu, 362540, India",
+   "type": "museum"
+  },
+  "Diu, Dadra and Nagar Haveli and Daman and Diu, India": {
+   "class": "place",
+   "lat": 20.7137783,
+   "lng": 70.9853635,
+   "name": "Diu, Dadra and Nagar Haveli and Daman and Diu, 362540, India",
+   "type": "town"
+  },
+  "Diwan-i-Aam, Fatehpur Sikri": null,
+  "Dogra Art Museum, Jammu, Jammu and Kashmir, India": {
+   "class": "tourism",
+   "lat": 32.7388073,
+   "lng": 74.8749129,
+   "name": "Dogra Art Museum, Circular Road, Prade, Prem Nagar, Jammu, Jammu district, Jammu and Kashmir, 180001, India",
+   "type": "museum"
+  },
+  "Don Bosco Museum, Shillong, Meghalaya, India": {
+   "class": "tourism",
+   "lat": 25.5929791,
+   "lng": 91.8825275,
+   "name": "Don Bosco Museum, Sacred Heart Road, Shillong, Mylliem, East Khasi Hills, Meghalaya, 793001, India",
+   "type": "museum"
+  },
+  "Dr. Bhau Daji Lad Museum, Mumbai, Maharashtra, India": {
+   "class": "tourism",
+   "lat": 18.9791016,
+   "lng": 72.8347935,
+   "name": "Dr. Bhau Daji Lad Museum, Dr Baba Saheb Ambedkar Marg (Victoria Garden Road), Byculla East, E Ward, Mumbai Zone 1, Mumbai, Mumbai City District, Maharashtra, 400027, India",
+   "type": "museum"
+  },
+  "Dr. Ram Dayal Munda Tribal Welfare Research Institute Museum, Ranchi, Jharkhand, India": null,
+  "Elephanta, Maharashtra, India": {
+   "class": "tourism",
+   "lat": 18.9628995,
+   "lng": 72.93148,
+   "name": "Elephanta Caves, Path to caves, Raigad, Maharashtra, India",
+   "type": "attraction"
+  },
+  "Ellora, Maharashtra, India": {
+   "class": "place",
+   "lat": 20.0231431,
+   "lng": 75.1630821,
+   "name": "Ellora, Khuldabad, Chhatrapati Sambhajinagar District, Maharashtra, India",
+   "type": "village"
+  },
+  "Fatehpur Sikri Museum": null,
+  "Fatehpur Sikri, Fatehpur Sikri, Uttar Pradesh, India": {
+   "class": "tourism",
+   "lat": 27.0972404,
+   "lng": 77.665233,
+   "name": "Fatehpur Sikri, SH45, Fatehpur Sikri, Kiraoli, Agra, Uttar Pradesh, 283110, India",
+   "type": "attraction"
+  },
+  "Fatehpur Sikri, Uttar Pradesh, India": {
+   "class": "tourism",
+   "lat": 27.0972404,
+   "lng": 77.665233,
+   "name": "Fatehpur Sikri, SH45, Fatehpur Sikri, Kiraoli, Agra, Uttar Pradesh, 283110, India",
+   "type": "attraction"
+  },
+  "Folklore Museum, Kochi": null,
+  "Folklore Museum, Thevara": {
+   "class": "tourism",
+   "lat": 9.93302,
+   "lng": 76.2991691,
+   "name": "Kerala Folklore Museum, Pandit Karuppan Road, Mammanjimukku, Thevara, Ernakulam, Kanayannur, Ernakulam, Kerala, 682013, India",
+   "type": "museum"
+  },
+  "Forest Research Institute Museum, Dehradun, Uttarakhand, India": null,
+  "Fort Dansborg, Tharangambadi, Tamil Nadu, India": {
+   "class": "tourism",
+   "lat": 11.0245921,
+   "lng": 79.85601,
+   "name": "Dansborg, New Street, Tranquebar, Tharangambadi, Mayiladuthurai, Tamil Nadu, 609307, India",
+   "type": "museum"
+  },
+  "Fort St. George Museum, Chennai, Tamil Nadu, India": {
+   "class": "tourism",
+   "lat": 13.080677,
+   "lng": 80.2876057,
+   "name": "Fort St. George Museum, James Street, Ward 60, Zone 5 Royapuram, Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, 600009, India",
+   "type": "museum"
+  },
+  "Gandhi Smarak Sangrahalaya (Sabarmati Ashram), Ahmedabad, Gujarat, India": null,
+  "Gandhi Smarak Sangrahalaya, Ahmedabad, Gujarat, India": null,
+  "Gangtok, Sikkim, India": {
+   "class": "place",
+   "lat": 27.329046,
+   "lng": 88.6122673,
+   "name": "Gangtok, Gangtok subdivision, Gangtok, Sikkim, 737101, India",
+   "type": "city"
+  },
+  "Gingee, Tamil Nadu, India": {
+   "class": "place",
+   "lat": 12.2544154,
+   "lng": 79.4157756,
+   "name": "Giingee, Gingee, Viluppuram, Tamil Nadu, 604202, India",
+   "type": "town"
+  },
+  "Goa State Museum, Panaji, Goa, India": null,
+  "Gobindgarh Fort, Amritsar, Punjab, India": {
+   "class": "tourism",
+   "lat": 31.6271122,
+   "lng": 74.8604078,
+   "name": "Gobindgarh Fort, Swami Tulsi Das Marg, Hussainpura, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+   "type": "attraction"
+  },
+  "Government Museum, Ajmer, Ajmer, Rajasthan, India": null,
+  "Government Museum, Bengaluru, Bengaluru, Karnataka, India": {
+   "class": "tourism",
+   "lat": 12.9748744,
+   "lng": 77.5957744,
+   "name": "Karnataka Government Museum, Kasturba Road, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+   "type": "museum"
+  },
+  "Government Museum, Bharatpur": null,
+  "Government Museum, Bharatpur, Bharatpur, Rajasthan, India": null,
+  "Government Museum, Mangalore": null,
+  "Group of Monuments at Hampi, Hampi, Karnataka, India": {
+   "class": "tourism",
+   "lat": 15.3294088,
+   "lng": 76.4755382,
+   "name": "Group of Monuments at Hampi, Hampi Bazar, Hampi, Hosapete taluk, Vijayanagara, Karnataka, 583239, India",
+   "type": "attraction"
+  },
+  "Gurugram, Haryana, India": {
+   "class": "boundary",
+   "lat": 28.4646148,
+   "lng": 77.0299194,
+   "name": "Gurgaon, Haryana, India",
+   "type": "administrative"
+  },
+  "Guwahati, Assam, India": {
+   "class": "place",
+   "lat": 26.1805978,
+   "lng": 91.753943,
+   "name": "Guwahati, Kamrup Metropolitan, Assam, 781001, India",
+   "type": "city"
+  },
+  "Gwalior, Madhya Pradesh, India": {
+   "class": "place",
+   "lat": 26.2037247,
+   "lng": 78.1573628,
+   "name": "Gwalior, Gird Tahsil, Gwalior, Madhya Pradesh, 474001, India",
+   "type": "city"
+  },
+  "Halebidu, Karnataka, India": {
+   "class": "place",
+   "lat": 12.5923947,
+   "lng": 76.6913469,
+   "name": "Halebidu, Pandavapura taluk, Mandya, Karnataka, 571426, India",
+   "type": "village"
+  },
+  "Hall of Fame Museum, Leh": null,
+  "Hall of Fame, Leh": null,
+  "Hall of Fame, Leh, Ladakh, India": null,
+  "Hampi, Karnataka, India": {
+   "class": "place",
+   "lat": 15.3358,
+   "lng": 76.4610201,
+   "name": "Hampi, Hosapete taluk, Vijayanagara, Karnataka, 583239, India",
+   "type": "village"
+  },
+  "Hazarduari Palace Museum, Murshidabad, West Bengal, India": null,
+  "Hill Palace Museum, Tripunithura, Kerala, India": null,
+  "Himalayan Mountaineering Institute Museum, Darjeeling, West Bengal, India": {
+   "class": "tourism",
+   "lat": 27.0583704,
+   "lng": 88.2539385,
+   "name": "Himalayan Mountaineering Institute, Lebong Cart Road, Darjeeling, Darjeeling Pulbazar, Darjeeling, West Bengal, 734104, India",
+   "type": "museum"
+  },
+  "Houses of Goa Museum, Porvorim, Goa, India": {
+   "class": "tourism",
+   "lat": 15.5302725,
+   "lng": 73.8405359,
+   "name": "Houses of Goa, Torda Creek Road, Torda, Penha de França, Britona, Bardez, North Goa, Goa, 403500, India",
+   "type": "museum"
+  },
+  "Hyderabad, Telangana, India": {
+   "class": "boundary",
+   "lat": 17.360589,
+   "lng": 78.4740613,
+   "name": "Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India",
+   "type": "administrative"
+  },
+  "INA Martyrs Memorial, Moirang": null,
+  "INA Memorial Complex, Moirang, Manipur, India": null,
+  "INA Memorial, Moirang": null,
+  "INA Museum, Moirang": {
+   "class": "tourism",
+   "lat": 24.5022549,
+   "lng": 93.7768821,
+   "name": "INA Museum, Tedim Rd, Phubala, Nambol block, Moirang block, Bishnupur district, Manipur, 795133, India",
+   "type": "museum"
+  },
+  "INS Kursura Submarine Museum, Visakhapatnam, Andhra Pradesh, India": {
+   "class": "leisure",
+   "lat": 17.7170864,
+   "lng": 83.3298119,
+   "name": "INS Kursura Submarine Museum, A.U. Outgate, Siripuram Junction, Visakhapatnam, Visakhapatnam Urban Mandal, Visakhapatnam District, Andhra Pradesh, 530017, India",
+   "type": "park"
+  },
+  "Imphal, Manipur, India": {
+   "class": "place",
+   "lat": 24.7991162,
+   "lng": 93.9364419,
+   "name": "Imphal, Lamphelpat, Imphal West, Manipur, 795001, India",
+   "type": "city"
+  },
+  "Indore, Madhya Pradesh, India": {
+   "class": "place",
+   "lat": 22.7203616,
+   "lng": 75.8681996,
+   "name": "Indore, Juni Indore Tahsil, Indore, Madhya Pradesh, 452001, India",
+   "type": "city"
+  },
+  "Itanagar, Arunachal Pradesh, India": {
+   "class": "place",
+   "lat": 27.0979659,
+   "lng": 93.6237291,
+   "name": "Itanagar, Itanagar EAC, Papum Pare, Arunachal Pradesh, 791111, India",
+   "type": "city"
+  },
+  "Jaganmohan Palace Art Gallery, Mysuru, Karnataka, India": null,
+  "Jahaz Mahal, Dhar": null,
+  "Jahaz Mahal, Mandav": null,
+  "Jahaz Mahal, Mandu, Mandu, Madhya Pradesh, India": null,
+  "Jai Vilas Palace Museum, Gwalior, Madhya Pradesh, India": null,
+  "Jaipur, Rajasthan, India": {
+   "class": "place",
+   "lat": 26.9154576,
+   "lng": 75.8189817,
+   "name": "Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India",
+   "type": "city"
+  },
+  "Jaisalmer Fort Palace Museum, Jaisalmer, Rajasthan, India": null,
+  "Jaisalmer, Rajasthan, India": {
+   "class": "boundary",
+   "lat": 27.0264162,
+   "lng": 70.777512,
+   "name": "Jaisalmer, Rajasthan, India",
+   "type": "administrative"
+  },
+  "Jammu, Jammu and Kashmir, India": {
+   "class": "place",
+   "lat": 32.7185614,
+   "lng": 74.8580917,
+   "name": "Jammu, Jammu district, Jammu and Kashmir, 180001, India",
+   "type": "city"
+  },
+  "Jawaharlal Nehru State Museum, Itanagar, Arunachal Pradesh, India": null,
+  "Jhansi, Uttar Pradesh, India": {
+   "class": "boundary",
+   "lat": 25.529855,
+   "lng": 78.6527802,
+   "name": "Jhansi, Uttar Pradesh, India",
+   "type": "administrative"
+  },
+  "Jharkhand State Museum, Ranchi, Jharkhand, India": null,
+  "Jodhpur, Rajasthan, India": {
+   "class": "place",
+   "lat": 26.2967719,
+   "lng": 73.0351433,
+   "name": "Jodhpur, Jodhpur Tehsil, Jodhpur, Rajasthan, India",
+   "type": "city"
+  },
+  "Jorasanko Thakurbari, Kolkata, West Bengal, India": null,
+  "Junagarh Fort & Museum, Bikaner, Rajasthan, India": null,
+  "Junagarh Fort, Bikaner, Rajasthan, India": {
+   "class": "tourism",
+   "lat": 28.0223479,
+   "lng": 73.318133,
+   "name": "Junagarh Fort, Junagarh Fort Road, Lalgarh, Bikaner, Bikaner Tehsil, Bikaner, Rajasthan, 334001, India",
+   "type": "attraction"
+  },
+  "Kalibangan, Rajasthan, India": {
+   "class": "place",
+   "lat": 29.469648,
+   "lng": 74.1347876,
+   "name": "Kalibangan, Hanumangarh Tehsil, Hanumangarh, Rajasthan, India",
+   "type": "village"
+  },
+  "Kangra Art Museum, Dharamshala, Himachal Pradesh, India": {
+   "class": "tourism",
+   "lat": 32.2176714,
+   "lng": 76.3183812,
+   "name": "Museum of Kangra Art, Dharamshala Road, Chungi, Kotwali Bazaar, Dharamshala, Kangra, Himachal Pradesh, 176200, India",
+   "type": "museum"
+  },
+  "Kangra, Himachal Pradesh, India": {
+   "class": "boundary",
+   "lat": 32.0768665,
+   "lng": 76.2985872,
+   "name": "Kangra, Himachal Pradesh, India",
+   "type": "administrative"
+  },
+  "Kannur, Kerala, India": {
+   "class": "place",
+   "lat": 11.8763836,
+   "lng": 75.3737973,
+   "name": "Kannur, Kerala, 670004, India",
+   "type": "city"
+  },
+  "Kasaragod, Kerala, India": {
+   "class": "boundary",
+   "lat": 12.4221964,
+   "lng": 75.1904446,
+   "name": "Kasaragod, Kerala, India",
+   "type": "administrative"
+  },
+  "Kavaratti, Lakshadweep, India": {
+   "class": "place",
+   "lat": 10.5672203,
+   "lng": 72.6394636,
+   "name": "Kavaratti, Lakshadweep, 262240, India",
+   "type": "town"
+  },
+  "Kayamkulam, Kerala, India": {
+   "class": "place",
+   "lat": 9.1723603,
+   "lng": 76.500061,
+   "name": "Kayamkulam, Karthikappally, Alappuzha, Kerala, 690502, India",
+   "type": "town"
+  },
+  "Kerala Folklore Museum": {
+   "class": "tourism",
+   "lat": 9.93302,
+   "lng": 76.2991691,
+   "name": "Kerala Folklore Museum, Pandit Karuppan Road, Mammanjimukku, Thevara, Ernakulam, Kanayannur, Ernakulam, Kerala, 682013, India",
+   "type": "museum"
+  },
+  "Kerala Folklore Museum, Kochi, Kerala, India": null,
+  "Khajuraho, Madhya Pradesh, India": {
+   "class": "place",
+   "lat": 24.8515132,
+   "lng": 79.9259786,
+   "name": "Khajuraho, Rajnagar Tahsil, Chhatarpur, Madhya Pradesh, 471505, India",
+   "type": "village"
+  },
+  "Kiran Nadar Museum of Art, New Delhi, Delhi, India": null,
+  "Kochi, Kerala, India": {
+   "class": "place",
+   "lat": 9.9679032,
+   "lng": 76.2444378,
+   "name": "Kochi, Ernakulam, Kerala, 682001, India",
+   "type": "city"
+  },
+  "Kohima, Nagaland, India": {
+   "class": "place",
+   "lat": 25.6618755,
+   "lng": 94.1019156,
+   "name": "Kohima, Kohima Sadar, Kohima, Nagaland, 797001, India",
+   "type": "city"
+  },
+  "Kolhapur, Maharashtra, India": {
+   "class": "place",
+   "lat": 16.7028412,
+   "lng": 74.2405329,
+   "name": "Kolhapur, Karvir, Kolhapur District, Maharashtra, 416003, India",
+   "type": "city"
+  },
+  "Kolkata, West Bengal, India": {
+   "class": "boundary",
+   "lat": 22.5726459,
+   "lng": 88.3638953,
+   "name": "Kolkata, Greater Kolkata, Kolkata, West Bengal, India",
+   "type": "administrative"
+  },
+  "Konark, Odisha, India": {
+   "class": "boundary",
+   "lat": 19.9074292,
+   "lng": 86.1420195,
+   "name": "Konark, Puri, Odisha, 752111, India",
+   "type": "administrative"
+  },
+  "Kondapur, Telangana, India": {
+   "class": "place",
+   "lat": 17.4587912,
+   "lng": 78.3730556,
+   "name": "Kondapur, Ward 107 Madhapur, Greater Hyderabad Municipal Corporation West Zone, Hyderabad, Serilingampalle mandal, Ranga Reddy, Telangana, 500084, India",
+   "type": "suburb"
+  },
+  "Kozhikode, Kerala, India": {
+   "class": "place",
+   "lat": 11.2450558,
+   "lng": 75.7754716,
+   "name": "Kozhikode, Kerala, 673001, India",
+   "type": "city"
+  },
+  "Krishna Museum, Kurukshetra": {
+   "class": "tourism",
+   "lat": 29.9653547,
+   "lng": 76.8343145,
+   "name": "Shri Krishna Museum, SH6, Thanesar, Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+   "type": "museum"
+  },
+  "Krishnapuram Palace Museum, Kayamkulam, Kerala, India": {
+   "class": "tourism",
+   "lat": 9.1502842,
+   "lng": 76.508775,
+   "name": "Krishnapuram Palace, Palace Road, Puthuvel Harijan Colony, Kayamkulam, Karthikappally, Alappuzha, Kerala, 690533, India",
+   "type": "museum"
+  },
+  "Kumbhalgarh Fort, Kumbhalgarh, Rajasthan, India": {
+   "class": "historic",
+   "lat": 25.1526769,
+   "lng": 73.5862851,
+   "name": "Kumbhalgarh Fort, SH49, Bir ki Bhagal, Quila Kumbhalgarh, Kumbhalgarh Tehsil, Rajsamand, Rajasthan, India",
+   "type": "fort"
+  },
+  "Kumbhalgarh, Rajasthan, India": {
+   "class": "place",
+   "lat": 25.1480528,
+   "lng": 73.5827479,
+   "name": "Kumbhalgarh, Kumbhalgarh Tehsil, Rajsamand, Rajasthan, India",
+   "type": "village"
+  },
+  "Kurukshetra Panorama and Science Centre, Kurukshetra, Haryana, India": {
+   "class": "tourism",
+   "lat": 29.965844,
+   "lng": 76.8334216,
+   "name": "Kurukshetra Panorama and Science Centre, SH6, Thanesar, Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+   "type": "museum"
+  },
+  "Kurukshetra, Haryana, India": {
+   "class": "place",
+   "lat": 29.9693747,
+   "lng": 76.8482787,
+   "name": "Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+   "type": "city"
+  },
+  "Kushinagar, Uttar Pradesh, India": {
+   "class": "place",
+   "lat": 26.7438272,
+   "lng": 83.9162322,
+   "name": "Kushinagar, Kasya, Kushinagar, Uttar Pradesh, 274402, India",
+   "type": "town"
+  },
+  "Kuthiramalika Palace Museum, Thiruvananthapuram, Kerala, India": null,
+  "Lalbhai Dalpatbhai Museum, Ahmedabad, Gujarat, India": {
+   "class": "tourism",
+   "lat": 23.0331715,
+   "lng": 72.5498983,
+   "name": "Lalbhai Dalpatbhai Museum, St. Xavier's College Road, Gulbai tekra, Navrangpura, SabarmatiTaluka, Ahmedabad, Gujarat, 380009, India",
+   "type": "museum"
+  },
+  "Lalitgiri, Odisha, India": {
+   "class": "railway",
+   "lat": 20.5976269,
+   "lng": 86.2873466,
+   "name": "Lalitgiri, Paradip Port Expressway, Balichandrapur, Jajpur, Odisha, 754205, India",
+   "type": "station"
+  },
+  "Le Corbusier Centre, Chandigarh, Chandigarh, India": {
+   "class": "tourism",
+   "lat": 30.7297999,
+   "lng": 76.7994591,
+   "name": "The Le Corbusier Centre, Madhya Marg, Sector 19, Ward 17, Chandigarh, 160019, India",
+   "type": "museum"
+  },
+  "Leh, Ladakh, India": {
+   "class": "place",
+   "lat": 34.1642029,
+   "lng": 77.5848133,
+   "name": "Leh, Leh district, Ladakh, 194101, India",
+   "type": "city"
+  },
+  "Lohagarh Fort, Bharatpur": {
+   "class": "historic",
+   "lat": 27.2206863,
+   "lng": 77.4953904,
+   "name": "Lohagarh Fort, A1, Kali Bagichi, Bharatpur, Bharatpur Tehsil, Bharatpur, Rajasthan, 321001, India",
+   "type": "castle"
+  },
+  "Lothal, Gujarat, India": {
+   "class": "historic",
+   "lat": 22.522677,
+   "lng": 72.2493077,
+   "name": "Lothal, Ahmedabad–Dholera Expressway, Dholka Taluka, Ahmedabad, Gujarat, India",
+   "type": "archaeological_site"
+  },
+  "Lucknow, Uttar Pradesh, India": {
+   "class": "place",
+   "lat": 26.8381,
+   "lng": 80.9346001,
+   "name": "Lucknow, Uttar Pradesh, 226027, India",
+   "type": "city"
+  },
+  "Madurai, Tamil Nadu, India": {
+   "class": "boundary",
+   "lat": 9.9261153,
+   "lng": 78.1140983,
+   "name": "Madurai, Madurai South, Madurai, Tamil Nadu, India",
+   "type": "administrative"
+  },
+  "Magazine, Ajmer": null,
+  "Maharaja Ranjit Singh Museum (Ram Bagh), Amritsar, Punjab, India": null,
+  "Maharaja Ranjit Singh Museum, Amritsar, Punjab, India": {
+   "class": "tourism",
+   "lat": 31.6405669,
+   "lng": 74.8764235,
+   "name": "Maharaja Ranjit Singh Panorama, M.M.M. Road, Joshi Nagar, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India",
+   "type": "museum"
+  },
+  "Mamallapuram, Tamil Nadu, India": {
+   "class": "place",
+   "lat": 12.6195981,
+   "lng": 80.1936497,
+   "name": "Mahabalipuram, Chennai Metropolitan Area, Tirukalukundram, Chengalpattu, Tamil Nadu, 603104, India",
+   "type": "town"
+  },
+  "Mandu, Madhya Pradesh, India": {
+   "class": "boundary",
+   "lat": 22.3397517,
+   "lng": 75.4054509,
+   "name": "Mandu, Pithampur Tahsil, Dhar, Madhya Pradesh, India",
+   "type": "administrative"
+  },
+  "Mangaluru, Karnataka, India": {
+   "class": "place",
+   "lat": 12.8698247,
+   "lng": 74.8430125,
+   "name": "Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India",
+   "type": "city"
+  },
+  "Mani Bhavan Gandhi Sangrahalaya, Mumbai, Maharashtra, India": null,
+  "Marine Aquarium, Kavaratti": null,
+  "Marine Museum, Kavaratti": null,
+  "Marine Museum, Kavaratti, Lakshadweep, India": null,
+  "Mathura, Uttar Pradesh, India": {
+   "class": "place",
+   "lat": 27.4955539,
+   "lng": 77.6855554,
+   "name": "Mathura, Uttar Pradesh, 281001, India",
+   "type": "city"
+  },
+  "Mehrangarh Fort & Museum, Jodhpur, Rajasthan, India": null,
+  "Mehrangarh Fort, Jodhpur, Rajasthan, India": null,
+  "Melaghar, Tripura, India": {
+   "class": "place",
+   "lat": 23.4947164,
+   "lng": 91.3300645,
+   "name": "Melaghar, Melaghar Urban, Sonamura, Sipahijala, Tripura, 799115, India",
+   "type": "town"
+  },
+  "Modhera, Gujarat, India": {
+   "class": "place",
+   "lat": 23.581665,
+   "lng": 72.140412,
+   "name": "Modhera, Becharaji Taluka, Mahesana, Gujarat, India",
+   "type": "town"
+  },
+  "Moirang, Manipur, India": {
+   "class": "place",
+   "lat": 24.5005506,
+   "lng": 93.7767476,
+   "name": "Moirang, Moirang block, Bishnupur district, Manipur, 795133, India",
+   "type": "town"
+  },
+  "Mumbai, Maharashtra, India": {
+   "class": "place",
+   "lat": 19.054999,
+   "lng": 72.8692035,
+   "name": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+   "type": "city"
+  },
+  "Murshidabad, West Bengal, India": {
+   "class": "place",
+   "lat": 24.1745993,
+   "lng": 88.2721335,
+   "name": "Murshidabad, Murshidabad Jiaganj, Murshidabad, West Bengal, 742149, India",
+   "type": "town"
+  },
+  "Mysuru, Karnataka, India": {
+   "class": "boundary",
+   "lat": 12.3041464,
+   "lng": 76.6529521,
+   "name": "Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India",
+   "type": "local_authority"
+  },
+  "Nagarjunakonda, Andhra Pradesh, India": {
+   "class": "historic",
+   "lat": 16.5223922,
+   "lng": 79.2416262,
+   "name": "Nagarjunakonda, MDR, Anupu, Macherla Mandal, Palnadu District, Andhra Pradesh, India",
+   "type": "archaeological_site"
+  },
+  "Naggar, Himachal Pradesh, India": {
+   "class": "place",
+   "lat": 32.1132488,
+   "lng": 77.1640042,
+   "name": "Naggar, Kullu, Himachal Pradesh, 175130, India",
+   "type": "town"
+  },
+  "Nagpur, Maharashtra, India": {
+   "class": "boundary",
+   "lat": 21.1498134,
+   "lng": 79.0820556,
+   "name": "Nagpur, Nagpur Urban Taluka, Nagpur, Maharashtra, India",
+   "type": "administrative"
+  },
+  "Nalanda Mahavihara, Nalanda, Bihar, India": {
+   "class": "building",
+   "lat": 25.1281352,
+   "lng": 85.4455941,
+   "name": "Nava Nalanda Mahavihara, NH120, Silao, Nalanda, Bihar, 803111, India",
+   "type": "university"
+  },
+  "Nalanda, Bihar, India": {
+   "class": "leisure",
+   "lat": 25.1364914,
+   "lng": 85.4436546,
+   "name": "Nalanda, Kapatia, Silao, Nalanda, Bihar, 803111, India",
+   "type": "park"
+  },
+  "Napier Museum, Thiruvananthapuram, Kerala, India": {
+   "class": "tourism",
+   "lat": 8.5089308,
+   "lng": 76.9551433,
+   "name": "Napier Museum, Museum Road, Lenin Nagar, Vellayambalam, Thiruvananthapuram, Kerala, 695001, India",
+   "type": "museum"
+  },
+  "National Crafts Museum & Hastkala Academy, New Delhi, Delhi, India": null,
+  "National Crafts Museum, New Delhi, Delhi, India": null,
+  "National Gallery of Modern Art, Bengaluru, Bengaluru, Karnataka, India": {
+   "class": "tourism",
+   "lat": 12.9895186,
+   "lng": 77.5881044,
+   "name": "National Gallery of Modern Art, Palace Road, Vasanth Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560052, India",
+   "type": "museum"
+  },
+  "National Science Centre, New Delhi, Delhi, India": null,
+  "National War Memorial & Museum, New Delhi, Delhi, India": null,
+  "National War Memorial, New Delhi, Delhi, India": {
+   "class": "historic",
+   "lat": 28.6127558,
+   "lng": 77.2330441,
+   "name": "National War Memorial, Tilak Marg, Central Vista, New Delhi, Delhi, 020626, India",
+   "type": "memorial"
+  },
+  "Nava Raipur, Chhattisgarh, India": {
+   "class": "place",
+   "lat": 21.1610268,
+   "lng": 81.7864412,
+   "name": "Nava Raipur, Arang Tahsil, Raipur, Chhattisgarh, India",
+   "type": "town"
+  },
+  "Neermahal, Melaghar, Tripura, India": {
+   "class": "building",
+   "lat": 23.5069284,
+   "lng": 91.3149943,
+   "name": "Neermahal, NH8, Melaghar, Melaghar Urban, Sonamura, Sipahijala, Tripura, 799115, India",
+   "type": "yes"
+  },
+  "Nehru Science Centre, Mumbai, Maharashtra, India": {
+   "class": "tourism",
+   "lat": 18.9906985,
+   "lng": 72.8182906,
+   "name": "Nehru Science Centre, M Sanghi Marg, Mariammar Nagar, Mahalakshmi, G/S Ward, Mumbai Zone 2, Mumbai City District, Maharashtra, 400018, India",
+   "type": "museum"
+  },
+  "New Delhi, Delhi, India": {
+   "class": "boundary",
+   "lat": 28.6138954,
+   "lng": 77.2090057,
+   "name": "New Delhi, Delhi, India",
+   "type": "administrative"
+  },
+  "New Palace, Kolhapur, Maharashtra, India": {
+   "class": "landuse",
+   "lat": 16.7176142,
+   "lng": 74.2316179,
+   "name": "New Palace, Kasaba Bawada, Kolhapur, Karvir, Kolhapur District, Maharashtra, India",
+   "type": "residential"
+  },
+  "Nicholas Roerich Art Gallery, Naggar, Himachal Pradesh, India": null,
+  "Old Goa, Goa, India": {
+   "class": "place",
+   "lat": 15.5023329,
+   "lng": 73.9117432,
+   "name": "Old Goa, Panaji, Tiswadi, North Goa, Goa, 403108, India",
+   "type": "suburb"
+  },
+  "Orchha, Madhya Pradesh, India": {
+   "class": "place",
+   "lat": 25.3528706,
+   "lng": 78.6402465,
+   "name": "Orchha, Orchha Tahsil, Niwari, Madhya Pradesh, 472246, India",
+   "type": "town"
+  },
+  "Palampet, Telangana, India": {
+   "class": "place",
+   "lat": 18.2676222,
+   "lng": 79.940815,
+   "name": "Palampet, Venkatapur mandal, Mulugu, Telangana, India",
+   "type": "village"
+  },
+  "Panaji, Goa, India": {
+   "class": "place",
+   "lat": 15.4989946,
+   "lng": 73.8282141,
+   "name": "Panaji, Tiswadi, North Goa, Goa, 403001, India",
+   "type": "city"
+  },
+  "Partition Museum, Amritsar, Punjab, India": {
+   "class": "tourism",
+   "lat": 31.6257024,
+   "lng": 74.87905,
+   "name": "Partition Museum, Mahan Singh Gate Road, Hussainpura, Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143006, India",
+   "type": "museum"
+  },
+  "Patan, Gujarat, India": {
+   "class": "boundary",
+   "lat": 23.773753,
+   "lng": 71.6798581,
+   "name": "Patan, Gujarat, India",
+   "type": "administrative"
+  },
+  "Patna Museum, Patna, Bihar, India": {
+   "class": "tourism",
+   "lat": 25.6126479,
+   "lng": 85.1335127,
+   "name": "Patna Museum, Bailey Road, Patna, Patna Rural, Patna, Bihar, 803210, India",
+   "type": "museum"
+  },
+  "Patna, Bihar, India": {
+   "class": "place",
+   "lat": 25.6093239,
+   "lng": 85.1235252,
+   "name": "Patna, Patna Rural, Patna, Bihar, India",
+   "type": "city"
+  },
+  "Pattadakal Group of Monuments, Pattadakal, Karnataka, India": null,
+  "Pattadakal, Karnataka, India": {
+   "class": "place",
+   "lat": 15.9484334,
+   "lng": 75.8159703,
+   "name": "Pattadakallu, Badami taluku, Bagalkote, Karnataka, 587211, India",
+   "type": "village"
+  },
+  "Pelling, Sikkim, India": {
+   "class": "place",
+   "lat": 27.3003722,
+   "lng": 88.2356503,
+   "name": "Pelling, Gyalshing, Sikkim, 737113, India",
+   "type": "village"
+  },
+  "Pinjore, Haryana, India": {
+   "class": "place",
+   "lat": 30.8042411,
+   "lng": 76.9149498,
+   "name": "Pinjore, Kalka, Panchkula, Haryana, 134102, India",
+   "type": "town"
+  },
+  "Porvorim, Goa, India": {
+   "class": "place",
+   "lat": 15.5251356,
+   "lng": 73.828272,
+   "name": "Alto Porvorim, Bardez, North Goa, Goa, 403500, India",
+   "type": "suburb"
+  },
+  "Pradhanmantri Sangrahalaya, New Delhi, Delhi, India": null,
+  "Prayagraj, Uttar Pradesh, India": {
+   "class": "place",
+   "lat": 25.4381302,
+   "lng": 81.8338005,
+   "name": "Prayagraj, Allahabad, Prayagraj, Uttar Pradesh, 211001, India",
+   "type": "city"
+  },
+  "Puducherry, Puducherry, India": {
+   "class": "place",
+   "lat": 11.9340568,
+   "lng": 79.8306447,
+   "name": "Puducherry, Puducherry Taluk, Puducherry, 605001, India",
+   "type": "city"
+  },
+  "Pune, Maharashtra, India": {
+   "class": "place",
+   "lat": 18.5213738,
+   "lng": 73.8545071,
+   "name": "Pune, Pune City Subdistrict, Pune District, Maharashtra, 411001, India",
+   "type": "city"
+  },
+  "Purana Qila & Museum, New Delhi, Delhi, India": null,
+  "Purana Qila, New Delhi, Delhi, India": {
+   "class": "tourism",
+   "lat": 28.6086534,
+   "lng": 77.2417634,
+   "name": "Purana Qila, Sher Shah Road, Cornwallis Colony, New Delhi, Delhi, 110503, India",
+   "type": "information"
+  },
+  "Purkhauti Muktangan": null,
+  "Purkhauti Muktangan, Nava Raipur, Chhattisgarh, India": null,
+  "Purkhauti Muktangan, Naya Raipur": null,
+  "Purkhauti Muktangan, Raipur": null,
+  "Rabindra Bharati Museum (Jorasanko Thakurbari), Kolkata, West Bengal, India": null,
+  "Rabindra Bharati Museum, Kolkata, West Bengal, India": null,
+  "Rabindra Bhavan, Bolpur": null,
+  "Rabindra Bhavana Museum, Santiniketan, West Bengal, India": null,
+  "Rabindra Bhavana, Santiniketan": null,
+  "Raigad, Maharashtra, India": {
+   "class": "boundary",
+   "lat": 18.4928092,
+   "lng": 73.138071,
+   "name": "Raigad, Maharashtra, India",
+   "type": "administrative"
+  },
+  "Rail Museum, Mysuru, Mysuru, Karnataka, India": {
+   "class": "tourism",
+   "lat": 12.3158751,
+   "lng": 76.643859,
+   "name": "Mysuru Rail Museum, Krishnaraja Sagara Road, Mandi Mohalla, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India",
+   "type": "museum"
+  },
+  "Raipur, Chhattisgarh, India": {
+   "class": "place",
+   "lat": 21.2380912,
+   "lng": 81.6336993,
+   "name": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India",
+   "type": "city"
+  },
+  "Rajkot, Gujarat, India": {
+   "class": "place",
+   "lat": 22.3053263,
+   "lng": 70.8028377,
+   "name": "Rajkot, Rajkot East Taluka, Rajkot, Gujarat, 360001, India",
+   "type": "city"
+  },
+  "Ram Dayal Munda Tribal Welfare Research Institute": null,
+  "Ramnagar Fort & Museum, Varanasi, Uttar Pradesh, India": {
+   "class": "tourism",
+   "lat": 25.2705842,
+   "lng": 83.0248777,
+   "name": "Ramnagar Fort, Sameneghat-Ramnagar, bridge, Ramnagar, Sadar, Varanasi, Uttar Pradesh, 221008, India",
+   "type": "museum"
+  },
+  "Ranchi, Jharkhand, India": {
+   "class": "place",
+   "lat": 23.3700501,
+   "lng": 85.3250387,
+   "name": "Ranchi, Kanke, Ranchi, Jharkhand, 834001, India",
+   "type": "city"
+  },
+  "Ratnagiri, Odisha, India": {
+   "class": "tourism",
+   "lat": 20.656039,
+   "lng": 86.342811,
+   "name": "Ratnagiri, Pala panisia (nankar) road, Balichandrapur, Jajpur, Odisha, 755024, India",
+   "type": "viewpoint"
+  },
+  "Red Fort, Delhi": {
+   "class": "historic",
+   "lat": 28.656081,
+   "lng": 77.2407959,
+   "name": "Red Fort, Shyama Prasad Mukherji Marg, Old Delhi, City & Sadar, Delhi, Old Delhi, Delhi, 110003, India",
+   "type": "castle"
+  },
+  "Roerich Art Gallery, Naggar": null,
+  "Roerich Estate, Naggar": null,
+  "Ross Island, Sri Vijaya Puram, Andaman and Nicobar Islands, India": {
+   "class": "place",
+   "lat": 11.6754345,
+   "lng": 92.7626119,
+   "name": "Ross Island, Port Blair, Port Blair Tehsil, South Andaman, Andaman and Nicobar Islands, India",
+   "type": "islet"
+  },
+  "Rupnagar, Punjab, India": {
+   "class": "boundary",
+   "lat": 31.0917102,
+   "lng": 76.5289701,
+   "name": "Rupnagar, Punjab, India",
+   "type": "administrative"
+  },
+  "Sabarmati Ashram, Ahmedabad, Gujarat, India": {
+   "class": "landuse",
+   "lat": 23.0601652,
+   "lng": 72.5806382,
+   "name": "Sabarmati Ashram, Ranip, SabarmatiTaluka, Ahmedabad, Gujarat, India",
+   "type": "residential"
+  },
+  "Sanchi, Madhya Pradesh, India": {
+   "class": "railway",
+   "lat": 23.4876339,
+   "lng": 77.7360676,
+   "name": "Sanchi, Vidisha Road, Sanchi, Raisen Tahsil, Raisen, Madhya Pradesh, 464661, India",
+   "type": "station"
+  },
+  "Sanghol, Punjab, India": {
+   "class": "place",
+   "lat": 30.7842937,
+   "lng": 76.3889486,
+   "name": "Ucha Pind, Khamanon Tahsil, Fatehgarh Sahib, Punjab, 140802, India",
+   "type": "village"
+  },
+  "Santiniketan, West Bengal, India": {
+   "class": "amenity",
+   "lat": 22.8422383,
+   "lng": 88.6556742,
+   "name": "Santiniketan Nursing Home and Polyclinic, Barasat - Petrapole Highway, Habra, Ashoknagar Kalyangarh, Habra - I, North 24 Parganas, West Bengal, 743263, India",
+   "type": "clinic"
+  },
+  "Saraswathi Mahal Library Museum, Thanjavur, Tamil Nadu, India": null,
+  "Sasaram, Bihar, India": {
+   "class": "place",
+   "lat": 24.9509656,
+   "lng": 84.0148733,
+   "name": "Sasaram, Rohtas, Bihar, 821115, India",
+   "type": "city"
+  },
+  "Sawai Madhopur, Rajasthan, India": {
+   "class": "boundary",
+   "lat": 26.2290186,
+   "lng": 76.3043561,
+   "name": "Sawai Madhopur, Rajasthan, India",
+   "type": "administrative"
+  },
+  "Shahu Chhatrapati Museum (New Palace), Kolhapur, Maharashtra, India": null,
+  "Shahu Chhatrapati Museum, Kolhapur, Maharashtra, India": null,
+  "Shillong, Meghalaya, India": {
+   "class": "place",
+   "lat": 25.5759931,
+   "lng": 91.8827872,
+   "name": "Shillong, Mylliem, East Khasi Hills, Meghalaya, 793001, India",
+   "type": "city"
+  },
+  "Shimla, Himachal Pradesh, India": {
+   "class": "place",
+   "lat": 31.1040393,
+   "lng": 77.1707923,
+   "name": "Shimla, Shimla (urban), Shimla, Himachal Pradesh, 171001, India",
+   "type": "city"
+  },
+  "Shreemanthi Bai Memorial Government Museum, Mangaluru, Karnataka, India": null,
+  "Shreemanthi Bai Memorial Museum, Mangaluru": null,
+  "Shreemanthi Bai Museum": null,
+  "Shri Krishna Museum, Kurukshetra": {
+   "class": "tourism",
+   "lat": 29.9653547,
+   "lng": 76.8343145,
+   "name": "Shri Krishna Museum, SH6, Thanesar, Kurukshetra, Thanesar, Kurukshetra, Haryana, 132118, India",
+   "type": "museum"
+  },
+  "Shri Pratap Singh Museum, Srinagar, Jammu and Kashmir, India": null,
+  "Sirpur, Chhattisgarh, India": {
+   "class": "place",
+   "lat": 21.3470248,
+   "lng": 82.1846857,
+   "name": "Sirpur, Mahasamund Tahsil, Mahasamund, Chhattisgarh, India",
+   "type": "village"
+  },
+  "Sivasagar, Assam, India": {
+   "class": "place",
+   "lat": 26.9834936,
+   "lng": 94.6394226,
+   "name": "Sivasagar, Sibsagar, Sivasagar, Assam, 785600, India",
+   "type": "city"
+  },
+  "Sri Krishna Museum, Kurukshetra, Haryana, India": null,
+  "Sri Venkateswara Museum, Tirupati, Andhra Pradesh, India": {
+   "class": "tourism",
+   "lat": 13.6839366,
+   "lng": 79.3429999,
+   "name": "Sri Venkateswara Museum, Tirumala Ring Road, Tirumala, Tirupati Urban Mandal, Tirupati District, Andhra Pradesh, 517504, India",
+   "type": "museum"
+  },
+  "Sri Vijaya Puram, Andaman and Nicobar Islands, India": {
+   "class": "place",
+   "lat": 11.6645348,
+   "lng": 92.7390448,
+   "name": "Port Blair, Port Blair Tehsil, South Andaman, Andaman and Nicobar Islands, 744101, India",
+   "type": "city"
+  },
+  "Srikrishna Museum": {
+   "class": "tourism",
+   "lat": 25.6163072,
+   "lng": 85.1410845,
+   "name": "Srikrishna Science Museum, Jaiprakash Roundabout, Patna, Patna Rural, Patna, Bihar, 800001, India",
+   "type": "museum"
+  },
+  "Srikrishna Science Centre, Patna, Bihar, India": null,
+  "Srinagar, Jammu and Kashmir, India": {
+   "class": "place",
+   "lat": 34.0747444,
+   "lng": 74.8204443,
+   "name": "Srinagar, Srinagar (South), Srinagar, Jammu and Kashmir, 190001, India",
+   "type": "city"
+  },
+  "Sudha Cars Museum, Hyderabad, Telangana, India": null,
+  "Swatantrata Sangram Sangrahalaya, New Delhi, Delhi, India": null,
+  "Thanjavur Art Gallery, Thanjavur, Tamil Nadu, India": null,
+  "Thanjavur Maratha Palace": {
+   "class": "tourism",
+   "lat": 10.7914152,
+   "lng": 79.1359327,
+   "name": "Thanjavur Maratha Palace, Manojiappa St, Brindavanam, Thanjavur, Tamil Nadu, 613001, India",
+   "type": "attraction"
+  },
+  "Thanjavur Palace": {
+   "class": "tourism",
+   "lat": 10.791781,
+   "lng": 79.1371244,
+   "name": "Thanjavur Maratha Palace and Museum, East Main Street, Karanthai, Thanjavur, Tamil Nadu, 613001, India",
+   "type": "museum"
+  },
+  "Thanjavur, Tamil Nadu, India": {
+   "class": "boundary",
+   "lat": 10.659037,
+   "lng": 79.2014278,
+   "name": "Thanjavur, Tamil Nadu, India",
+   "type": "administrative"
+  },
+  "Tharangambadi, Tamil Nadu, India": {
+   "class": "place",
+   "lat": 11.029929,
+   "lng": 79.852196,
+   "name": "Tranquebar, Tharangambadi, Mayiladuthurai, Tamil Nadu, India",
+   "type": "town"
+  },
+  "Thiruvananthapuram, Kerala, India": {
+   "class": "place",
+   "lat": 8.4882267,
+   "lng": 76.947551,
+   "name": "Thiruvananthapuram, Kerala, 695001, India",
+   "type": "city"
+  },
+  "Thrissur, Kerala, India": {
+   "class": "boundary",
+   "lat": 10.4786969,
+   "lng": 76.2736512,
+   "name": "Thrissur, Kerala, India",
+   "type": "administrative"
+  },
+  "Thuckalay, Tamil Nadu, India": {
+   "class": "boundary",
+   "lat": 8.2583669,
+   "lng": 77.3111896,
+   "name": "Thuckalay, Kalkulam, Kanniyakumari, Tamil Nadu, India",
+   "type": "administrative"
+  },
+  "Tirupati, Andhra Pradesh, India": {
+   "class": "place",
+   "lat": 13.6316368,
+   "lng": 79.4231711,
+   "name": "Tirupati, Tirupati Urban Mandal, Tirupati District, Andhra Pradesh, 517500, India",
+   "type": "city"
+  },
+  "Tribal Museum, Ranchi": null,
+  "Tribal Research Institute, Ranchi": null,
+  "Tripunithura, Kerala, India": {
+   "class": "boundary",
+   "lat": 9.914987,
+   "lng": 76.3429538,
+   "name": "Tripunithura, Poothotta, Kanayannur, Ernakulam, Kerala, India",
+   "type": "political"
+  },
+  "Tripura State Museum (Ujjayanta Palace), Agartala, Tripura, India": null,
+  "Tripura State Museum, Agartala, Tripura, India": null,
+  "Udaipur, Rajasthan, India": {
+   "class": "place",
+   "lat": 24.578721,
+   "lng": 73.6862571,
+   "name": "Udaipur, Girwa Tehsil, Udaipur, Rajasthan, 313001, India",
+   "type": "city"
+  },
+  "Ujjayanta Palace, Agartala, Tripura, India": {
+   "class": "tourism",
+   "lat": 23.8369868,
+   "lng": 91.2827507,
+   "name": "Ujjayanta Palace, B.K. Road, Haradhan Sangha, Radha Nagar, Agartala, Mohanpur, West Tripura, Tripura, 799001, India",
+   "type": "attraction"
+  },
+  "Umaid Bhawan Palace Museum, Jodhpur, Rajasthan, India": {
+   "class": "tourism",
+   "lat": 26.2807207,
+   "lng": 73.0477046,
+   "name": "Umaid Bhawan Palace, SH61, Rai Ka Bagh, Jodhpur, Jodhpur Tehsil, Jodhpur, Rajasthan, 342011, India",
+   "type": "museum"
+  },
+  "Undavalli, Andhra Pradesh, India": {
+   "class": "place",
+   "lat": 16.4958814,
+   "lng": 80.586204,
+   "name": "Undavalli, Andhra Pradesh Capital Region Development Authority, Tadepalle Mandal, Guntur District, Andhra Pradesh, 522501, India",
+   "type": "village"
+  },
+  "Uttarayan Complex": null,
+  "Uttarayan, Santiniketan": null,
+  "Vadodara, Gujarat, India": {
+   "class": "place",
+   "lat": 22.2973142,
+   "lng": 73.1942567,
+   "name": "Vadodara, Vadodara Rural Taluka, Vadodara, Gujarat, 390001, India",
+   "type": "city"
+  },
+  "Vaishali, Bihar, India": {
+   "class": "boundary",
+   "lat": 25.7491703,
+   "lng": 85.3972164,
+   "name": "Vaishali, Bihar, India",
+   "type": "administrative"
+  },
+  "Varanasi, Uttar Pradesh, India": {
+   "class": "place",
+   "lat": 25.3356491,
+   "lng": 83.0076292,
+   "name": "Varanasi, Sadar, Varanasi, Uttar Pradesh, 221001, India",
+   "type": "city"
+  },
+  "Vasco da Gama, Goa, India": {
+   "class": "place",
+   "lat": 15.3984159,
+   "lng": 73.8128829,
+   "name": "Vasco da Gama, Mormugao, South Goa, Goa, 403802, India",
+   "type": "town"
+  },
+  "Vellore, Tamil Nadu, India": {
+   "class": "boundary",
+   "lat": 12.9021849,
+   "lng": 79.061104,
+   "name": "Vellore, Tamil Nadu, India",
+   "type": "administrative"
+  },
+  "Vijayapura, Karnataka, India": {
+   "class": "boundary",
+   "lat": 16.814415,
+   "lng": 75.8933856,
+   "name": "Vijayapura, Karnataka, India",
+   "type": "administrative"
+  },
+  "Vijayawada, Andhra Pradesh, India": {
+   "class": "place",
+   "lat": 16.5115306,
+   "lng": 80.6160469,
+   "name": "Vijayawada, Vijayawada Urban Mandal, NTR District, Andhra Pradesh, 520001, India",
+   "type": "city"
+  },
+  "Vikramshila, Antichak, Bihar, India": null,
+  "Visakhapatnam, Andhra Pradesh, India": {
+   "class": "place",
+   "lat": 17.6935526,
+   "lng": 83.2921297,
+   "name": "Visakhapatnam, Visakhapatnam Urban Mandal, Visakhapatnam District, Andhra Pradesh, 530001, India",
+   "type": "city"
+  },
+  "Warangal Fort, Warangal, Telangana, India": {
+   "class": "historic",
+   "lat": 17.9564947,
+   "lng": 79.6154251,
+   "name": "Warangal Fort, Residintal roads, Khila Warangal mandal, Warangal, Telangana, 506002, India",
+   "type": "castle"
+  },
+  "Warangal, Telangana, India": {
+   "class": "place",
+   "lat": 17.9820644,
+   "lng": 79.5970954,
+   "name": "Warangal, Warangal mandal, Warangal, Telangana, 506002, India",
+   "type": "city"
+  },
+  "Watson Museum, Rajkot, Gujarat, India": {
+   "class": "tourism",
+   "lat": 22.300244,
+   "lng": 70.8019207,
+   "name": "Watson Museum, Dr. B R Ambedkar Chowk Flyover, Rajkot, Rajkot East Taluka, Rajkot, Gujarat, 360001, India",
+   "type": "museum"
+  }
+ },
+ "places": {
+  "1857 Memorial Museum, Residency|Lucknow": {
+   "lat": 26.8618,
+   "lng": 80.9257,
+   "notes": [],
+   "ref": "The Residency, Lucknow",
+   "source": "wikipedia-town"
+  },
+  "Aga Khan Palace|Pune": {
+   "lat": 18.5523,
+   "lng": 73.9015,
+   "notes": [],
+   "ref": "Aga Khan Palace",
+   "source": "wikipedia"
+  },
+  "Agra Fort|Agra": {
+   "lat": 27.179542,
+   "lng": 78.021101,
+   "notes": [],
+   "ref": "Agra Fort",
+   "source": "wikipedia"
+  },
+  "Ajanta Caves|Ajanta": {
+   "lat": 20.55333333,
+   "lng": 75.70027778,
+   "notes": [],
+   "ref": "Ajanta Caves",
+   "source": "wikipedia"
+  },
+  "Akbar's Tomb|Agra": {
+   "lat": 27.22044,
+   "lng": 77.95031,
+   "notes": [],
+   "ref": "Akbar's tomb",
+   "source": "wikipedia"
+  },
+  "Albert Hall Museum|Jaipur": {
+   "lat": 26.91179,
+   "lng": 75.81953,
+   "notes": [],
+   "ref": "Albert Hall Museum",
+   "source": "wikipedia"
+  },
+  "Allahabad Museum|Prayagraj": {
+   "lat": 25.4551,
+   "lng": 81.8462,
+   "notes": [],
+   "ref": "Allahabad Museum",
+   "source": "wikipedia"
+  },
+  "Amar Mahal Palace Museum|Jammu": {
+   "lat": 32.748,
+   "lng": 74.872,
+   "notes": [],
+   "ref": "Amar Mahal Palace",
+   "source": "wikidata-town"
+  },
+  "Amer Fort|Jaipur": {
+   "lat": 26.9859,
+   "lng": 75.8507,
+   "notes": [],
+   "ref": "Amber Fort",
+   "source": "wikipedia"
+  },
+  "Anand Bhawan|Prayagraj": {
+   "lat": 25.459376,
+   "lng": 81.8599815,
+   "notes": [],
+   "ref": "Anand Bhavan",
+   "source": "wikidata"
+  },
+  "Anokhi Museum of Hand Printing|Jaipur": {
+   "lat": 26.99267,
+   "lng": 75.85079,
+   "notes": [],
+   "ref": "Anokhi Museum of Hand Printing",
+   "source": "wikipedia"
+  },
+  "Anthropological Museum|Sri Vijaya Puram": {
+   "lat": 11.66438,
+   "lng": 92.7402326,
+   "notes": [],
+   "ref": "Anthropological Museum, Sri Vijaya Puram, Andaman and Nicobar Islands, India",
+   "source": "nominatim"
+  },
+  "Archaeological Museum, Aihole|Aihole": {
+   "lat": 16.01888889,
+   "lng": 75.88194444,
+   "notes": [],
+   "ref": "Aihole",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Amaravati|Amaravati": {
+   "lat": 16.574543,
+   "lng": 80.3580722,
+   "notes": [],
+   "ref": "Archaeological Museum, Amaravati, Amaravati, Andhra Pradesh, India",
+   "source": "nominatim"
+  },
+  "Archaeological Museum, Badami|Badami": {
+   "lat": 15.92,
+   "lng": 75.68027778,
+   "notes": [],
+   "ref": "Badami",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Bodh Gaya|Bodh Gaya": {
+   "lat": 24.695,
+   "lng": 84.9925,
+   "notes": [],
+   "ref": "Bodh Gaya",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Chanderi|Chanderi": {
+   "lat": 24.72,
+   "lng": 78.13,
+   "notes": [],
+   "ref": "Chanderi",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Dholavira|Dholavira": {
+   "lat": 23.88860556,
+   "lng": 70.21363611,
+   "notes": [],
+   "ref": "Dholavira",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Fatehpur Sikri|Fatehpur Sikri": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Archaeological Museum, Halebidu|Halebidu": {
+   "lat": 13.2157,
+   "lng": 75.9914,
+   "notes": [],
+   "ref": "Halebidu",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Hampi|Hampi": {
+   "lat": 15.335,
+   "lng": 76.462,
+   "notes": [],
+   "ref": "Hampi (town)",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Kalibangan|Kalibangan": {
+   "lat": 29.47416667,
+   "lng": 74.13027778,
+   "notes": [],
+   "ref": "Kalibangan",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Khajuraho|Khajuraho": {
+   "lat": 24.851152,
+   "lng": 79.9236377,
+   "notes": [],
+   "ref": "Archaeological Museum, Khajuraho, Khajuraho, Madhya Pradesh, India",
+   "source": "nominatim"
+  },
+  "Archaeological Museum, Konark|Konark": {
+   "lat": 19.89083333,
+   "lng": 86.10027778,
+   "notes": [],
+   "ref": "Konark",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Kondapur|Kondapur": {
+   "lat": 17.5614,
+   "lng": 78.0111,
+   "notes": [],
+   "ref": "Kondapur, Sangarreddy",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Lalitgiri|Lalitgiri": {
+   "lat": 20.5894,
+   "lng": 86.2506,
+   "notes": [],
+   "ref": "Lalitagiri",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Lothal|Lothal": {
+   "lat": 22.52138889,
+   "lng": 72.24944444,
+   "notes": [],
+   "ref": "Lothal",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Nagarjunakonda|Nagarjunakonda": {
+   "lat": 16.52189444,
+   "lng": 79.24285,
+   "notes": [],
+   "ref": "Nagarjunakonda",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Nalanda|Nalanda": {
+   "lat": 25.136797222222,
+   "lng": 85.443827777778,
+   "notes": [],
+   "ref": "Nalanda mahavihara",
+   "source": "wikidata-town"
+  },
+  "Archaeological Museum, Old Goa|Old Goa": {
+   "lat": 15.503,
+   "lng": 73.912,
+   "notes": [],
+   "ref": "Old Goa",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Ratnagiri|Ratnagiri": {
+   "lat": 20.6412,
+   "lng": 86.3353,
+   "notes": [],
+   "ref": "Ratnagiri, Odisha",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Ropar|Rupnagar": {
+   "lat": 30.96666667,
+   "lng": 76.52361111,
+   "notes": [],
+   "ref": "Rupnagar",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Sanchi|Sanchi": {
+   "lat": 23.47941,
+   "lng": 77.739616,
+   "notes": [],
+   "ref": "Sanchi Archaeological Museum",
+   "source": "wikipedia"
+  },
+  "Archaeological Museum, Sanghol|Sanghol": {
+   "lat": 30.7902,
+   "lng": 76.4012,
+   "notes": [],
+   "ref": "Sanghol Museum",
+   "source": "wikipedia"
+  },
+  "Archaeological Museum, Sarnath|Varanasi": {
+   "lat": 25.379601,
+   "lng": 83.023081,
+   "notes": [],
+   "ref": "Sarnath Museum",
+   "source": "wikipedia"
+  },
+  "Archaeological Museum, Thrissur|Thrissur": {
+   "lat": 10.5303,
+   "lng": 76.2228,
+   "notes": [],
+   "ref": "Archaeological Museum, Thrissur",
+   "source": "wikipedia"
+  },
+  "Archaeological Museum, Vaishali|Vaishali": {
+   "lat": 26.0137,
+   "lng": 85.109,
+   "notes": [],
+   "ref": "Vaishali (ancient city)",
+   "source": "wikipedia-town"
+  },
+  "Archaeological Museum, Vijayapura|Vijayapura": {
+   "lat": 16.8288232,
+   "lng": 75.7333091,
+   "notes": [],
+   "ref": "Archaeological Museum, Vijayapura",
+   "source": "wikipedia"
+  },
+  "Assam State Museum|Guwahati": {
+   "lat": 26.1852883,
+   "lng": 91.752382,
+   "notes": [
+    "wikipedia 'Assam State Museum': no coordinates"
+   ],
+   "ref": "Assam State Museum, Guwahati, Assam, India",
+   "source": "nominatim"
+  },
+  "Asutosh Museum of Indian Art|Kolkata": {
+   "lat": 22.5698,
+   "lng": 88.3608,
+   "notes": [],
+   "ref": "Asutosh Museum of Indian Art",
+   "source": "wikipedia"
+  },
+  "Auto World Vintage Car Museum|Ahmedabad": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Badami Cave Temples|Badami": {
+   "lat": 15.91833333,
+   "lng": 75.68416667,
+   "notes": [],
+   "ref": "Badami cave temples",
+   "source": "wikipedia"
+  },
+  "Bagore Ki Haveli|Udaipur": {
+   "lat": 24.5796687,
+   "lng": 73.6800357,
+   "notes": [],
+   "ref": "Bagore Ki Haveli",
+   "source": "wikipedia"
+  },
+  "Bahu Fort|Jammu": {
+   "lat": 32.7262024,
+   "lng": 74.8802729,
+   "notes": [
+    "wikipedia 'Bahu Fort': no coordinates"
+   ],
+   "ref": "Bahu Fort, Jammu, Jammu and Kashmir, India",
+   "source": "nominatim"
+  },
+  "Bangalore Palace|Bengaluru": {
+   "lat": 12.9985954,
+   "lng": 77.5920086,
+   "notes": [
+    "wikipedia 'Bengaluru Palace': no coordinates"
+   ],
+   "ref": "Bangalore Palace, Bengaluru, Karnataka, India",
+   "source": "nominatim"
+  },
+  "Bara Imambara|Lucknow": {
+   "lat": 26.86916667,
+   "lng": 80.91277778,
+   "notes": [],
+   "ref": "Bara Imambara",
+   "source": "wikipedia"
+  },
+  "Baroda Museum & Picture Gallery|Vadodara": {
+   "lat": 22.3118,
+   "lng": 73.1888,
+   "notes": [],
+   "ref": "Baroda Museum & Picture Gallery",
+   "source": "wikipedia"
+  },
+  "Bekal Fort|Kasaragod": {
+   "lat": 12.39222222,
+   "lng": 75.0325,
+   "notes": [],
+   "ref": "Bekal Fort",
+   "source": "wikipedia"
+  },
+  "Bhangarh Fort|Bhangarh": {
+   "lat": 27.09583333,
+   "lng": 76.2875,
+   "notes": [],
+   "ref": "Bhangarh Fort",
+   "source": "wikipedia"
+  },
+  "Bharat Kala Bhavan|Varanasi": {
+   "lat": 25.2714317,
+   "lng": 82.9957924,
+   "notes": [
+    "wikipedia 'Bharat Kala Bhavan': no coordinates"
+   ],
+   "ref": "Bharat Kala Bhavan, Varanasi, Uttar Pradesh, India",
+   "source": "nominatim"
+  },
+  "Bhuri Singh Museum|Chamba": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Bibi Ka Maqbara|Chhatrapati Sambhajinagar": {
+   "lat": 19.90151,
+   "lng": 75.320195,
+   "notes": [],
+   "ref": "Bibi Ka Maqbara",
+   "source": "wikipedia"
+  },
+  "Bidar Fort|Bidar": {
+   "lat": 17.92444444,
+   "lng": 77.52666667,
+   "notes": [],
+   "ref": "Bidar Fort",
+   "source": "wikipedia"
+  },
+  "Bihar Museum|Patna": {
+   "lat": 25.6081,
+   "lng": 85.121,
+   "notes": [],
+   "ref": "Bihar Museum",
+   "source": "wikipedia"
+  },
+  "Birla Industrial & Technological Museum|Kolkata": {
+   "lat": 22.53444444,
+   "lng": 88.36361111,
+   "notes": [],
+   "ref": "Birla Industrial & Technological Museum",
+   "source": "wikipedia"
+  },
+  "Birla Science Museum|Hyderabad": {
+   "lat": 17.40334722,
+   "lng": 78.47064722,
+   "notes": [],
+   "ref": "Birla Science Museum",
+   "source": "wikipedia"
+  },
+  "Bishnupur Terracotta Temples|Bishnupur": {
+   "lat": 23.075,
+   "lng": 87.317,
+   "notes": [],
+   "ref": "Temples of Bishnupur",
+   "source": "wikipedia"
+  },
+  "Buddha Museum, Kushinagar|Kushinagar": {
+   "lat": 26.7387113,
+   "lng": 83.8932475,
+   "notes": [],
+   "ref": "Buddha Museum, Kushinagar, Kushinagar, Uttar Pradesh, India",
+   "source": "nominatim"
+  },
+  "Buddhist Monuments at Sanchi|Sanchi": {
+   "lat": 23.479223,
+   "lng": 77.739683,
+   "notes": [],
+   "ref": "Sanchi Stupa",
+   "source": "wikipedia"
+  },
+  "Calico Museum of Textiles|Ahmedabad": {
+   "lat": 23.05333333,
+   "lng": 72.59222222,
+   "notes": [],
+   "ref": "Calico Museum of Textiles",
+   "source": "wikipedia"
+  },
+  "Cellular Jail National Memorial|Sri Vijaya Puram": {
+   "lat": 11.675,
+   "lng": 92.748,
+   "notes": [],
+   "ref": "Cellular Jail",
+   "source": "wikidata"
+  },
+  "Central Asian Museum|Leh": {
+   "lat": 34.1652367,
+   "lng": 77.5848945,
+   "notes": [],
+   "ref": "Central Asian Museum, Leh, Ladakh, India",
+   "source": "nominatim"
+  },
+  "Central Museum, Indore|Indore": {
+   "lat": 22.7053461,
+   "lng": 75.879301,
+   "notes": [],
+   "ref": "Indore Museum",
+   "source": "wikipedia"
+  },
+  "Central Museum, Nagpur|Nagpur": {
+   "lat": 21.1509036,
+   "lng": 79.0781941,
+   "notes": [],
+   "ref": "Central Museum, Nagpur, Nagpur, Maharashtra, India",
+   "source": "nominatim"
+  },
+  "Champaner-Pavagadh Archaeological Park|Champaner": {
+   "lat": 22.48333333,
+   "lng": 73.53333333,
+   "notes": [],
+   "ref": "Champaner-Pavagadh Archaeological Park",
+   "source": "wikipedia"
+  },
+  "Chandragiri Fort|Chandragiri": {
+   "lat": 13.5825,
+   "lng": 79.30555556,
+   "notes": [],
+   "ref": "Chandragiri Fort, Andhra Pradesh",
+   "source": "wikipedia"
+  },
+  "Charminar|Hyderabad": {
+   "lat": 17.36163,
+   "lng": 78.47467,
+   "notes": [],
+   "ref": "Charminar",
+   "source": "wikipedia"
+  },
+  "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya|Mumbai": {
+   "lat": 18.9269268,
+   "lng": 72.8326498,
+   "notes": [
+    "wikipedia 'Chhatrapati Shivaji Maharaj Vastu Sangrahalaya': no coordinates"
+   ],
+   "ref": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai, Maharashtra, India",
+   "source": "nominatim"
+  },
+  "Chitradurga Fort|Chitradurga": {
+   "lat": 14.2130469,
+   "lng": 76.3948857,
+   "notes": [
+    "wikipedia 'Chitradurga Fort': no coordinates"
+   ],
+   "ref": "Chitradurga Fort, Chitradurga, Karnataka, India",
+   "source": "nominatim"
+  },
+  "Chittorgarh Fort|Chittorgarh": {
+   "lat": 24.8817143,
+   "lng": 74.6466948,
+   "notes": [
+    "wikipedia 'Chittor Fort': no coordinates"
+   ],
+   "ref": "Chittorgarh Fort, Chittorgarh, Rajasthan, India",
+   "source": "nominatim"
+  },
+  "Chowmahalla Palace|Hyderabad": {
+   "lat": 17.358247,
+   "lng": 78.471701,
+   "notes": [],
+   "ref": "Chowmahalla Palace",
+   "source": "wikipedia"
+  },
+  "City Palace Museum, Jaipur|Jaipur": {
+   "lat": 26.9257,
+   "lng": 75.8236,
+   "notes": [],
+   "ref": "City Palace, Jaipur",
+   "source": "wikipedia-town"
+  },
+  "City Palace Museum, Udaipur|Udaipur": {
+   "lat": 24.5764662,
+   "lng": 73.6835836,
+   "notes": [
+    "wikipedia 'City Palace, Udaipur': no coordinates"
+   ],
+   "ref": "City Palace Museum, Udaipur, Udaipur, Rajasthan, India",
+   "source": "nominatim"
+  },
+  "Cooch Behar Palace|Cooch Behar": {
+   "lat": 26.3269,
+   "lng": 89.4386,
+   "notes": [],
+   "ref": "Cooch Behar Palace",
+   "source": "wikipedia"
+  },
+  "DakshinaChitra|Chennai": {
+   "lat": 12.822995,
+   "lng": 80.241989,
+   "notes": [],
+   "ref": "DakshinaChitra",
+   "source": "wikidata"
+  },
+  "Daulatabad Fort|Daulatabad": {
+   "lat": 19.942724,
+   "lng": 75.213164,
+   "notes": [],
+   "ref": "Daulatabad Fort",
+   "source": "wikipedia"
+  },
+  "Dhamek Stupa & Sarnath Ruins|Varanasi": {
+   "lat": 25.3808,
+   "lng": 83.0245,
+   "notes": [],
+   "ref": "Dhamek Stupa",
+   "source": "wikipedia"
+  },
+  "Dharohar Museum|Kurukshetra": {
+   "lat": 29.961087,
+   "lng": 76.8192736,
+   "notes": [
+    "wikipedia 'Dharohar Museum': no coordinates"
+   ],
+   "ref": "Dharohar Museum, Kurukshetra, Haryana, India",
+   "source": "nominatim"
+  },
+  "Diu Fort|Diu": {
+   "lat": 20.714789,
+   "lng": 70.996031,
+   "notes": [],
+   "ref": "Diu Fortress",
+   "source": "wikidata"
+  },
+  "Diu Museum|Diu": {
+   "lat": 20.7155637,
+   "lng": 70.9890805,
+   "notes": [],
+   "ref": "Diu Museum, Diu, Dadra and Nagar Haveli and Daman and Diu, India",
+   "source": "nominatim"
+  },
+  "Dogra Art Museum|Jammu": {
+   "lat": 32.7388073,
+   "lng": 74.8749129,
+   "notes": [
+    "wikipedia 'Dogra Art Museum, Jammu': no coordinates"
+   ],
+   "ref": "Dogra Art Museum, Jammu, Jammu and Kashmir, India",
+   "source": "nominatim"
+  },
+  "Don Bosco Museum|Shillong": {
+   "lat": 25.5929791,
+   "lng": 91.8825275,
+   "notes": [],
+   "ref": "Don Bosco Museum, Shillong, Meghalaya, India",
+   "source": "nominatim"
+  },
+  "Dr. Bhau Daji Lad Museum|Mumbai": {
+   "lat": 18.9791016,
+   "lng": 72.8347935,
+   "notes": [
+    "wikipedia 'Dr. Bhau Daji Lad Museum': no coordinates"
+   ],
+   "ref": "Dr. Bhau Daji Lad Museum, Mumbai, Maharashtra, India",
+   "source": "nominatim"
+  },
+  "Dr. Ram Dayal Munda Tribal Welfare Research Institute Museum|Ranchi": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Elephanta Caves|Elephanta": {
+   "lat": 18.96333333,
+   "lng": 72.93138889,
+   "notes": [],
+   "ref": "Elephanta Caves",
+   "source": "wikipedia"
+  },
+  "Ellora Caves|Ellora": {
+   "lat": 20.0268,
+   "lng": 75.1771,
+   "notes": [],
+   "ref": "Ellora Caves",
+   "source": "wikipedia"
+  },
+  "Fatehpur Sikri|Fatehpur Sikri": {
+   "lat": 27.0972404,
+   "lng": 77.665233,
+   "notes": [],
+   "ref": "Fatehpur Sikri, Fatehpur Sikri, Uttar Pradesh, India",
+   "source": "nominatim"
+  },
+  "Forest Research Institute Museum|Dehradun": {
+   "lat": 30.3439,
+   "lng": 77.9994,
+   "notes": [],
+   "ref": "Forest Research Institute (India)",
+   "source": "wikipedia-town"
+  },
+  "Fort Aguada|Candolim": {
+   "lat": 15.488,
+   "lng": 73.763,
+   "notes": [],
+   "ref": "Fort Aguada",
+   "source": "wikipedia"
+  },
+  "Fort Dansborg|Tharangambadi": {
+   "lat": 11.0245921,
+   "lng": 79.85601,
+   "notes": [
+    "wikipedia 'Fort Dansborg': no coordinates"
+   ],
+   "ref": "Fort Dansborg, Tharangambadi, Tamil Nadu, India",
+   "source": "nominatim"
+  },
+  "Fort St. George Museum|Chennai": {
+   "lat": 13.080677,
+   "lng": 80.2876057,
+   "notes": [],
+   "ref": "Fort St. George Museum, Chennai, Tamil Nadu, India",
+   "source": "nominatim"
+  },
+  "Gandhi Memorial Museum|Madurai": {
+   "lat": 9.929923,
+   "lng": 78.138593,
+   "notes": [],
+   "ref": "Gandhi Memorial Museum, Madurai",
+   "source": "wikipedia"
+  },
+  "Gandhi Smarak Sangrahalaya (Sabarmati Ashram)|Ahmedabad": {
+   "lat": 23.0601652,
+   "lng": 72.5806382,
+   "notes": [
+    "wikipedia 'Sabarmati Ashram': no coordinates"
+   ],
+   "ref": "Sabarmati Ashram, Ahmedabad, Gujarat, India",
+   "source": "nominatim"
+  },
+  "Gandhi Smriti|New Delhi": {
+   "lat": 28.6019,
+   "lng": 77.2144,
+   "notes": [],
+   "ref": "Gandhi Smriti",
+   "source": "wikipedia"
+  },
+  "Gingee Fort|Gingee": {
+   "lat": 12.2501,
+   "lng": 79.3948,
+   "notes": [],
+   "ref": "Gingee Fort",
+   "source": "wikipedia"
+  },
+  "Goa State Museum|Panaji": {
+   "lat": 15.495916666666666,
+   "lng": 73.83361111111111,
+   "notes": [],
+   "ref": "Goa State Museum",
+   "source": "wikidata"
+  },
+  "Gobindgarh Fort|Amritsar": {
+   "lat": 31.6271122,
+   "lng": 74.8604078,
+   "notes": [
+    "wikipedia 'Gobindgarh Fort': no coordinates"
+   ],
+   "ref": "Gobindgarh Fort, Amritsar, Punjab, India",
+   "source": "nominatim"
+  },
+  "Gol Gumbaz|Vijayapura": {
+   "lat": 16.83003056,
+   "lng": 75.73609722,
+   "notes": [],
+   "ref": "Gol Gumbaz",
+   "source": "wikipedia"
+  },
+  "Golconda Fort|Hyderabad": {
+   "lat": 17.38305556,
+   "lng": 78.40111111,
+   "notes": [],
+   "ref": "Golconda",
+   "source": "wikipedia"
+  },
+  "Government Museum and Art Gallery|Chandigarh": {
+   "lat": 30.74888889,
+   "lng": 76.7875,
+   "notes": [],
+   "ref": "Government Museum and Art Gallery, Chandigarh",
+   "source": "wikipedia"
+  },
+  "Government Museum, Ajmer|Ajmer": {
+   "lat": 26.4607298,
+   "lng": 74.6336911,
+   "notes": [],
+   "ref": "Ajmer Museum",
+   "source": "nominatim"
+  },
+  "Government Museum, Bengaluru|Bengaluru": {
+   "lat": 12.9748744,
+   "lng": 77.5957744,
+   "notes": [
+    "wikipedia 'Government Museum, Bengaluru': no coordinates"
+   ],
+   "ref": "Government Museum, Bengaluru, Bengaluru, Karnataka, India",
+   "source": "nominatim"
+  },
+  "Government Museum, Bharatpur|Bharatpur": {
+   "lat": 27.221933,
+   "lng": 77.4937377,
+   "notes": [],
+   "ref": "Bharatpur Museum",
+   "source": "nominatim"
+  },
+  "Government Museum, Chennai|Chennai": {
+   "lat": 13.0711,
+   "lng": 80.2569,
+   "notes": [],
+   "ref": "Government Museum, Chennai",
+   "source": "wikipedia"
+  },
+  "Government Museum, Mathura|Mathura": {
+   "lat": 27.4928,
+   "lng": 77.6806,
+   "notes": [],
+   "ref": "Government Museum, Mathura",
+   "source": "wikipedia"
+  },
+  "Group of Monuments at Hampi|Hampi": {
+   "lat": 15.3294088,
+   "lng": 76.4755382,
+   "notes": [],
+   "ref": "Group of Monuments at Hampi, Hampi, Karnataka, India",
+   "source": "nominatim"
+  },
+  "Group of Monuments at Mahabalipuram|Mamallapuram": {
+   "lat": 12.6167,
+   "lng": 80.1917,
+   "notes": [],
+   "ref": "Group of Monuments at Mahabalipuram",
+   "source": "wikipedia"
+  },
+  "Gujari Mahal Archaeological Museum|Gwalior": {
+   "lat": 26.234,
+   "lng": 78.17,
+   "notes": [],
+   "ref": "Gujari Mahal Archaeological Museum",
+   "source": "wikipedia"
+  },
+  "Gurusaday Museum|Kolkata": {
+   "lat": 22.45542,
+   "lng": 88.30342,
+   "notes": [],
+   "ref": "Gurusaday Museum",
+   "source": "wikipedia"
+  },
+  "Gwalior Fort|Gwalior": {
+   "lat": 26.2303,
+   "lng": 78.1689,
+   "notes": [],
+   "ref": "Gwalior Fort",
+   "source": "wikipedia"
+  },
+  "HAL Heritage Centre and Aerospace Museum|Bengaluru": {
+   "lat": 12.955431,
+   "lng": 77.681386,
+   "notes": [],
+   "ref": "HAL Aerospace Museum",
+   "source": "wikipedia"
+  },
+  "Hall of Fame|Leh": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Hawa Mahal|Jaipur": {
+   "lat": 26.9239,
+   "lng": 75.8267,
+   "notes": [],
+   "ref": "Hawa Mahal",
+   "source": "wikipedia"
+  },
+  "Hazarduari Palace Museum|Murshidabad": {
+   "lat": 24.1864,
+   "lng": 88.2687,
+   "notes": [],
+   "ref": "Hazarduari Palace",
+   "source": "wikipedia-town"
+  },
+  "Hill Palace Museum|Tripunithura": {
+   "lat": 9.95263889,
+   "lng": 76.36416667,
+   "notes": [],
+   "ref": "Hill Palace, Kochi",
+   "source": "wikipedia-town"
+  },
+  "Himachal State Museum|Shimla": {
+   "lat": 31.10333333,
+   "lng": 77.15083333,
+   "notes": [],
+   "ref": "Himachal State Museum",
+   "source": "wikipedia"
+  },
+  "Himalayan Mountaineering Institute Museum|Darjeeling": {
+   "lat": 27.0583704,
+   "lng": 88.2539385,
+   "notes": [
+    "wikipedia 'Himalayan Mountaineering Institute': no coordinates"
+   ],
+   "ref": "Himalayan Mountaineering Institute Museum, Darjeeling, West Bengal, India",
+   "source": "nominatim"
+  },
+  "Houses of Goa Museum|Porvorim": {
+   "lat": 15.5302725,
+   "lng": 73.8405359,
+   "notes": [],
+   "ref": "Houses of Goa Museum, Porvorim, Goa, India",
+   "source": "nominatim"
+  },
+  "Humayun's Tomb|New Delhi": {
+   "lat": 28.59327778,
+   "lng": 77.25069444,
+   "notes": [],
+   "ref": "Humayun's tomb",
+   "source": "wikipedia"
+  },
+  "INA Memorial Complex|Moirang": {
+   "lat": 24.5022549,
+   "lng": 93.7768821,
+   "notes": [
+    "wikipedia 'INA Martyrs' Memorial Complex': no coordinates"
+   ],
+   "ref": "INA Museum, Moirang",
+   "source": "nominatim"
+  },
+  "INS Kursura Submarine Museum|Visakhapatnam": {
+   "lat": 17.7170864,
+   "lng": 83.3298119,
+   "notes": [],
+   "ref": "INS Kursura Submarine Museum, Visakhapatnam, Andhra Pradesh, India",
+   "source": "nominatim"
+  },
+  "Indian Air Force Museum|New Delhi": {
+   "lat": 28.57388889,
+   "lng": 77.11694444,
+   "notes": [],
+   "ref": "Indian Air Force Museum, Palam",
+   "source": "wikipedia"
+  },
+  "Indian Museum|Kolkata": {
+   "lat": 22.55805556,
+   "lng": 88.35083333,
+   "notes": [],
+   "ref": "Indian Museum",
+   "source": "wikipedia"
+  },
+  "Indira Gandhi Rashtriya Manav Sangrahalaya|Bhopal": {
+   "lat": 23.232279,
+   "lng": 77.37761,
+   "notes": [],
+   "ref": "Indira Gandhi Rashtriya Manav Sangrahalaya",
+   "source": "wikipedia"
+  },
+  "Indo-Portuguese Museum|Kochi": {
+   "lat": 9.96288056,
+   "lng": 76.24005278,
+   "notes": [],
+   "ref": "Indo-Portuguese Museum",
+   "source": "wikipedia"
+  },
+  "Itmad-ud-Daulah's Tomb|Agra": {
+   "lat": 27.1925,
+   "lng": 78.03194444,
+   "notes": [],
+   "ref": "Itmad Ud Daulah",
+   "source": "wikipedia"
+  },
+  "Jaganmohan Palace Art Gallery|Mysuru": {
+   "lat": 12.3068366,
+   "lng": 76.649861,
+   "notes": [],
+   "ref": "Jaganmohan Palace",
+   "source": "wikipedia-town"
+  },
+  "Jahaz Mahal, Mandu|Mandu": {
+   "failed": [
+    "wikipedia 'Jahaz Mahal': 709 km from the city centre (28.5143, 77.1785)"
+   ]
+  },
+  "Jai Vilas Palace Museum|Gwalior": {
+   "lat": 26.2047,
+   "lng": 78.1686,
+   "notes": [],
+   "ref": "Jai Vilas Mahal",
+   "source": "wikipedia-town"
+  },
+  "Jaigarh Fort|Jaipur": {
+   "lat": 26.9859,
+   "lng": 75.8507,
+   "notes": [],
+   "ref": "Jaigarh Fort",
+   "source": "wikipedia"
+  },
+  "Jaisalmer Fort Palace Museum|Jaisalmer": {
+   "lat": 26.9127,
+   "lng": 70.9126,
+   "notes": [],
+   "ref": "Jaisalmer Fort",
+   "source": "wikipedia-town"
+  },
+  "Jantar Mantar|Jaipur": {
+   "lat": 26.92472,
+   "lng": 75.82444,
+   "notes": [],
+   "ref": "Jantar Mantar, Jaipur",
+   "source": "wikipedia"
+  },
+  "Jawaharlal Nehru State Museum|Itanagar": {
+   "lat": 27.102036,
+   "lng": 93.625003,
+   "notes": [],
+   "ref": "Jawaharlal Nehru Museum, Itanagar",
+   "source": "wikidata"
+  },
+  "Jhansi Fort|Jhansi": {
+   "lat": 25.45809,
+   "lng": 78.57544,
+   "notes": [],
+   "ref": "Jhansi Fort",
+   "source": "wikipedia"
+  },
+  "Jharkhand State Museum|Ranchi": {
+   "lat": 23.383536111111,
+   "lng": 85.385455555556,
+   "notes": [],
+   "ref": "State Museum, Ranchi",
+   "source": "wikidata"
+  },
+  "Junagarh Fort & Museum|Bikaner": {
+   "lat": 28.0223479,
+   "lng": 73.318133,
+   "notes": [
+    "wikipedia 'Junagarh Fort': no coordinates"
+   ],
+   "ref": "Junagarh Fort, Bikaner, Rajasthan, India",
+   "source": "nominatim"
+  },
+  "Kangla Fort|Imphal": {
+   "lat": 24.808,
+   "lng": 93.94,
+   "notes": [],
+   "ref": "Kangla Fort",
+   "source": "wikipedia"
+  },
+  "Kangra Art Museum|Dharamshala": {
+   "lat": 32.2176714,
+   "lng": 76.3183812,
+   "notes": [],
+   "ref": "Kangra Art Museum, Dharamshala, Himachal Pradesh, India",
+   "source": "nominatim"
+  },
+  "Kangra Fort|Kangra": {
+   "lat": 32.08808333,
+   "lng": 76.25777778,
+   "notes": [],
+   "ref": "Kangra Fort",
+   "source": "wikipedia"
+  },
+  "Kerala Folklore Museum|Kochi": {
+   "lat": 9.93302,
+   "lng": 76.2991691,
+   "notes": [],
+   "ref": "Kerala Folklore Museum",
+   "source": "nominatim"
+  },
+  "Khajuraho Group of Monuments|Khajuraho": {
+   "lat": 24.854422,
+   "lng": 79.921427,
+   "notes": [],
+   "ref": "Khajuraho Group of Monuments",
+   "source": "wikipedia"
+  },
+  "Kiran Nadar Museum of Art|New Delhi": {
+   "lat": 28.52884,
+   "lng": 77.22008,
+   "notes": [],
+   "ref": "Kiran Nadar Museum of Art",
+   "source": "wikidata"
+  },
+  "Konark Sun Temple|Konark": {
+   "lat": 19.8875,
+   "lng": 86.09472222,
+   "notes": [],
+   "ref": "Konark Sun Temple",
+   "source": "wikipedia"
+  },
+  "Krishnapuram Palace Museum|Kayamkulam": {
+   "lat": 9.1502842,
+   "lng": 76.508775,
+   "notes": [],
+   "ref": "Krishnapuram Palace Museum, Kayamkulam, Kerala, India",
+   "source": "nominatim"
+  },
+  "Kumbhalgarh Fort|Kumbhalgarh": {
+   "lat": 25.1526769,
+   "lng": 73.5862851,
+   "notes": [],
+   "ref": "Kumbhalgarh Fort, Kumbhalgarh, Rajasthan, India",
+   "source": "nominatim"
+  },
+  "Kurukshetra Panorama and Science Centre|Kurukshetra": {
+   "lat": 29.965844,
+   "lng": 76.8334216,
+   "notes": [
+    "wikipedia 'Kurukshetra Panorama and Science Centre': no coordinates"
+   ],
+   "ref": "Kurukshetra Panorama and Science Centre, Kurukshetra, Haryana, India",
+   "source": "nominatim"
+  },
+  "Kutch Museum|Bhuj": {
+   "lat": 23.24861111,
+   "lng": 69.66638889,
+   "notes": [],
+   "ref": "Kutch Museum",
+   "source": "wikipedia"
+  },
+  "Kuthiramalika Palace Museum|Thiruvananthapuram": {
+   "lat": 8.4824,
+   "lng": 76.9455,
+   "notes": [],
+   "ref": "Kuthiramalika",
+   "source": "wikidata-town"
+  },
+  "Lalbhai Dalpatbhai Museum|Ahmedabad": {
+   "lat": 23.0331715,
+   "lng": 72.5498983,
+   "notes": [
+    "wikipedia 'Lalbhai Dalpatbhai Museum': no coordinates"
+   ],
+   "ref": "Lalbhai Dalpatbhai Museum, Ahmedabad, Gujarat, India",
+   "source": "nominatim"
+  },
+  "Le Corbusier Centre|Chandigarh": {
+   "lat": 30.7297999,
+   "lng": 76.7994591,
+   "notes": [],
+   "ref": "Le Corbusier Centre, Chandigarh, Chandigarh, India",
+   "source": "nominatim"
+  },
+  "Leh Palace|Leh": {
+   "lat": 34.16628,
+   "lng": 77.58639,
+   "notes": [],
+   "ref": "Leh Palace",
+   "source": "wikipedia"
+  },
+  "Mahant Ghasidas Memorial Museum|Raipur": {
+   "lat": 21.243,
+   "lng": 81.645,
+   "notes": [],
+   "ref": "Mahant Ghasidas Memorial Museum, Raipur",
+   "source": "wikipedia"
+  },
+  "Maharaja Fatehsingh Museum|Vadodara": {
+   "lat": 22.2921,
+   "lng": 73.1938,
+   "notes": [],
+   "ref": "Maharaja Fateh Singh Museum",
+   "source": "wikipedia"
+  },
+  "Maharaja Ranjit Singh Museum (Ram Bagh)|Amritsar": {
+   "lat": 31.6405669,
+   "lng": 74.8764235,
+   "notes": [
+    "wikipedia 'Ram Bagh, Amritsar': no coordinates"
+   ],
+   "ref": "Maharaja Ranjit Singh Museum, Amritsar, Punjab, India",
+   "source": "nominatim"
+  },
+  "Mani Bhavan Gandhi Sangrahalaya|Mumbai": {
+   "lat": 18.95993,
+   "lng": 72.81137,
+   "notes": [],
+   "ref": "Mani Bhavan",
+   "source": "wikipedia-town"
+  },
+  "Manipur State Museum|Imphal": {
+   "lat": 24.8049,
+   "lng": 93.9371,
+   "notes": [],
+   "ref": "Manipur State Museum",
+   "source": "wikipedia"
+  },
+  "Marine Museum|Kavaratti": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Mattancherry Palace (Dutch Palace)|Kochi": {
+   "lat": 9.958,
+   "lng": 76.259,
+   "notes": [],
+   "ref": "Mattancherry Palace",
+   "source": "wikipedia"
+  },
+  "Mehrangarh Fort & Museum|Jodhpur": {
+   "lat": 26.29805556,
+   "lng": 73.01888889,
+   "notes": [],
+   "ref": "Mehrangarh",
+   "source": "wikipedia-town"
+  },
+  "Mizoram State Museum|Aizawl": {
+   "lat": 23.7381,
+   "lng": 92.7156,
+   "notes": [],
+   "ref": "Mizoram State Museum",
+   "source": "wikipedia"
+  },
+  "Museo Camera|Gurugram": {
+   "lat": 28.46969,
+   "lng": 77.08042,
+   "notes": [],
+   "ref": "Museo Camera",
+   "source": "wikipedia"
+  },
+  "Museum of Tribal Arts & Artefacts|Bhubaneswar": {
+   "lat": 20.2562,
+   "lng": 85.8415,
+   "notes": [],
+   "ref": "Tribal Research Institute Museum",
+   "source": "wikipedia"
+  },
+  "Mysore Palace|Mysuru": {
+   "lat": 12.30388889,
+   "lng": 76.65444444,
+   "notes": [],
+   "ref": "Mysore Palace",
+   "source": "wikipedia"
+  },
+  "Nagaland State Museum|Kohima": {
+   "lat": 25.685,
+   "lng": 94.1049,
+   "notes": [],
+   "ref": "Nagaland State Museum",
+   "source": "wikipedia"
+  },
+  "Nahargarh Fort|Jaipur": {
+   "lat": 26.937255,
+   "lng": 75.81549,
+   "notes": [],
+   "ref": "Nahargarh Fort",
+   "source": "wikipedia"
+  },
+  "Nalanda Mahavihara|Nalanda": {
+   "lat": 25.1281352,
+   "lng": 85.4455941,
+   "notes": [
+    "wikipedia 'Nalanda mahavihara': no coordinates"
+   ],
+   "ref": "Nalanda Mahavihara, Nalanda, Bihar, India",
+   "source": "nominatim"
+  },
+  "Namgyal Institute of Tibetology|Gangtok": {
+   "lat": 27.3159,
+   "lng": 88.6047,
+   "notes": [],
+   "ref": "Namgyal Institute of Tibetology",
+   "source": "wikipedia"
+  },
+  "Napier Museum|Thiruvananthapuram": {
+   "lat": 8.5089308,
+   "lng": 76.9551433,
+   "notes": [
+    "wikipedia 'Napier Museum': no coordinates"
+   ],
+   "ref": "Napier Museum, Thiruvananthapuram, Kerala, India",
+   "source": "nominatim"
+  },
+  "National Crafts Museum & Hastkala Academy|New Delhi": {
+   "lat": 28.613551,
+   "lng": 77.24232,
+   "notes": [],
+   "ref": "National Handicrafts and Handlooms Museum",
+   "source": "wikidata"
+  },
+  "National Gallery of Modern Art, Bengaluru|Bengaluru": {
+   "lat": 12.9895186,
+   "lng": 77.5881044,
+   "notes": [
+    "wikipedia 'National Gallery of Modern Art, Bengaluru': no coordinates"
+   ],
+   "ref": "National Gallery of Modern Art, Bengaluru, Bengaluru, Karnataka, India",
+   "source": "nominatim"
+  },
+  "National Gallery of Modern Art, Mumbai|Mumbai": {
+   "lat": 18.9258,
+   "lng": 72.8313,
+   "notes": [],
+   "ref": "National Gallery of Modern Art, Mumbai",
+   "source": "wikipedia"
+  },
+  "National Gallery of Modern Art|New Delhi": {
+   "lat": 28.610182,
+   "lng": 77.234401,
+   "notes": [],
+   "ref": "National Gallery of Modern Art",
+   "source": "wikipedia"
+  },
+  "National Gandhi Museum|New Delhi": {
+   "lat": 29.07444444,
+   "lng": 77.41611111,
+   "notes": [],
+   "ref": "National Gandhi Museum",
+   "source": "wikipedia"
+  },
+  "National Museum|New Delhi": {
+   "lat": 28.611811,
+   "lng": 77.219262,
+   "notes": [],
+   "ref": "National Museum of India",
+   "source": "wikipedia"
+  },
+  "National Philatelic Museum|New Delhi": {
+   "lat": 28.6226256,
+   "lng": 77.2134148,
+   "notes": [],
+   "ref": "National Philatelic Museum, New Delhi",
+   "source": "wikipedia"
+  },
+  "National Rail Museum|New Delhi": {
+   "lat": 28.58472222,
+   "lng": 77.18138889,
+   "notes": [],
+   "ref": "National Rail Museum, New Delhi",
+   "source": "wikipedia"
+  },
+  "National Salt Satyagraha Memorial|Dandi": {
+   "lat": 20.89138889,
+   "lng": 72.79972222,
+   "notes": [],
+   "ref": "National Salt Satyagraha Memorial",
+   "source": "wikipedia"
+  },
+  "National Science Centre|New Delhi": {
+   "lat": 28.61415,
+   "lng": 77.24477,
+   "notes": [],
+   "ref": "National Science Centre, Delhi",
+   "source": "wikidata"
+  },
+  "National War Memorial & Museum|New Delhi": {
+   "lat": 28.6127558,
+   "lng": 77.2330441,
+   "notes": [],
+   "ref": "National War Memorial, New Delhi, Delhi, India",
+   "source": "nominatim"
+  },
+  "Naval Aviation Museum|Vasco da Gama": {
+   "lat": 15.374743,
+   "lng": 73.838543,
+   "notes": [],
+   "ref": "Naval Aviation Museum (Goa)",
+   "source": "wikipedia"
+  },
+  "Neermahal|Melaghar": {
+   "lat": 23.5069284,
+   "lng": 91.3149943,
+   "notes": [
+    "wikipedia 'Neermahal': no coordinates"
+   ],
+   "ref": "Neermahal, Melaghar, Tripura, India",
+   "source": "nominatim"
+  },
+  "Nehru Science Centre|Mumbai": {
+   "lat": 18.9906985,
+   "lng": 72.8182906,
+   "notes": [
+    "wikipedia 'Nehru Science Centre': no coordinates"
+   ],
+   "ref": "Nehru Science Centre, Mumbai, Maharashtra, India",
+   "source": "nominatim"
+  },
+  "Netaji Bhawan|Kolkata": {
+   "lat": 22.53758333,
+   "lng": 88.35125,
+   "notes": [],
+   "ref": "Netaji Bhawan",
+   "source": "wikipedia"
+  },
+  "Nicholas Roerich Art Gallery|Naggar": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Nizam's Museum (Purani Haveli)|Hyderabad": {
+   "lat": 17.36649,
+   "lng": 78.48285,
+   "notes": [],
+   "ref": "The Nizam's Museum",
+   "source": "wikipedia"
+  },
+  "Odisha State Museum|Bhubaneswar": {
+   "lat": 20.2562,
+   "lng": 85.8415,
+   "notes": [],
+   "ref": "Odisha State Museum",
+   "source": "wikipedia"
+  },
+  "Orchha Fort|Orchha": {
+   "lat": 25.350697,
+   "lng": 78.644219,
+   "notes": [],
+   "ref": "Jahangir Mahal, Orchha",
+   "source": "wikipedia"
+  },
+  "Padmanabhapuram Palace|Thuckalay": {
+   "lat": 8.250916,
+   "lng": 77.326702,
+   "notes": [],
+   "ref": "Padmanabhapuram Palace",
+   "source": "wikipedia"
+  },
+  "Palamu Fort|Betla": {
+   "lat": 23.8946,
+   "lng": 84.2328,
+   "notes": [],
+   "ref": "Palamu fort",
+   "source": "wikipedia"
+  },
+  "Pari Mahal|Srinagar": {
+   "lat": 34.08098,
+   "lng": 74.87714,
+   "notes": [],
+   "ref": "Pari Mahal",
+   "source": "wikipedia"
+  },
+  "Partition Museum|Amritsar": {
+   "lat": 31.6257024,
+   "lng": 74.87905,
+   "notes": [
+    "wikipedia 'Partition Museum': no coordinates"
+   ],
+   "ref": "Partition Museum, Amritsar, Punjab, India",
+   "source": "nominatim"
+  },
+  "Patna Museum|Patna": {
+   "lat": 25.6126479,
+   "lng": 85.1335127,
+   "notes": [
+    "wikipedia 'Patna Museum': no coordinates"
+   ],
+   "ref": "Patna Museum, Patna, Bihar, India",
+   "source": "nominatim"
+  },
+  "Pattadakal Group of Monuments|Pattadakal": {
+   "lat": 15.95138889,
+   "lng": 75.81472222,
+   "notes": [],
+   "ref": "Pattadakal",
+   "source": "wikipedia-town"
+  },
+  "Pazhassi Raja Archaeological Museum|Kozhikode": {
+   "lat": 11.2925,
+   "lng": 75.7781,
+   "notes": [],
+   "ref": "Pazhassi Raja Archaeological Museum",
+   "source": "wikipedia"
+  },
+  "Pinjore Gardens|Pinjore": {
+   "lat": 30.79330556,
+   "lng": 76.91329167,
+   "notes": [],
+   "ref": "Yadavindra Gardens",
+   "source": "wikipedia"
+  },
+  "Pradhanmantri Sangrahalaya|New Delhi": {
+   "lat": 28.602608,
+   "lng": 77.198774,
+   "notes": [],
+   "ref": "Prime Ministers' Museum and Library",
+   "source": "wikidata"
+  },
+  "Puducherry Museum|Puducherry": {
+   "lat": 11.93482429,
+   "lng": 79.8340346,
+   "notes": [],
+   "ref": "Pondicherry Museum",
+   "source": "wikipedia"
+  },
+  "Purana Qila & Museum|New Delhi": {
+   "lat": 28.6086534,
+   "lng": 77.2417634,
+   "notes": [],
+   "ref": "Purana Qila, New Delhi, Delhi, India",
+   "source": "nominatim"
+  },
+  "Purkhauti Muktangan|Nava Raipur": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Qila Mubarak|Bathinda": {
+   "lat": 30.20805556,
+   "lng": 74.9375,
+   "notes": [],
+   "ref": "Qila Mubarak, Bathinda",
+   "source": "wikipedia"
+  },
+  "Qutb Shahi Tombs|Hyderabad": {
+   "lat": 17.395,
+   "lng": 78.396,
+   "notes": [],
+   "ref": "Qutb Shahi tombs",
+   "source": "wikipedia"
+  },
+  "Qutub Minar|New Delhi": {
+   "lat": 28.524355,
+   "lng": 77.185248,
+   "notes": [],
+   "ref": "Qutb Minar",
+   "source": "wikipedia"
+  },
+  "Rabdentse Ruins|Pelling": {
+   "lat": 27.30111111,
+   "lng": 88.25388889,
+   "notes": [],
+   "ref": "Rabdentse",
+   "source": "wikipedia"
+  },
+  "Rabindra Bharati Museum (Jorasanko Thakurbari)|Kolkata": {
+   "lat": 22.585,
+   "lng": 88.3592,
+   "notes": [],
+   "ref": "Jorasanko Thakur Bari",
+   "source": "wikipedia-town"
+  },
+  "Rabindra Bhavana Museum|Santiniketan": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Raigad Fort|Raigad": {
+   "lat": 18.2335,
+   "lng": 73.4406,
+   "notes": [],
+   "ref": "Raigad Fort",
+   "source": "wikipedia"
+  },
+  "Rail Museum, Mysuru|Mysuru": {
+   "lat": 12.3158751,
+   "lng": 76.643859,
+   "notes": [],
+   "ref": "Rail Museum, Mysuru, Mysuru, Karnataka, India",
+   "source": "nominatim"
+  },
+  "Raja Dinkar Kelkar Museum|Pune": {
+   "lat": 18.51083333,
+   "lng": 73.85444444,
+   "notes": [],
+   "ref": "Raja Dinkar Kelkar Museum",
+   "source": "wikipedia"
+  },
+  "Ramappa Temple|Palampet": {
+   "lat": 18.25916667,
+   "lng": 79.94333333,
+   "notes": [],
+   "ref": "Ramappa Temple",
+   "source": "wikipedia"
+  },
+  "Ramnagar Fort & Museum|Varanasi": {
+   "lat": 25.2705842,
+   "lng": 83.0248777,
+   "notes": [
+    "wikipedia 'Ramnagar Fort': no coordinates"
+   ],
+   "ref": "Ramnagar Fort & Museum, Varanasi, Uttar Pradesh, India",
+   "source": "nominatim"
+  },
+  "Rang Ghar|Sivasagar": {
+   "lat": 26.967,
+   "lng": 94.619,
+   "notes": [],
+   "ref": "Rang Ghar",
+   "source": "wikipedia"
+  },
+  "Rani ki Vav|Patan": {
+   "lat": 23.85888889,
+   "lng": 72.10166667,
+   "notes": [],
+   "ref": "Rani ki Vav",
+   "source": "wikipedia"
+  },
+  "Ranthambore Fort|Sawai Madhopur": {
+   "lat": 26.02027778,
+   "lng": 76.455,
+   "notes": [],
+   "ref": "Ranthambore Fort",
+   "source": "wikipedia"
+  },
+  "Rashtrapati Niwas|Shimla": {
+   "lat": 31.10373,
+   "lng": 77.141887,
+   "notes": [],
+   "ref": "Rashtrapati Niwas",
+   "source": "wikipedia"
+  },
+  "Red Fort|New Delhi": {
+   "lat": 28.65583333,
+   "lng": 77.24083333,
+   "notes": [],
+   "ref": "Red Fort",
+   "source": "wikipedia"
+  },
+  "Regional Museum of Natural History|Bhubaneswar": {
+   "lat": 20.299611,
+   "lng": 85.832063,
+   "notes": [],
+   "ref": "Regional Museum of Natural History, Bhubaneswar",
+   "source": "wikipedia"
+  },
+  "Rock Shelters of Bhimbetka|Bhimbetka": {
+   "lat": 22.938415,
+   "lng": 77.613085,
+   "notes": [],
+   "ref": "Bhimbetka rock shelters",
+   "source": "wikipedia"
+  },
+  "Ross Island|Sri Vijaya Puram": {
+   "lat": 11.6754345,
+   "lng": 92.7626119,
+   "notes": [],
+   "ref": "Ross Island, Sri Vijaya Puram, Andaman and Nicobar Islands, India",
+   "source": "nominatim"
+  },
+  "Safdarjung's Tomb|New Delhi": {
+   "lat": 28.5893,
+   "lng": 77.2106,
+   "notes": [],
+   "ref": "Tomb of Safdar Jang",
+   "source": "wikipedia"
+  },
+  "Salar Jung Museum|Hyderabad": {
+   "lat": 17.371426,
+   "lng": 78.480347,
+   "notes": [],
+   "ref": "Salar Jung Museum",
+   "source": "wikipedia"
+  },
+  "Samudrika Naval Marine Museum|Sri Vijaya Puram": {
+   "lat": 11.672,
+   "lng": 92.726,
+   "notes": [],
+   "ref": "Samudrika Naval Marine Museum",
+   "source": "wikipedia"
+  },
+  "Saraswathi Mahal Library Museum|Thanjavur": {
+   "lat": 10.79138889,
+   "lng": 79.13611111,
+   "notes": [],
+   "ref": "Saraswathi Mahal Library",
+   "source": "wikipedia-town"
+  },
+  "Sardar Vallabhbhai Patel National Memorial|Ahmedabad": {
+   "lat": 23.061,
+   "lng": 72.591,
+   "notes": [],
+   "ref": "Sardar Vallabhbhai Patel National Memorial",
+   "source": "wikipedia"
+  },
+  "Science City|Kolkata": {
+   "lat": 22.54055556,
+   "lng": 88.39583333,
+   "notes": [],
+   "ref": "Science City, Kolkata",
+   "source": "wikipedia"
+  },
+  "Shahu Chhatrapati Museum (New Palace)|Kolhapur": {
+   "lat": 16.7176142,
+   "lng": 74.2316179,
+   "notes": [],
+   "ref": "New Palace, Kolhapur, Maharashtra, India",
+   "source": "nominatim"
+  },
+  "Shalimar Bagh|Srinagar": {
+   "lat": 34.14235556,
+   "lng": 74.86291111,
+   "notes": [],
+   "ref": "Shalimar Bagh, Srinagar",
+   "source": "wikipedia"
+  },
+  "Shaniwar Wada|Pune": {
+   "lat": 18.519075,
+   "lng": 73.85545,
+   "notes": [],
+   "ref": "Shaniwar Wada",
+   "source": "wikipedia"
+  },
+  "Shankar's International Dolls Museum|New Delhi": {
+   "lat": 28.63027778,
+   "lng": 77.24166667,
+   "notes": [],
+   "ref": "Shankar's International Dolls Museum",
+   "source": "wikipedia"
+  },
+  "Sher Shah Suri Tomb|Sasaram": {
+   "lat": 24.9481,
+   "lng": 84.0092,
+   "notes": [],
+   "ref": "Tomb of Sher Shah Suri",
+   "source": "wikipedia"
+  },
+  "Shreemanthi Bai Memorial Government Museum|Mangaluru": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Shri Pratap Singh Museum|Srinagar": {
+   "failed": [
+    "no match"
+   ]
+  },
+  "Sirpur Group of Monuments|Sirpur": {
+   "lat": 21.345225,
+   "lng": 82.184814,
+   "notes": [],
+   "ref": "Sirpur Group of Monuments",
+   "source": "wikipedia"
+  },
+  "Sri Krishna Museum|Kurukshetra": {
+   "lat": 29.9653547,
+   "lng": 76.8343145,
+   "notes": [],
+   "ref": "Shri Krishna Museum, Kurukshetra",
+   "source": "nominatim"
+  },
+  "Sri Venkateswara Museum|Tirupati": {
+   "lat": 13.6839366,
+   "lng": 79.3429999,
+   "notes": [],
+   "ref": "Sri Venkateswara Museum, Tirupati, Andhra Pradesh, India",
+   "source": "nominatim"
+  },
+  "Srikrishna Science Centre|Patna": {
+   "lat": 25.611,
+   "lng": 85.144,
+   "notes": [],
+   "ref": "Shrikrishna Science Centre",
+   "source": "wikidata"
+  },
+  "Srimanta Sankaradeva Kalakshetra|Guwahati": {
+   "lat": 26.1306,
+   "lng": 91.8224,
+   "notes": [],
+   "ref": "Srimanta Sankardev Kalakshetra",
+   "source": "wikipedia"
+  },
+  "St. Angelo Fort|Kannur": {
+   "lat": 11.85416667,
+   "lng": 75.37194444,
+   "notes": [],
+   "ref": "St. Angelo Fort",
+   "source": "wikipedia"
+  },
+  "State Museum, Bhopal|Bhopal": {
+   "lat": 23.247,
+   "lng": 77.3923,
+   "notes": [],
+   "ref": "State Museum, Bhopal",
+   "source": "wikipedia"
+  },
+  "State Museum, Lucknow|Lucknow": {
+   "lat": 26.84527778,
+   "lng": 80.95472222,
+   "notes": [],
+   "ref": "State Museum, Lucknow",
+   "source": "wikipedia"
+  },
+  "Sudha Cars Museum|Hyderabad": {
+   "lat": 17.3569907,
+   "lng": 78.4544072,
+   "notes": [],
+   "ref": "Sudha Cars Museum",
+   "source": "wikidata"
+  },
+  "Sulabh International Museum of Toilets|New Delhi": {
+   "lat": 28.5966,
+   "lng": 77.0808,
+   "notes": [],
+   "ref": "Sulabh International Museum of Toilets",
+   "source": "wikipedia"
+  },
+  "Sun Temple Modhera|Modhera": {
+   "lat": 23.58380556,
+   "lng": 72.13268611,
+   "notes": [],
+   "ref": "Sun Temple, Modhera",
+   "source": "wikipedia"
+  },
+  "Swatantrata Sangram Sangrahalaya|New Delhi": {
+   "lat": 28.656081,
+   "lng": 77.2407959,
+   "notes": [],
+   "ref": "Red Fort, Delhi",
+   "source": "nominatim"
+  },
+  "Taj Mahal|Agra": {
+   "lat": 27.175,
+   "lng": 78.0419,
+   "notes": [],
+   "ref": "Taj Mahal",
+   "source": "wikipedia"
+  },
+  "Talatal Ghar|Sivasagar": {
+   "lat": 26.9663056,
+   "lng": 94.6246917,
+   "notes": [],
+   "ref": "Talatal Ghar",
+   "source": "wikipedia"
+  },
+  "Telangana State Archaeology Museum|Hyderabad": {
+   "lat": 17.39925018,
+   "lng": 78.47031633,
+   "notes": [],
+   "ref": "Telangana State Archaeology Museum",
+   "source": "wikipedia"
+  },
+  "Thanjavur Art Gallery|Thanjavur": {
+   "lat": 10.791781,
+   "lng": 79.1371244,
+   "notes": [],
+   "ref": "Thanjavur Palace",
+   "source": "nominatim"
+  },
+  "Thirumalai Nayakkar Mahal|Madurai": {
+   "lat": 9.9148,
+   "lng": 78.1243,
+   "notes": [],
+   "ref": "Thirumalai Nayakkar Mahal",
+   "source": "wikipedia"
+  },
+  "Tipu Sultan's Summer Palace|Bengaluru": {
+   "lat": 12.95949444,
+   "lng": 77.57357222,
+   "notes": [],
+   "ref": "Tipu Sultan's Summer Palace",
+   "source": "wikipedia"
+  },
+  "Tribal Museum, Bhopal|Bhopal": {
+   "lat": 23.2344,
+   "lng": 77.3848,
+   "notes": [],
+   "ref": "Tribal Museum Bhopal",
+   "source": "wikipedia"
+  },
+  "Tripura State Museum (Ujjayanta Palace)|Agartala": {
+   "lat": 23.8369868,
+   "lng": 91.2827507,
+   "notes": [],
+   "ref": "Ujjayanta Palace, Agartala, Tripura, India",
+   "source": "nominatim"
+  },
+  "Tughlaqabad Fort|New Delhi": {
+   "lat": 28.51194444,
+   "lng": 77.26083333,
+   "notes": [],
+   "ref": "Tughlaqabad Fort",
+   "source": "wikipedia"
+  },
+  "Udayagiri and Khandagiri Caves|Bhubaneswar": {
+   "lat": 20.2628312,
+   "lng": 85.7860297,
+   "notes": [],
+   "ref": "Udayagiri and Khandagiri caves",
+   "source": "wikipedia"
+  },
+  "Umaid Bhawan Palace Museum|Jodhpur": {
+   "lat": 26.2807207,
+   "lng": 73.0477046,
+   "notes": [],
+   "ref": "Umaid Bhawan Palace Museum, Jodhpur, Rajasthan, India",
+   "source": "nominatim"
+  },
+  "Undavalli Caves|Undavalli": {
+   "lat": 16.49687,
+   "lng": 80.58178,
+   "notes": [],
+   "ref": "Undavalli Caves",
+   "source": "wikipedia"
+  },
+  "Vellore Fort|Vellore": {
+   "lat": 12.9208333,
+   "lng": 79.1283333,
+   "notes": [],
+   "ref": "Vellore Fort",
+   "source": "wikipedia"
+  },
+  "Victoria Jubilee Museum|Vijayawada": {
+   "lat": 16.508,
+   "lng": 80.628,
+   "notes": [],
+   "ref": "Bapu Museum, Vijayawada",
+   "source": "wikipedia"
+  },
+  "Victoria Memorial Hall|Kolkata": {
+   "lat": 22.5449,
+   "lng": 88.3425,
+   "notes": [],
+   "ref": "Victoria Memorial, Kolkata",
+   "source": "wikipedia"
+  },
+  "Vikramshila|Antichak": {
+   "lat": 25.3244,
+   "lng": 87.2867,
+   "notes": [],
+   "ref": "Vikramashila",
+   "source": "wikidata"
+  },
+  "Virasat-e-Khalsa|Anandpur Sahib": {
+   "lat": 31.23194444,
+   "lng": 76.5025,
+   "notes": [],
+   "ref": "Virasat-e-Khalsa",
+   "source": "wikipedia"
+  },
+  "Visakha Museum|Visakhapatnam": {
+   "lat": 17.720707,
+   "lng": 83.333831,
+   "notes": [],
+   "ref": "Visakha Museum",
+   "source": "wikipedia"
+  },
+  "Visvesvaraya Industrial & Technological Museum|Bengaluru": {
+   "lat": 12.9751,
+   "lng": 77.5964,
+   "notes": [],
+   "ref": "Visvesvaraya Industrial and Technological Museum",
+   "source": "wikipedia"
+  },
+  "Vivekananda House|Chennai": {
+   "lat": 13.04916667,
+   "lng": 80.28027778,
+   "notes": [],
+   "ref": "Vivekanandar Illam",
+   "source": "wikipedia"
+  },
+  "Warangal Fort|Warangal": {
+   "lat": 17.9564947,
+   "lng": 79.6154251,
+   "notes": [
+    "wikipedia 'Warangal Fort': no coordinates"
+   ],
+   "ref": "Warangal Fort, Warangal, Telangana, India",
+   "source": "nominatim"
+  },
+  "Watson Museum|Rajkot": {
+   "lat": 22.300244,
+   "lng": 70.8019207,
+   "notes": [
+    "wikipedia 'Watson Museum': no coordinates"
+   ],
+   "ref": "Watson Museum, Rajkot, Gujarat, India",
+   "source": "nominatim"
+  }
+ },
+ "wikipedia": {
+  "Aga Khan Palace": {
+   "lat": 18.5523,
+   "lng": 73.9015,
+   "type": "landmark"
+  },
+  "Agra Fort": {
+   "lat": 27.179542,
+   "lng": 78.021101,
+   "type": ""
+  },
+  "Aihole": {
+   "lat": 16.01888889,
+   "lng": 75.88194444,
+   "type": ""
+  },
+  "Ajanta Caves": {
+   "lat": 20.55333333,
+   "lng": 75.70027778,
+   "type": "landmark"
+  },
+  "Akbar's tomb": {
+   "lat": 27.22044,
+   "lng": 77.95031,
+   "type": "landmark"
+  },
+  "Albert Hall Museum": {
+   "lat": 26.91179,
+   "lng": 75.81953,
+   "type": ""
+  },
+  "Allahabad Museum": {
+   "lat": 25.4551,
+   "lng": 81.8462,
+   "type": ""
+  },
+  "Amar Mahal Palace": {
+   "lat": 32.748,
+   "lng": 74.872,
+   "qid": "Q4740023",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Amaravati": {
+   "lat": 16.5131,
+   "lng": 80.5165,
+   "type": ""
+  },
+  "Amber Fort": {
+   "lat": 26.9859,
+   "lng": 75.8507,
+   "type": ""
+  },
+  "Anand Bhavan": {
+   "lat": 25.459376,
+   "lng": 81.8599815,
+   "qid": "Q4751243",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Anokhi Museum of Hand Printing": {
+   "lat": 26.99267,
+   "lng": 75.85079,
+   "type": ""
+  },
+  "Archaeological Museum, Thrissur": {
+   "lat": 10.5303,
+   "lng": 76.2228,
+   "type": ""
+  },
+  "Archaeological Museum, Vijayapura": {
+   "lat": 16.8288232,
+   "lng": 75.7333091,
+   "type": ""
+  },
+  "Assam State Museum": null,
+  "Asutosh Museum of Indian Art": {
+   "lat": 22.5698,
+   "lng": 88.3608,
+   "type": ""
+  },
+  "Badami": {
+   "lat": 15.92,
+   "lng": 75.68027778,
+   "type": ""
+  },
+  "Badami cave temples": {
+   "lat": 15.91833333,
+   "lng": 75.68416667,
+   "type": ""
+  },
+  "Bagore Ki Haveli": {
+   "lat": 24.5796687,
+   "lng": 73.6800357,
+   "type": ""
+  },
+  "Bahu Fort": null,
+  "Bapu Museum, Vijayawada": {
+   "lat": 16.508,
+   "lng": 80.628,
+   "type": ""
+  },
+  "Bara Imambara": {
+   "lat": 26.86916667,
+   "lng": 80.91277778,
+   "type": "landmark"
+  },
+  "Baroda Museum & Picture Gallery": {
+   "lat": 22.3118,
+   "lng": 73.1888,
+   "type": "landmark"
+  },
+  "Bekal Fort": {
+   "lat": 12.39222222,
+   "lng": 75.0325,
+   "type": ""
+  },
+  "Bengaluru Palace": null,
+  "Bhangarh Fort": {
+   "lat": 27.09583333,
+   "lng": 76.2875,
+   "type": "landmark"
+  },
+  "Bharat Kala Bhavan": null,
+  "Bhimbetka rock shelters": {
+   "lat": 22.938415,
+   "lng": 77.613085,
+   "type": ""
+  },
+  "Bibi Ka Maqbara": {
+   "lat": 19.90151,
+   "lng": 75.320195,
+   "type": ""
+  },
+  "Bidar Fort": {
+   "lat": 17.92444444,
+   "lng": 77.52666667,
+   "type": ""
+  },
+  "Bihar Museum": {
+   "lat": 25.6081,
+   "lng": 85.121,
+   "type": ""
+  },
+  "Birla Industrial & Technological Museum": {
+   "lat": 22.53444444,
+   "lng": 88.36361111,
+   "type": ""
+  },
+  "Birla Science Museum": {
+   "lat": 17.40334722,
+   "lng": 78.47064722,
+   "type": ""
+  },
+  "Bodh Gaya": {
+   "lat": 24.695,
+   "lng": 84.9925,
+   "type": ""
+  },
+  "Calico Museum of Textiles": {
+   "lat": 23.05333333,
+   "lng": 72.59222222,
+   "type": ""
+  },
+  "Cellular Jail": {
+   "lat": 11.675,
+   "lng": 92.748,
+   "qid": "Q3345501",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Champaner-Pavagadh Archaeological Park": {
+   "lat": 22.48333333,
+   "lng": 73.53333333,
+   "type": ""
+  },
+  "Chanderi": {
+   "lat": 24.72,
+   "lng": 78.13,
+   "type": ""
+  },
+  "Chandragiri Fort, Andhra Pradesh": {
+   "lat": 13.5825,
+   "lng": 79.30555556,
+   "type": ""
+  },
+  "Charminar": {
+   "lat": 17.36163,
+   "lng": 78.47467,
+   "type": "landmark"
+  },
+  "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya": null,
+  "Chitradurga Fort": null,
+  "Chittor Fort": null,
+  "Chowmahalla Palace": {
+   "lat": 17.358247,
+   "lng": 78.471701,
+   "type": ""
+  },
+  "City Palace, Jaipur": {
+   "lat": 26.9257,
+   "lng": 75.8236,
+   "type": ""
+  },
+  "City Palace, Udaipur": null,
+  "Cooch Behar Palace": {
+   "lat": 26.3269,
+   "lng": 89.4386,
+   "type": ""
+  },
+  "DakshinaChitra": {
+   "lat": 12.822995,
+   "lng": 80.241989,
+   "qid": "Q5210095",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Daulatabad Fort": {
+   "lat": 19.942724,
+   "lng": 75.213164,
+   "type": ""
+  },
+  "Dhamek Stupa": {
+   "lat": 25.3808,
+   "lng": 83.0245,
+   "type": ""
+  },
+  "Dharohar Museum": null,
+  "Dholavira": {
+   "lat": 23.88860556,
+   "lng": 70.21363611,
+   "type": "landmark"
+  },
+  "Diu Fortress": {
+   "lat": 20.714789,
+   "lng": 70.996031,
+   "qid": "Q5283746",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Dogra Art Museum, Jammu": null,
+  "Dr. Bhau Daji Lad Museum": null,
+  "Elephanta Caves": {
+   "lat": 18.96333333,
+   "lng": 72.93138889,
+   "type": "landmark"
+  },
+  "Ellora Caves": {
+   "lat": 20.0268,
+   "lng": 75.1771,
+   "type": ""
+  },
+  "Fatehpur Sikri": {
+   "lat": 27.091,
+   "lng": 77.661,
+   "type": ""
+  },
+  "Forest Research Institute (India)": {
+   "lat": 30.3439,
+   "lng": 77.9994,
+   "type": "edu"
+  },
+  "Fort Aguada": {
+   "lat": 15.488,
+   "lng": 73.763,
+   "type": ""
+  },
+  "Fort Dansborg": null,
+  "Fort St. George": {
+   "lat": 13.079722,
+   "lng": 80.286944,
+   "type": "landmark"
+  },
+  "Gandhi Memorial Museum, Madurai": {
+   "lat": 9.929923,
+   "lng": 78.138593,
+   "type": ""
+  },
+  "Gandhi Smriti": {
+   "lat": 28.6019,
+   "lng": 77.2144,
+   "type": "landmark"
+  },
+  "Gingee Fort": {
+   "lat": 12.2501,
+   "lng": 79.3948,
+   "type": "landmark"
+  },
+  "Goa State Museum": {
+   "lat": 15.495916666666666,
+   "lng": 73.83361111111111,
+   "qid": "Q5575115",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Gobindgarh Fort": null,
+  "Gol Gumbaz": {
+   "lat": 16.83003056,
+   "lng": 75.73609722,
+   "type": ""
+  },
+  "Golconda": {
+   "lat": 17.38305556,
+   "lng": 78.40111111,
+   "type": "landmark"
+  },
+  "Government Museum and Art Gallery, Chandigarh": {
+   "lat": 30.74888889,
+   "lng": 76.7875,
+   "type": ""
+  },
+  "Government Museum, Bengaluru": null,
+  "Government Museum, Chennai": {
+   "lat": 13.0711,
+   "lng": 80.2569,
+   "type": ""
+  },
+  "Government Museum, Mathura": {
+   "lat": 27.4928,
+   "lng": 77.6806,
+   "type": ""
+  },
+  "Group of Monuments at Mahabalipuram": {
+   "lat": 12.6167,
+   "lng": 80.1917,
+   "type": ""
+  },
+  "Gujari Mahal Archaeological Museum": {
+   "lat": 26.234,
+   "lng": 78.17,
+   "type": ""
+  },
+  "Gurusaday Museum": {
+   "lat": 22.45542,
+   "lng": 88.30342,
+   "type": ""
+  },
+  "Gwalior Fort": {
+   "lat": 26.2303,
+   "lng": 78.1689,
+   "type": "landmark"
+  },
+  "HAL Aerospace Museum": {
+   "lat": 12.955431,
+   "lng": 77.681386,
+   "type": ""
+  },
+  "Halebidu": {
+   "lat": 13.2157,
+   "lng": 75.9914,
+   "type": ""
+  },
+  "Hampi": {
+   "lat": 15.33444444,
+   "lng": 76.46222222,
+   "type": ""
+  },
+  "Hampi (town)": {
+   "lat": 15.335,
+   "lng": 76.462,
+   "type": ""
+  },
+  "Hawa Mahal": {
+   "lat": 26.9239,
+   "lng": 75.8267,
+   "type": ""
+  },
+  "Hazarduari Palace": {
+   "lat": 24.1864,
+   "lng": 88.2687,
+   "type": "landmark"
+  },
+  "Hill Palace, Kochi": {
+   "lat": 9.95263889,
+   "lng": 76.36416667,
+   "type": "landmark"
+  },
+  "Himachal State Museum": {
+   "lat": 31.10333333,
+   "lng": 77.15083333,
+   "type": ""
+  },
+  "Himalayan Mountaineering Institute": null,
+  "Humayun's tomb": {
+   "lat": 28.59327778,
+   "lng": 77.25069444,
+   "type": ""
+  },
+  "INA Martyrs' Memorial Complex": {
+   "none": true,
+   "qid": "Q22115599"
+  },
+  "INS Kursura": {
+   "lat": 17.7175,
+   "lng": 83.32944444,
+   "type": ""
+  },
+  "Indian Air Force Museum, Palam": {
+   "lat": 28.57388889,
+   "lng": 77.11694444,
+   "type": "landmark"
+  },
+  "Indian Museum": {
+   "lat": 22.55805556,
+   "lng": 88.35083333,
+   "type": "landmark"
+  },
+  "Indira Gandhi Rashtriya Manav Sangrahalaya": {
+   "lat": 23.232279,
+   "lng": 77.37761,
+   "type": ""
+  },
+  "Indo-Portuguese Museum": {
+   "lat": 9.96288056,
+   "lng": 76.24005278,
+   "type": ""
+  },
+  "Indore Museum": {
+   "lat": 22.7053461,
+   "lng": 75.879301,
+   "type": ""
+  },
+  "Itmad Ud Daulah": {
+   "lat": 27.1925,
+   "lng": 78.03194444,
+   "type": "landmark"
+  },
+  "Jaganmohan Palace": {
+   "lat": 12.3068366,
+   "lng": 76.649861,
+   "type": ""
+  },
+  "Jahangir Mahal, Orchha": {
+   "lat": 25.350697,
+   "lng": 78.644219,
+   "type": ""
+  },
+  "Jahaz Mahal": {
+   "lat": 28.51430278,
+   "lng": 77.17851944,
+   "type": "landmark"
+  },
+  "Jai Vilas Mahal": {
+   "lat": 26.2047,
+   "lng": 78.1686,
+   "type": ""
+  },
+  "Jaigarh Fort": {
+   "lat": 26.9859,
+   "lng": 75.8507,
+   "type": "landmark"
+  },
+  "Jaisalmer Fort": {
+   "lat": 26.9127,
+   "lng": 70.9126,
+   "type": "landmark"
+  },
+  "Jantar Mantar, Jaipur": {
+   "lat": 26.92472,
+   "lng": 75.82444,
+   "type": "landmark"
+  },
+  "Jawaharlal Nehru Museum, Itanagar": {
+   "lat": 27.102036,
+   "lng": 93.625003,
+   "qid": "Q6165984",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Jhansi Fort": {
+   "lat": 25.45809,
+   "lng": 78.57544,
+   "type": "landmark"
+  },
+  "Jorasanko Thakur Bari": {
+   "lat": 22.585,
+   "lng": 88.3592,
+   "type": "landmark"
+  },
+  "Junagarh Fort": null,
+  "Kalibangan": {
+   "lat": 29.47416667,
+   "lng": 74.13027778,
+   "type": "landmark"
+  },
+  "Kangla Fort": {
+   "lat": 24.808,
+   "lng": 93.94,
+   "type": ""
+  },
+  "Kangra Fort": {
+   "lat": 32.08808333,
+   "lng": 76.25777778,
+   "type": ""
+  },
+  "Khajuraho Group of Monuments": {
+   "lat": 24.854422,
+   "lng": 79.921427,
+   "type": ""
+  },
+  "Kiran Nadar Museum of Art": {
+   "lat": 28.52884,
+   "lng": 77.22008,
+   "qid": "Q55616048",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Konark": {
+   "lat": 19.89083333,
+   "lng": 86.10027778,
+   "type": ""
+  },
+  "Konark Sun Temple": {
+   "lat": 19.8875,
+   "lng": 86.09472222,
+   "type": "landmark"
+  },
+  "Kondapur, Sangarreddy": {
+   "lat": 17.5614,
+   "lng": 78.0111,
+   "type": ""
+  },
+  "Krishnapuram Palace": {
+   "lat": 9.15,
+   "lng": 76.50861111,
+   "type": "landmark"
+  },
+  "Kumbhalgarh": {
+   "lat": 25.14888889,
+   "lng": 73.58027778,
+   "type": ""
+  },
+  "Kurukshetra Panorama and Science Centre": null,
+  "Kushinagar": {
+   "lat": 26.741,
+   "lng": 83.888,
+   "type": ""
+  },
+  "Kutch Museum": {
+   "lat": 23.24861111,
+   "lng": 69.66638889,
+   "type": ""
+  },
+  "Kuthiramalika": {
+   "lat": 8.4824,
+   "lng": 76.9455,
+   "qid": "Q3525397",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Lalbhai Dalpatbhai Museum": null,
+  "Lalitagiri": {
+   "lat": 20.5894,
+   "lng": 86.2506,
+   "type": ""
+  },
+  "Leh Palace": {
+   "lat": 34.16628,
+   "lng": 77.58639,
+   "type": ""
+  },
+  "Lothal": {
+   "lat": 22.52138889,
+   "lng": 72.24944444,
+   "type": "landmark"
+  },
+  "Mahant Ghasidas Memorial Museum, Raipur": {
+   "lat": 21.243,
+   "lng": 81.645,
+   "type": ""
+  },
+  "Maharaja Fateh Singh Museum": {
+   "lat": 22.2921,
+   "lng": 73.1938,
+   "type": "landmark"
+  },
+  "Mani Bhavan": {
+   "lat": 18.95993,
+   "lng": 72.81137,
+   "type": "landmark"
+  },
+  "Manipur State Museum": {
+   "lat": 24.8049,
+   "lng": 93.9371,
+   "type": "landmark"
+  },
+  "Mattancherry Palace": {
+   "lat": 9.958,
+   "lng": 76.259,
+   "type": ""
+  },
+  "Mehrangarh": {
+   "lat": 26.29805556,
+   "lng": 73.01888889,
+   "type": "landmark"
+  },
+  "Mizoram State Museum": {
+   "lat": 23.7381,
+   "lng": 92.7156,
+   "type": ""
+  },
+  "Museo Camera": {
+   "lat": 28.46969,
+   "lng": 77.08042,
+   "type": ""
+  },
+  "Mysore Palace": {
+   "lat": 12.30388889,
+   "lng": 76.65444444,
+   "type": "landmark"
+  },
+  "Nagaland State Museum": {
+   "lat": 25.685,
+   "lng": 94.1049,
+   "type": ""
+  },
+  "Nagarjunakonda": {
+   "lat": 16.52189444,
+   "lng": 79.24285,
+   "type": ""
+  },
+  "Nahargarh Fort": {
+   "lat": 26.937255,
+   "lng": 75.81549,
+   "type": ""
+  },
+  "Nalanda mahavihara": {
+   "lat": 25.136797222222,
+   "lng": 85.443827777778,
+   "qid": "Q216243",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Namgyal Institute of Tibetology": {
+   "lat": 27.3159,
+   "lng": 88.6047,
+   "type": ""
+  },
+  "Napier Museum": null,
+  "National Gallery of Modern Art": {
+   "lat": 28.610182,
+   "lng": 77.234401,
+   "type": ""
+  },
+  "National Gallery of Modern Art, Bengaluru": null,
+  "National Gallery of Modern Art, Mumbai": {
+   "lat": 18.9258,
+   "lng": 72.8313,
+   "type": "landmark"
+  },
+  "National Gandhi Museum": {
+   "lat": 29.07444444,
+   "lng": 77.41611111,
+   "type": "landmark"
+  },
+  "National Handicrafts and Handlooms Museum": {
+   "lat": 28.613551,
+   "lng": 77.24232,
+   "qid": "Q3630755",
+   "type": "",
+   "via": "wikidata"
+  },
+  "National Museum of India": {
+   "lat": 28.611811,
+   "lng": 77.219262,
+   "type": ""
+  },
+  "National Philatelic Museum, New Delhi": {
+   "lat": 28.6226256,
+   "lng": 77.2134148,
+   "type": ""
+  },
+  "National Rail Museum, New Delhi": {
+   "lat": 28.58472222,
+   "lng": 77.18138889,
+   "type": "landmark"
+  },
+  "National Salt Satyagraha Memorial": {
+   "lat": 20.89138889,
+   "lng": 72.79972222,
+   "type": ""
+  },
+  "National Science Centre, Delhi": {
+   "lat": 28.61415,
+   "lng": 77.24477,
+   "qid": "Q6978272",
+   "type": "",
+   "via": "wikidata"
+  },
+  "National War Memorial (India)": {
+   "lat": 28.612772,
+   "lng": 77.233053,
+   "type": ""
+  },
+  "Naval Aviation Museum (Goa)": {
+   "lat": 15.374743,
+   "lng": 73.838543,
+   "type": ""
+  },
+  "Neermahal": null,
+  "Nehru Science Centre": null,
+  "Netaji Bhawan": {
+   "lat": 22.53758333,
+   "lng": 88.35125,
+   "type": ""
+  },
+  "New Palace, Kolhapur": {
+   "lat": 16.718735,
+   "lng": 74.233344,
+   "type": ""
+  },
+  "Odisha State Museum": {
+   "lat": 20.2562,
+   "lng": 85.8415,
+   "type": "landmark"
+  },
+  "Old Goa": {
+   "lat": 15.503,
+   "lng": 73.912,
+   "type": ""
+  },
+  "Padmanabhapuram Palace": {
+   "lat": 8.250916,
+   "lng": 77.326702,
+   "type": ""
+  },
+  "Palamu fort": {
+   "lat": 23.8946,
+   "lng": 84.2328,
+   "type": ""
+  },
+  "Pari Mahal": {
+   "lat": 34.08098,
+   "lng": 74.87714,
+   "type": "landmark"
+  },
+  "Partition Museum": null,
+  "Patna Museum": null,
+  "Pattadakal": {
+   "lat": 15.95138889,
+   "lng": 75.81472222,
+   "type": ""
+  },
+  "Pazhassi Raja Archaeological Museum": {
+   "lat": 11.2925,
+   "lng": 75.7781,
+   "type": "landmark"
+  },
+  "Pondicherry Museum": {
+   "lat": 11.93482429,
+   "lng": 79.8340346,
+   "type": ""
+  },
+  "Prime Ministers' Museum and Library": {
+   "lat": 28.602608,
+   "lng": 77.198774,
+   "qid": "Q619713",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Purana Qila": {
+   "lat": 28.60944444,
+   "lng": 77.24416667,
+   "type": "landmark"
+  },
+  "Qila Mubarak, Bathinda": {
+   "lat": 30.20805556,
+   "lng": 74.9375,
+   "type": ""
+  },
+  "Qutb Minar": {
+   "lat": 28.524355,
+   "lng": 77.185248,
+   "type": "landmark"
+  },
+  "Qutb Shahi tombs": {
+   "lat": 17.395,
+   "lng": 78.396,
+   "type": "landmark"
+  },
+  "Rabdentse": {
+   "lat": 27.30111111,
+   "lng": 88.25388889,
+   "type": ""
+  },
+  "Raigad Fort": {
+   "lat": 18.2335,
+   "lng": 73.4406,
+   "type": "landmark"
+  },
+  "Raja Dinkar Kelkar Museum": {
+   "lat": 18.51083333,
+   "lng": 73.85444444,
+   "type": "landmark"
+  },
+  "Ram Bagh, Amritsar": null,
+  "Ramappa Temple": {
+   "lat": 18.25916667,
+   "lng": 79.94333333,
+   "type": ""
+  },
+  "Ramnagar Fort": null,
+  "Rang Ghar": {
+   "lat": 26.967,
+   "lng": 94.619,
+   "type": ""
+  },
+  "Rani ki Vav": {
+   "lat": 23.85888889,
+   "lng": 72.10166667,
+   "type": "landmark"
+  },
+  "Ranthambore Fort": {
+   "lat": 26.02027778,
+   "lng": 76.455,
+   "type": "landmark"
+  },
+  "Rashtrapati Niwas": {
+   "lat": 31.10373,
+   "lng": 77.141887,
+   "type": "landmark"
+  },
+  "Ratnagiri, Odisha": {
+   "lat": 20.6412,
+   "lng": 86.3353,
+   "type": ""
+  },
+  "Red Fort": {
+   "lat": 28.65583333,
+   "lng": 77.24083333,
+   "type": ""
+  },
+  "Regional Museum of Natural History, Bhubaneswar": {
+   "lat": 20.299611,
+   "lng": 85.832063,
+   "type": ""
+  },
+  "Ross Island, South Andaman district": {
+   "lat": 11.675,
+   "lng": 92.763,
+   "type": "isle"
+  },
+  "Rupnagar": {
+   "lat": 30.96666667,
+   "lng": 76.52361111,
+   "type": ""
+  },
+  "Sabarmati Ashram": null,
+  "Salar Jung Museum": {
+   "lat": 17.371426,
+   "lng": 78.480347,
+   "type": "landmark"
+  },
+  "Samudrika Naval Marine Museum": {
+   "lat": 11.672,
+   "lng": 92.726,
+   "type": ""
+  },
+  "Sanchi Archaeological Museum": {
+   "lat": 23.47941,
+   "lng": 77.739616,
+   "type": ""
+  },
+  "Sanchi Stupa": {
+   "lat": 23.479223,
+   "lng": 77.739683,
+   "type": ""
+  },
+  "Sanghol Museum": {
+   "lat": 30.7902,
+   "lng": 76.4012,
+   "type": ""
+  },
+  "Saraswathi Mahal Library": {
+   "lat": 10.79138889,
+   "lng": 79.13611111,
+   "type": ""
+  },
+  "Sardar Vallabhbhai Patel National Memorial": {
+   "lat": 23.061,
+   "lng": 72.591,
+   "type": "landmark"
+  },
+  "Sarnath Museum": {
+   "lat": 25.379601,
+   "lng": 83.023081,
+   "type": "landmark"
+  },
+  "Science City, Kolkata": {
+   "lat": 22.54055556,
+   "lng": 88.39583333,
+   "type": ""
+  },
+  "Shalimar Bagh, Srinagar": {
+   "lat": 34.14235556,
+   "lng": 74.86291111,
+   "type": "landmark"
+  },
+  "Shaniwar Wada": {
+   "lat": 18.519075,
+   "lng": 73.85545,
+   "type": ""
+  },
+  "Shankar's International Dolls Museum": {
+   "lat": 28.63027778,
+   "lng": 77.24166667,
+   "type": "landmark"
+  },
+  "Shrikrishna Science Centre": {
+   "lat": 25.611,
+   "lng": 85.144,
+   "qid": "Q7586402",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Sirpur Group of Monuments": {
+   "lat": 21.345225,
+   "lng": 82.184814,
+   "type": ""
+  },
+  "Srimanta Sankardev Kalakshetra": {
+   "lat": 26.1306,
+   "lng": 91.8224,
+   "type": ""
+  },
+  "St. Angelo Fort": {
+   "lat": 11.85416667,
+   "lng": 75.37194444,
+   "type": ""
+  },
+  "State Museum, Bhopal": {
+   "lat": 23.247,
+   "lng": 77.3923,
+   "type": ""
+  },
+  "State Museum, Lucknow": {
+   "lat": 26.84527778,
+   "lng": 80.95472222,
+   "type": ""
+  },
+  "State Museum, Ranchi": {
+   "lat": 23.383536111111,
+   "lng": 85.385455555556,
+   "qid": "Q23808358",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Sudha Cars Museum": {
+   "lat": 17.3569907,
+   "lng": 78.4544072,
+   "qid": "Q26700417",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Sulabh International Museum of Toilets": {
+   "lat": 28.5966,
+   "lng": 77.0808,
+   "type": ""
+  },
+  "Sun Temple, Modhera": {
+   "lat": 23.58380556,
+   "lng": 72.13268611,
+   "type": ""
+  },
+  "Taj Mahal": {
+   "lat": 27.175,
+   "lng": 78.0419,
+   "type": "landmark"
+  },
+  "Talatal Ghar": {
+   "lat": 26.9663056,
+   "lng": 94.6246917,
+   "type": ""
+  },
+  "Telangana State Archaeology Museum": {
+   "lat": 17.39925018,
+   "lng": 78.47031633,
+   "type": ""
+  },
+  "Temples of Bishnupur": {
+   "lat": 23.075,
+   "lng": 87.317,
+   "type": ""
+  },
+  "The Nizam's Museum": {
+   "lat": 17.36649,
+   "lng": 78.48285,
+   "type": ""
+  },
+  "The Residency, Lucknow": {
+   "lat": 26.8618,
+   "lng": 80.9257,
+   "type": "landmark"
+  },
+  "Thirumalai Nayakkar Mahal": {
+   "lat": 9.9148,
+   "lng": 78.1243,
+   "type": "landmark"
+  },
+  "Tipu Sultan's Summer Palace": {
+   "lat": 12.95949444,
+   "lng": 77.57357222,
+   "type": "landmark"
+  },
+  "Tomb of Safdar Jang": {
+   "lat": 28.5893,
+   "lng": 77.2106,
+   "type": ""
+  },
+  "Tomb of Sher Shah Suri": {
+   "lat": 24.9481,
+   "lng": 84.0092,
+   "type": ""
+  },
+  "Tribal Museum Bhopal": {
+   "lat": 23.2344,
+   "lng": 77.3848,
+   "type": "landmark"
+  },
+  "Tribal Research Institute Museum": {
+   "lat": 20.2562,
+   "lng": 85.8415,
+   "type": "landmark"
+  },
+  "Tughlaqabad Fort": {
+   "lat": 28.51194444,
+   "lng": 77.26083333,
+   "type": ""
+  },
+  "Udayagiri and Khandagiri caves": {
+   "lat": 20.2628312,
+   "lng": 85.7860297,
+   "type": ""
+  },
+  "Ujjayanta Palace": {
+   "lat": 23.8374,
+   "lng": 91.2827,
+   "type": ""
+  },
+  "Umaid Bhawan Palace": {
+   "lat": 26.28083333,
+   "lng": 73.04694444,
+   "type": "landmark"
+  },
+  "Undavalli Caves": {
+   "lat": 16.49687,
+   "lng": 80.58178,
+   "type": "landmark"
+  },
+  "Vaishali (ancient city)": {
+   "lat": 26.0137,
+   "lng": 85.109,
+   "type": ""
+  },
+  "Vellore Fort": {
+   "lat": 12.9208333,
+   "lng": 79.1283333,
+   "type": "landmark"
+  },
+  "Victoria Memorial, Kolkata": {
+   "lat": 22.5449,
+   "lng": 88.3425,
+   "type": ""
+  },
+  "Vikramashila": {
+   "lat": 25.3244,
+   "lng": 87.2867,
+   "qid": "Q1634624",
+   "type": "",
+   "via": "wikidata"
+  },
+  "Virasat-e-Khalsa": {
+   "lat": 31.23194444,
+   "lng": 76.5025,
+   "type": ""
+  },
+  "Visakha Museum": {
+   "lat": 17.720707,
+   "lng": 83.333831,
+   "type": ""
+  },
+  "Visvesvaraya Industrial and Technological Museum": {
+   "lat": 12.9751,
+   "lng": 77.5964,
+   "type": "landmark"
+  },
+  "Vivekanandar Illam": {
+   "lat": 13.04916667,
+   "lng": 80.28027778,
+   "type": "landmark"
+  },
+  "Warangal Fort": null,
+  "Watson Museum": null,
+  "Yadavindra Gardens": {
+   "lat": 30.79330556,
+   "lng": 76.91329167,
+   "type": "landmark"
+  }
+ }
+}

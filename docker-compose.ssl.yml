@@ -1,0 +1,11 @@
+# HTTPS for the "frontend" nginx (Let's Encrypt certificate in /etc/letsencrypt/live/$DOMAIN/).
+# deploy/install.sh turns this on by writing to the root .env file:
+#   DOMAIN=tickets.example.in
+#   COMPOSE_FILE=docker-compose.yml:docker-compose.ssl.yml
+# so every plain `docker compose ...` command includes it.
+services:
+  frontend:
+    environment:
+      DOMAIN: ${DOMAIN:?set DOMAIN in the root .env}
+    volumes:
+      - ./deploy/docker/nginx-ssl.conf.template:/etc/nginx/templates/default.conf.template:ro

@@ -1,0 +1,28 @@
+{% extends "notifications/base_email.html" %}
+{% block title %}Class trip {{ trip.reference }}{% endblock %}
+{% block content %}
+<p style="margin:0 0 12px;">Dear {{ school.contact_name }},</p>
+{% if approved %}
+<p style="margin:0 0 12px;">Good news: your class trip to <strong>{{ trip.museum.name }}</strong>, {{ trip.museum.city.name }} has been <strong style="color:#15803d;">approved</strong>.</p>
+<table role="presentation" cellpadding="6" cellspacing="0" style="border-collapse:collapse;font-size:14px;margin:0 0 16px;">
+  <tr><td style="color:#64748b;">Request</td><td>{{ trip.reference }}</td></tr>
+  <tr><td style="color:#64748b;">School</td><td>{{ school.name }}</td></tr>
+  <tr><td style="color:#64748b;">Visit date</td><td><strong>{{ trip.approved_date|date:"l, j F Y" }}</strong></td></tr>
+  {% if booking.slot %}<tr><td style="color:#64748b;">Entry slot</td><td>{{ booking.slot.start_time|time:"H:i" }} - {{ booking.slot.end_time|time:"H:i" }}</td></tr>{% endif %}
+  <tr><td style="color:#64748b;">Class</td><td>{{ trip.grades }}: {{ trip.students }} students, {{ trip.teachers }} teacher(s){% if trip.helpers %}, {{ trip.helpers }} helper(s){% endif %}</td></tr>
+  <tr><td style="color:#64748b;">Booking</td><td style="font-family:monospace;">{{ booking.reference }}</td></tr>
+  <tr><td style="color:#64748b;">Amount</td><td><strong>&#8377;{{ trip.quoted_amount|floatformat:0 }}</strong></td></tr>
+</table>
+{% if trip.staff_note %}<p style="margin:0 0 12px;background:#f8fafc;border-left:3px solid #0277bd;padding:8px 12px;">{{ trip.staff_note|linebreaksbr }}</p>{% endif %}
+{% if needs_payment %}
+<p style="margin:0 0 12px;">Please pay by <strong>{{ booking.pay_by|date:"j M Y, H:i" }}</strong> to keep the seats. The whole class enters on one QR ticket.</p>
+<p style="margin:0 0 16px;"><a href="{{ checkout_url }}" style="background:#f57c00;color:#ffffff;text-decoration:none;padding:10px 18px;border-radius:6px;display:inline-block;font-weight:bold;">Pay now</a></p>
+{% else %}
+<p style="margin:0 0 16px;">Nothing to pay. Your class ticket is ready: <a href="{{ ticket_url }}" style="color:#0277bd;">view the ticket</a>.</p>
+{% endif %}
+{% else %}
+<p style="margin:0 0 12px;">We are sorry: your class trip request <strong>{{ trip.reference }}</strong> to <strong>{{ trip.museum.name }}</strong> could not be approved.</p>
+{% if trip.staff_note %}<p style="margin:0 0 12px;background:#f8fafc;border-left:3px solid #dc2626;padding:8px 12px;"><strong>Reason:</strong> {{ trip.staff_note|linebreaksbr }}</p>{% endif %}
+<p style="margin:0 0 16px;">You can plan another date from the <a href="{{ portal_url }}" style="color:#0277bd;">school trip portal</a>.</p>
+{% endif %}
+{% endblock %}

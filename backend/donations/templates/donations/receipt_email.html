@@ -1,0 +1,22 @@
+{% extends "notifications/base_email.html" %}
+{% block title %}Donation receipt {{ donation.receipt_number }}{% endblock %}
+{% block content %}
+<p style="margin:0 0 12px;">Dear {{ donation.donor_name }},</p>
+<p style="margin:0 0 16px;">Thank you for supporting India's heritage. We have received your donation.</p>
+<table role="presentation" cellpadding="6" cellspacing="0" style="width:100%;border-collapse:collapse;font-size:14px;">
+  <tr><td style="color:#64748b;">Receipt number</td><td><strong>{{ donation.receipt_number }}</strong></td></tr>
+  <tr><td style="color:#64748b;">Date</td><td>{{ donation.paid_at|date:"d M Y" }}</td></tr>
+  <tr><td style="color:#64748b;">Amount</td><td><strong>&#8377;{{ donation.amount }}</strong><br><span style="font-size:12px;">{{ amount_words }}</span></td></tr>
+  <tr><td style="color:#64748b;">For</td><td>{{ donation.purpose }}</td></tr>
+  <tr><td style="color:#64748b;">Payment reference</td><td>{{ donation.payment_id }}</td></tr>
+</table>
+{% if donation.is_80g_eligible %}
+<p style="margin:16px 0 0;padding:12px;background:#fff7ed;border-left:4px solid #f57c00;font-size:13px;">
+  This donation is eligible for deduction under section 80G of the Income-tax Act, 1961.
+  Donor PAN: {{ donation.donor_pan }}.<br>
+  {{ trust_name }} &middot; PAN {{ trust_pan }} &middot; 80G registration {{ registration_80g }}
+</p>
+{% endif %}
+<p style="margin:20px 0 0;"><a href="{{ receipt_url }}" style="background:#f57c00;color:#ffffff;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:bold;">View and print receipt</a></p>
+<p style="margin:20px 0 0;">With gratitude,<br>{{ trust_name }}</p>
+{% endblock %}

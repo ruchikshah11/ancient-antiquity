@@ -1,0 +1,7 @@
+Namaste,
+
+Your Ancient Antiquity sign-in code is: {{ code }}
+
+It expires in {{ minutes }} minutes and can be used once. If you did not try to sign in, you can ignore this email; nobody can sign in without the code.
+
+Ancient Antiquity
